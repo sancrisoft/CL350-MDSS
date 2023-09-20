@@ -1,0 +1,12 @@
+node_modules
+builds/desktop/css/*.*
+builds/desktop/graphics/*.*
+builds/desktop/js/*.*
+builds/desktop/data/*.*
+builds/web/css/*.*
+builds/web/graphics/*.*
+builds/web/js/*.*
+builds/web/data/*.*
+builds/
+
+.vscode/

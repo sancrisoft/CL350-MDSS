@@ -1,0 +1,2577 @@
+     LRU FAULT MESSAGE LISTING
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+AC ARINC SYS     |   1   | FAILED        |AIRCRAFT ARINC SYSTEM    |  3 
+AC ARINC SYS     |   2   | FAILED        |AIRCRAFT ARINC SYSTEM    |  3 
+AC BLEED SYS     |   1   | FAILED        |AIRCRAFT BLEED SYSTEM    |  3 
+AC BLEED SYS     |   2   | FAILED        |AIRCRAFT BLEED SYSTEM    |  3 
+L ENG AC POWER   |   1   | FAILED/WIRING |AIRCRAFT POWER 1A        |  3 
+L ENG AC POWER   |   2   | FAILED/WIRING |AIRCRAFT POWER 1B        |  3 
+R ENG AC POWER   |   1   | FAILED/WIRING |AIRCRAFT POWER 1A        |  3 
+R ENG AC POWER   |   2   | FAILED/WIRING |AIRCRAFT POWER 1B        |  3 
+ADC 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+ADC 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+ADC 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+ADC 1            |   3   | FAILED        |CONFIG STRAPS INVALID    | 15 
+ADC 1            |   4   | FAILED/WIRING |NO L-ADC-1 BUS OUTPUT    | 10 
+ADC 1            |   5   | FAILED/WIRING |NO L-ADC-1 BUS OUTPUT    | 10 
+ADC 1            |   6   | FAILED/WIRING |NO L-ADC-2 BUS OUTPUT    | 10 
+ADC 1            |   7   | FAILED/WIRING |NO L-ADC-3 BUS OUTPUT    | 10 
+ADC 1            |   8   | FAILED/WIRING |NO L-ADC-6 BUS OUTPUT    | 10 
+ADC 1            |   9   | FAILED/WIRING |INTERNAL FAULT           | 10 
+ADC 1            |  10   | FAILED/WIRING |NO L-GP-1 BUS INPUT      | 10 
+ADC 1            |  11   | FAILED/WIRING |TEMP PROBE I/O CIRCUIT   |  5 
+ADC 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+ADC 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+ADC 2            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+ADC 2            |   3   | FAILED        |CONFIG STRAPS INVALID    | 15 
+ADC 2            |   4   | FAILED/WIRING |NO R-ADC-1 BUS OUTPUT    | 10 
+ADC 2            |   5   | FAILED/WIRING |NO R-ADC-1 BUS OUTPUT    | 10 
+ADC 2            |   6   | FAILED/WIRING |NO R-ADC-2 BUS OUTPUT    | 10 
+ADC 2            |   7   | FAILED/WIRING |NO R-ADC-3 BUS OUTPUT    | 10 
+ADC 2            |   8   | FAILED/WIRING |NO R-ADC-6 BUS OUTPUT    | 10 
+ADC 2            |   9   | FAILED/WIRING |INTERNAL FAULT           | 10 
+ADC 2            |  10   | FAILED/WIRING |NO R-GP-1 BUS INPUT      | 10 
+ADC 2            |  11   | FAILED/WIRING |TEMP PROBE I/O CIRCUIT   |  5 
+APU GEN GCU      |   1   | FAILED        |FAULT                    |  3 
+APU GEN PWR MDL  |   1   | FAILED        |FAULT                    |  3 
+AHC 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+AHC 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+AHC 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+AHC 1            |   3   | FAILED        |INTERNAL FAULT           | 15 
+AHC 1            |   4   | FAILED/WIRING |NO L-AHC-1 BUS OUTPUT    | 10 
+AHC 1            |   5   | FAILED/WIRING |NO L-AHC-2 BUS OUTPUT    | 10 
+AHC 1            |   6   | FAILED/WIRING |NO L-AHC-2 BUS OUTPUT    | 12 
+AHC 1            |   7   | FAILED/WIRING |NO L-AHC-2 BUS OUTPUT    | 12 
+AHC 1            |   8   | FAILED/WIRING |NO L-AHC-3 BUS OUTPUT    | 10 
+AHC 1            |   9   | FAILED/WIRING |NO L-AHC-3 BUS OUTPUT    | 12 
+AHC 1            |  10   | FAILED/WIRING |NO L-AHC-3 BUS OUTPUT    | 12 
+AHC 1            |  11   | FAILED/WIRING |NO L-AHC-4 BUS OUTPUT    | 10 
+AHC 1            |  12   | FAILED/WIRING |NO L-ADC-1 BUS INPUT     | 10 
+AHC 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+AHC 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+AHC 2            |   2   | FAILED        |INTERNAL FAULT           | 15 
+AHC 2            |   3   | FAILED/WIRING |NO R-AHC-1 BUS OUTPUT    | 10 
+AHC 2            |   4   | FAILED/WIRING |NO R-AHC-2 BUS OUTPUT    | 10 
+AHC 2            |   5   | FAILED/WIRING |NO R-AHC-2 BUS OUTPUT    | 12 
+AHC 2            |   6   | FAILED/WIRING |NO R-AHC-2 BUS OUTPUT    | 12 
+AHC 2            |   7   | FAILED/WIRING |NO R-AHC-3 BUS OUTPUT    | 10 
+AHC 2            |   8   | FAILED/WIRING |NO R-AHC-3 BUS OUTPUT    | 12 
+AHC 2            |   9   | FAILED/WIRING |NO R-AHC-3 BUS OUTPUT    | 12 
+AHC 2            |  10   | FAILED/WIRING |NO R-AHC-4 BUS OUTPUT    | 10 
+AHC 2            |  11   | FAILED/WIRING |NO R-ADC-1 BUS INPUT     | 10 
+AHC 2            |  12   | FAILED/WIRING |NO R-AHC-1 BUS OUTPUT    | 10 
+L ENG AI PRES    |   1   | FAILED/WIRING |A/I PRESSURE SENSOR 1A   |  3 
+L ENG AI PRES    |   2   | FAILED/WIRING |A/I PRESSURE SENSOR 1B   |  3 
+L ENG AI PRES    |   3   | FAILED        |A/I PRESSURE SENSOR 4    |  3 
+R ENG AI PRES    |   1   | FAILED/WIRING |A/I PRESSURE SENSOR 1A   |  3 
+R ENG AI PRES    |   2   | FAILED/WIRING |A/I PRESSURE SENSOR 1B   |  3 
+R ENG AI PRES    |   3   | FAILED        |A/I PRESSURE SENSOR 4    |  3 
+ANTI-ICE PANEL   |   1   | FAILED/WIRING |ANTI-ICE COMMAND 1A      |  3 
+ANTI-ICE PANEL   |   2   | FAILED/WIRING |ANTI-ICE COMMAND 1B      |  3 
+ANTI-ICE PANEL   |   3   | FAILED/WIRING |ANTI-ICE COMMAND 1A      |  3 
+ANTI-ICE PANEL   |   4   | FAILED/WIRING |ANTI-ICE COMMAND 1B      |  3 
+L ENG AI VALVE   |   1   | FAILED/WIRING |A/I CONTROL VALVE 1A     |  3 
+L ENG AI VALVE   |   2   | FAILED/WIRING |A/I CONTROL VALVE 1B     |  3 
+L ENG AI VALVE   |   3   | FAILED        |A/I CONTROL VALVE 4      |  3 
+L ENG AI VALVE   |   4   | FAILED        |A/I CONTROL VALVE 5      |  3 
+L ENG AI VALVE   |   5   | FAILED        |A/I CONTROL VALVE 6      |  3 
+L ENG AI VALVE   |   6   | FAILED        |A/I CONTROL VALVE 7      |  3 
+L ENG AI VALVE   |   7   | FAILED        |A/I CONTROL VALVE 8      |  3 
+R ENG AI VALVE   |   1   | FAILED/WIRING |A/I CONTROL VALVE 1A     |  3 
+R ENG AI VALVE   |   2   | FAILED/WIRING |A/I CONTROL VALVE 1B     |  3 
+R ENG AI VALVE   |   3   | FAILED        |A/I CONTROL VALVE 4      |  3 
+R ENG AI VALVE   |   4   | FAILED        |A/I CONTROL VALVE 5      |  3 
+R ENG AI VALVE   |   5   | FAILED        |A/I CONTROL VALVE 6      |  3 
+R ENG AI VALVE   |   6   | FAILED        |A/I CONTROL VALVE 7      |  3 
+R ENG AI VALVE   |   7   | FAILED        |A/I CONTROL VALVE 8      |  3 
+APU LOGIC PCB    |   1   | FAILED/WIRING |FAULT                    |  3 
+APU START FUSE   |   1   | FAILED/WIRING |FUSE BLOWN               |  3 
+APU ECU          |   1   | FAILED/WIRING |NO APU ECU-1 BUS TO RDC  | 15 
+APU ECU          |   2   | FAILED        |APU S/D-ECU FAIL         |  3 
+APU ECU          |   3   | FAILED        |INTERNAL FAULT           |  3 
+APU ECU          |   6   | FAILED/WIRING |NO R-GP-4 IOC BUS INPUT  |  3 
+APU IGNIT UNIT   |   1   | FAILED/WIRING |OPN/SHRT IGN EXCITER     |  3 
+APU LO OIL PR SW |   1   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+APU FUEL SOV     |   1   | FAILED        |FUEL SOV FAIL TO CLOSE   |  3 
+APU LD CTRL VLV  |   1   | FAILED        |FAIL TO CLOSE            |  3 
+APU LD CTRL VLV  |   2   | FAILED/WIRING |OPN/SHRT TORQUE MOTOR    |  3 
+APU LD CTRL VLV  |   3   | FAILED        |FAIL TO OPEN             |  3 
+APU SURGE CV     |   1   | FAILED/WIRING |OPN/SHRT SOLENOID        |  3 
+APU START MOTOR  |   2   | LRU OK / INFO |SHORT/LO PWR INPUT       |  3 
+APU SPEED SNSR   |   1   | FAILED/WIRING |OPEN/SHORT CIRCUIT       |  3 
+APU SPEED SNSR   |   2   | FAILED        |LOW AMPLITUDE            |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+APU EGT SENSOR   |   1   | FAILED/WIRING |OPN/SHRT CH1&2           |  3 
+START CONTACTOR  |   1   | FAILED        |NOT DISENGAGED           |  3 
+APU GENERATOR    |   1   | FAILED        |INTERNAL FAULT           |  3 
+APU              |   1   | FAILED        |S/D-OVERSPEED            |  3 
+APU              |   2   | FAILED        |S/D-LOST OVSP PROTECTION |  3 
+APU              |   3   | FAILED        |S/D-EMERGENCY SW/FIRE    |  3 
+APU              |   4   | FAILED        |S/D-NO CRANK             |  3 
+APU              |   5   | FAILED        |S/D-NO LIGHTOFF          |  3 
+APU              |   6   | FAILED        |S/D-SLOW START COND1     |  3 
+APU              |   7   | FAILED        |S/D-SLOW START COND2     |  3 
+APU              |   8   | FAILED        |S/D-NO ACCEL, HUNG START |  3 
+APU              |   9   | FAILED        |S/D-SPEED ROLLBACK       |  3 
+APU              |  10   | FAILED        |OIL PRESS LOW            |  3 
+APU              |  11   | FAILED        |EGT OVERTEMP             |  3 
+APU              |  12   | FAILED        |OIL TEMP HIGH            |  3 
+APU              |  13   | FAILED        |BLEED REVERSE FLOW       |  3 
+APU              |  14   | FAILED        |UNDERSPEED               |  3 
+L ENG ARINC      |   1   | FAILED/WIRING |ARINC RECEIVER ARI-1A    |  3 
+L ENG ARINC      |   2   | FAILED/WIRING |ARINC RECEIVER ARI-1B    |  3 
+L ENG ARINC      |   3   | FAILED/WIRING |ARINC RECEIVER ARI-3A    |  3 
+L ENG ARINC      |   4   | FAILED/WIRING |ARINC RECIEVER ARI-3B    |  3 
+R ENG ARINC      |   1   | FAILED/WIRING |ARINC RECEIVER ARI-1A    |  3 
+R ENG ARINC      |   2   | FAILED/WIRING |ARINC RECEIVER ARI-1B    |  3 
+R ENG ARINC      |   3   | FAILED/WIRING |ARINC RECEIVER ARI-3A    |  3 
+R ENG ARINC      |   4   | FAILED/WIRING |ARINC RECIEVER ARI-3B    |  3 
+AIR SUPPLY OVHT  |   1   | OVERHEAT      |TRIM AIR SUPPLY OVERHEAT |  5 
+L ENG STARTER    |   1   | FAILED/WIRING |STARTER CONTROL VALVE 1A |  3 
+L ENG STARTER    |   2   | FAILED/WIRING |STARTER CONTROL VALVE 1B |  3 
+L ENG STARTER    |   3   | FAILED        |STARTER CONTROL VALVE 4  |  3 
+L ENG STARTER    |   4   | FAILED        |STARTER CONTROL VALVE 5  |  3 
+L ENG STARTER    |   5   | FAILED        |STARTER CONTROL VALVE 6  |  3 
+L ENG STARTER    |   6   | FAILED        |STARTER CONTROL VALVE 7  |  3 
+R ENG STARTER    |   1   | FAILED/WIRING |STARTER CONTROL VALVE 1A |  3 
+R ENG STARTER    |   2   | FAILED/WIRING |STARTER CONTROL VALVE 1B |  3 
+R ENG STARTER    |   3   | FAILED        |STARTER CONTROL VALVE 4  |  3 
+R ENG STARTER    |   4   | FAILED        |STARTER CONTROL VALVE 5  |  3 
+R ENG STARTER    |   5   | FAILED        |STARTER CONTROL VALVE 6  |  3 
+R ENG STARTER    |   6   | FAILED        |STARTER CONTROL VALVE 7  |  3 
+AVIONICS FAN     |   1   | FAILED/WIRING |FAILED OFF               |  5 
+AVIONICS VALVE   |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+AVIONICS VALVE   |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+AVIONICS T SNSR1 |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+AVIONICS T SNSR1 |   2   | FAILED/WIRING |CH A FAULT               |  7 
+AVIONICS T SNSR1 |   3   | FAILED/WIRING |CH B FAULT               |  7 
+AVIONICS T SNSR2 |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+AVIONICS T SNSR2 |   2   | FAILED/WIRING |CH A FAULT               |  7 
+AVIONICS T SNSR2 |   3   | FAILED/WIRING |CH B FAULT               |  7 
+BRAKE CTRL UNIT  |   1   | OFF/NO OUTPUT |NO BCU ARINC OUT         |  3 
+BRAKE CTRL UNIT  |   2   | FAILED        |INBOARD BRAKE FAIL       |  3 
+BRAKE CTRL UNIT  |   3   | FAILED        |OUTBOARD BRAKE FAIL      |  3 
+BRAKE CTRL UNIT  |   4   | FAILED/WIRING |NO BCU-A (IB) BUS OUTPUT |  5 
+BRAKE CTRL UNIT  |   5   | FAILED/WIRING |NO BCU-B (OB) BUS OUTPUT |  5 
+BRAKE CTRL UNIT  |   6   | FAILED/WIRING |IB BCU INTERFACE FAIL    |  3 
+BRAKE CTRL UNIT  |   7   | FAILED/WIRING |OB BCU INTERFACE FAIL    |  3 
+BRAKE CTRL UNIT  |   8   | FAILED/WIRING |NO R-GP-4 A429 TO IB BCU |  3 
+BRAKE CTRL UNIT  |   9   | FAILED/WIRING |NO R-GP-4 A429 TO OB BCU |  3 
+BRAKE CTRL UNIT  |  10   | FAILED        |IB BCU INTERNAL FAIL     |  3 
+BRAKE CTRL UNIT  |  11   | FAILED        |OB BCU INTERNAL FAIL     |  3 
+BLEED PRES SNSR1 |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+BLEED PRES SNSR2 |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+L ENG BSD        |   1   | FAILED/WIRING |BROKEN SHAFT DETECTOR 1A |  3 
+L ENG BSD        |   2   | FAILED/WIRING |BROKEN SHAFT DETECTOR 1B |  3 
+L ENG BSD        |   3   | FAILED        |BROKEN SHAFT DETECTOR 4  |  3 
+R ENG BSD        |   1   | FAILED/WIRING |BROKEN SHAFT DETECTOR 1A |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+R ENG BSD        |   2   | FAILED/WIRING |BROKEN SHAFT DETECTOR 1B |  3 
+R ENG BSD        |   3   | FAILED        |BROKEN SHAFT DETECTOR 4  |  3 
+BUS TIE FEEDER   |   1   | FAILED        |SHORT CIRCUIT            |  3 
+BLEED VALVE 1    |   1   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+BLEED VALVE 1    |   2   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+BLEED VALVE 1    |   3   | FAILED        |L BLEED PRESSURE HIGH    |  5 
+BLEED VALVE 1    |   4   | FAILED        |L BLEED PRESSURE LOW     |  5 
+BLEED VALVE 2    |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+BLEED VALVE 2    |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+BLEED VALVE 2    |   3   | FAILED        |R BLEED PRESSURE HIGH    |  5 
+BLEED VALVE 2    |   4   | FAILED        |R BLEED PRESSURE LOW     |  5 
+CAB VENT T SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+CAB T TRIM PNL   |   1   | FAILED/WIRING |OUT OF RANGE             |  5 
+CABIN T SEL PNL  |   1   | FAILED/WIRING |OUT OF RANGE             |  5 
+CCP 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+CCP 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                | 10 
+CCP 1            |   2   | FAILED/WIRING |CCP BUTTON STUCK         |  8 
+CCP 1            |   3   | FAILED/WIRING |CCP BUTTON STUCK         | 20 
+CCP 1            |   4   | FAILED        |CCP FAULT                | 30 
+CCP 1            |   5   | FAILED        |KEYBOARD FAULT           | 10 
+CCP 1            |   6   | FAILED        |CONFIG STRAP FAULT       | 10 
+CCP 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+CCP 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                | 10 
+CCP 2            |   2   | FAILED/WIRING |CCP BUTTON STUCK         |  8 
+CCP 2            |   3   | FAILED/WIRING |CCP BUTTON STUCK         | 20 
+CCP 2            |   4   | FAILED        |CCP FAULT                | 30 
+CCP 2            |   5   | FAILED        |KEYBOARD FAULT           | 10 
+CCP 2            |   6   | FAILED        |CONFIG STRAP FAULT       | 10 
+COPILOT CW RES 3 |   1   | FAILED/WIRING |RESOLVER FAILED          |  3 
+COPILOT CW RES 4 |   1   | FAILED/WIRING |RESOLVER FAILED          |  3 
+COMP TEMP SNSR   |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+COMP TEMP SNSR   |   2   | FAILED/WIRING |CH A FAULT               |  7 
+COMP TEMP SNSR   |   3   | FAILED/WIRING |CH B FAULT               |  5 
+CDU 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+CDU 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+CDU 1            |   2   | FAILED        |KEYBOARD FAULT           |  5 
+CDU 1            |   3   | FAILED        |DISPLAY FAULT            |  5 
+CDU 1            |   4   | FAILED        |BACK LIGHT FAULT         |  5 
+CDU 1            |   5   | FAILED        |NVRAM FAULT              |  5 
+CDU 1            |   6   | FAILED        |PARAMETER FAULT          |  5 
+CDU 1            |   7   | FAILED        |STRAP MISCOMPARE         |  5 
+CDU 1            |   8   | FAILED/WIRING |NO L-CDU-1 BUS OUTPUT    | 10 
+CDU 1            |   9   | FAILED/WIRING |NO L-CDU-2 BUS OUTPUT    | 10 
+CDU 1            |  10   | FAILED/WIRING |NO L-CDU-3 BUS OUTPUT    | 10 
+CDU 1            |  11   | FAILED/WIRING |NO L-CDU-6 BUS OUTPUT    | 10 
+CDU 1            |  12   | FAILED/WIRING |NO L-CDU-7 BUS OUTPUT    | 10 
+CDU 1            |  13   | FAILED/WIRING |NO L-GP-1 BUS INPUT      | 10 
+CDU 1            |  14   | FAILED/WIRING |NO R-GP-1 BUS INPUT      | 10 
+CDU 1            |  15   | FAILED/WIRING |NO LB-RIU-6 BUS INPUT    | 10 
+CDU 1            |  16   | FAILED/WIRING |NO RB-RIU-9 BUS INPUT    | 10 
+CDU 1            |  17   | FAILED/WIRING |NO L-RIU-11 BUS INPUT    | 10 
+CDU 1            |  18   | FAILED/WIRING |NO SATCOM-1 BUS IN       | 10 
+CDU 1            |  19   | FAILED/WIRING |NO L-CDU-6 BUS OUTPUT    | 10 
+CDU 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+CDU 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+CDU 2            |   2   | FAILED        |KEYBOARD FAULT           |  5 
+CDU 2            |   3   | FAILED        |DISPLAY FAULT            |  5 
+CDU 2            |   4   | FAILED        |BACK LIGHT FAULT         |  5 
+CDU 2            |   5   | FAILED        |NVRAM FAULT              |  5 
+CDU 2            |   6   | FAILED        |PARAMETER FAULT          |  5 
+CDU 2            |   7   | FAILED        |STRAP MISCOMPARE         |  5 
+CDU 2            |   8   | FAILED/WIRING |NO R-CDU-1 BUS OUTPUT    | 10 
+CDU 2            |   9   | FAILED/WIRING |NO R-CDU-2 BUS OUTPUT    | 10 
+CDU 2            |  10   | FAILED/WIRING |NO R-CDU-3 BUS OUTPUT    | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+CDU 2            |  11   | FAILED/WIRING |NO R-CDU-6 BUS OUTPUT    | 10 
+CDU 2            |  12   | FAILED/WIRING |NO L-GP-1 BUS INPUT      | 10 
+CDU 2            |  13   | FAILED/WIRING |NO R-GP-1 BUS INPUT      | 10 
+CDU 2            |  14   | FAILED/WIRING |NO RB-RIU-6 BUS INPUT    | 10 
+CDU 2            |  15   | FAILED/WIRING |NO LB-RIU-9 BUS INPUT    | 10 
+CDU 2            |  16   | FAILED/WIRING |NO SATCOM-1 BUS IN       | 10 
+CDU 2            |  17   | FAILED/WIRING |NO L-RIU-12 BUS INPUT    | 15 
+L ENG CFG PIN A  |   1   | FAILED/WIRING |ENGINE IDENTIFICATION 1A |  3 
+L ENG CFG PIN A  |   2   | FAILED        |ENGINE IDENTIFICATION 4  |  3 
+R ENG CFG PIN A  |   1   | FAILED/WIRING |ENGINE IDENTIFICATION 1A |  3 
+R ENG CFG PIN A  |   2   | FAILED        |ENGINE IDENTIFICATION 4  |  3 
+L ENG CFG PIN B  |   1   | FAILED/WIRING |ENGINE IDENTIFICATION 1B |  3 
+L ENG CFG PIN B  |   2   | FAILED        |ENGINE IDENTIFICATION 4  |  3 
+R ENG CFG PIN B  |   1   | FAILED/WIRING |ENGINE IDENTIFICATION 1B |  3 
+R ENG CFG PIN B  |   2   | FAILED        |ENGINE IDENTIFICATION 4  |  3 
+L ENG CGV ACT    |   1   | FAILED/WIRING |CGV ACTUATOR 1A          |  3 
+L ENG CGV ACT    |   2   | FAILED/WIRING |CGV ACTUATOR 1B          |  3 
+L ENG CGV ACT    |   3   | FAILED        |CGV ACTUATOR 4           |  3 
+R ENG CGV ACT    |   1   | FAILED/WIRING |CGV ACTUATOR 1A          |  3 
+R ENG CGV ACT    |   2   | FAILED/WIRING |CGV ACTUATOR 1B          |  3 
+R ENG CGV ACT    |   3   | FAILED        |CGV ACTUATOR 4           |  3 
+CKPT T SEL PNL   |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+CLOCK            |   1   | OFF/NO OUTPUT |NO CLOCK OUTPUT TO RDC   |  3 
+CLOCK            |   2   | OFF/NO OUTPUT |NO L-CLOCK BUS OUTPUT    |  3 
+CLOCK            |   3   | OFF/NO OUTPUT |NO R-CLOCK BUS OUTPUT    |  3 
+CPE 1 AUDIO      |   1   | FAILED/WIRING |NO OUTPUT                |  3 
+CPE 1 AUDIO      |   2   | FAILED/WIRING |NO L-CPE-1 BUS OUTPUT    | 10 
+CPE 1 AUDIO      |   3   | FAILED/WIRING |NO L-CPE-2 BUS OUTPUT    | 10 
+CPE 2 AUDIO      |   1   | FAILED/WIRING |NO OUTPUT                |  3 
+CPE 2 AUDIO      |   2   | FAILED/WIRING |NO R-CPE-1 BUS OUTPUT    | 10 
+CPE 2 AUDIO      |   3   | FAILED/WIRING |NO R-CPE-2 BUS OUTPUT    | 10 
+CKPT VENT T SNSR |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+CSU 1            |   1   | FAILED        |CSU STRAP-A/C TYPE ERROR | 10 
+CSU 1            |   2   | FAILED        |WORD 0/1 PARITY          | 10 
+CSU 2            |   1   | FAILED        |CSU STRAP-A/C TYPE ERROR | 10 
+CSU 2            |   2   | FAILED        |WORD 0/1 PARITY          | 10 
+CSU 1/CSU 2      |   1   | FAILED        |CSU 1/CSU 2 MISCOMPARE   | 30 
+CSU 1/CSU 2      |   2   | FAILED/WIRING |CSU STRAPPING INCORRECT  | 10 
+CKPIT VOICE REC  |   0   | PREREQUISITE  |INSTALLED                |  0 
+CKPIT VOICE REC  |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+CKPIT VOICE REC  |   2   | FAILED/WIRING |CVR INTERNAL FAILURE     | 10 
+CKPIT VOICE REC  |   3   | FAILED/WIRING |CVR CNTRL PANEL FAILURE  | 10 
+CKPIT VOICE REC  |   4   | FAILED/WIRING |DATALINK INTERFACE FAIL  | 10 
+CKPIT VOICE REC  |   5   | FAILED/WIRING |RIPS STATUS FAULT        | 15 
+CKPIT VOICE REC  |   6   | FAILED/WIRING |RIPS STATUS MAINT        |  5 
+DBU              |   0   | PREREQUISITE  |INSTALLED                |  0 
+DBU              |   1   | FAILED        |INTERNAL FAULT           | 10 
+DBU              |   2   | DEFERRED MAINT|RECEIVED DATA ERROR      | 10 
+DCP 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+DCP 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DCP 1            |   2   | FAILED        |INTERNAL FAULT           |  5 
+DCP 1            |   3   | FAILED/WIRING |NO L-DCP-1 BUS OUTPUT    | 10 
+DCP 1            |   4   | FAILED/WIRING |NO L-DCP-2 BUS OUTPUT    | 10 
+DCP 1            |   5   | FAILED/WIRING |DCP BUTTON STUCK         | 10 
+DCP 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+DCP 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DCP 2            |   2   | FAILED        |INTERNAL FAULT           |  5 
+DCP 2            |   3   | FAILED/WIRING |NO R-DCP-1 BUS OUTPUT    | 10 
+DCP 2            |   4   | FAILED/WIRING |NO R-DCP-2 BUS OUTPUT    | 10 
+DCP 2            |   5   | FAILED/WIRING |DCP BUTTON STUCK         | 10 
+DCU A            |   1   | FAILED/WIRING |CONFIGURATION ERROR      |  1 
+DCU A            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DCU A            |   3   | FAILED        |INTERNAL FAULT           |  5 
+DCU A            |   4   | FAILED/WIRING |NO A-DCU-1 BUS OUTPUT    | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+DCU A            |   5   | FAILED/WIRING |NO A-DCU-2 BUS OUTPUT    | 10 
+DCU A            |   6   | FAILED/WIRING |NO A-DCU-4 BUS OUTPUT    | 10 
+DCU A            |   7   | FAILED/WIRING |NO A-DCU-5 BUS OUTPUT    | 10 
+DCU A            |   8   | FAILED/WIRING |NO A-DCU-6 BUS OUTPUT    | 10 
+DCU A            |   9   | FAILED/WIRING |NO A-DCU-8 BUS OUTPUT    | 10 
+DCU A            |  10   | FAILED/WIRING |NO B-DCU-5 BUS INPUT     |  5 
+DCU A            |  11   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 10 
+DCU A            |  12   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 10 
+DCU A            |  13   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 10 
+DCU A            |  14   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 10 
+DCU A            |  15   | FAILED/WIRING |NO PSEU-A BUS INPUT      | 10 
+DCU A            |  16   | FAILED/WIRING |NO PSEU-B BUS INPUT      | 10 
+DCU A            |  17   | FAILED/WIRING |NO LB-RIU-6 BUS INPUT    | 10 
+DCU A            |  18   | FAILED/WIRING |NO RB-RIU-6 BUS INPUT    | 10 
+DCU A            |  19   | FAILED/WIRING |NO L-SECU-1 BUS INPUT    | 10 
+DCU A            |  20   | FAILED/WIRING |NO R-SECU-1 BUS INPUT    | 10 
+DCU A            |  21   | FAILED/WIRING |NO IASC1-A BUS INPUT     | 10 
+DCU A            |  22   | FAILED/WIRING |NO IASC1-B BUS INPUT     | 10 
+DCU A            |  23   | FAILED/WIRING |NO IASC2-A BUS INPUT     | 10 
+DCU A            |  24   | FAILED/WIRING |NO IASC2-B BUS INPUT     | 10 
+DCU A            |  25   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+DCU A            |  26   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+DCU A            |  27   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+DCU A            |  28   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+DCU A            |  29   | FAILED/WIRING |NO FIREX-1 BUS INPUT     | 10 
+DCU A            |  30   | FAILED/WIRING |NO LDU-A BUS OUTPUT      | 10 
+DCU A            |  31   | FAILED/WIRING |NO LDU-B BUS OUTPUT      | 10 
+DCU A            |  32   | FAILED/WIRING |NO A-RDC-1 BUS INPUT     | 10 
+DCU A            |  33   | FAILED/WIRING |NO A-RDC-2 BUS INPUT     | 10 
+DCU A            |  34   | FAILED/WIRING |NO B-RDC-1 INPUT         | 10 
+DCU A            |  35   | FAILED/WIRING |NO B-RDC-2 BUS INPUT     | 10 
+DCU A            |  36   | FAILED/WIRING |NO ISI-1 BUS INPUT       | 10 
+DCU A            |  37   | FAILED/WIRING |NO A-SPC-2 BUS INPUT     | 10 
+DCU A            |  38   | FAILED/WIRING |R-ADC DATA SOURCE FAULT  | 15 
+DCU B            |   1   | FAILED/WIRING |CONFIGURATION ERROR      |  1 
+DCU B            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DCU B            |   3   | FAILED        |INTERNAL FAULT           |  5 
+DCU B            |   4   | FAILED/WIRING |NO B-DCU-1 BUS OUTPUT    | 10 
+DCU B            |   5   | FAILED/WIRING |NO B-DCU-2 BUS OUTPUT    | 10 
+DCU B            |   6   | FAILED/WIRING |NO B-DCU-4 BUS OUTPUT    | 10 
+DCU B            |   7   | FAILED/WIRING |NO B-DCU-5 BUS OUTPUT    |  3 
+DCU B            |   8   | FAILED/WIRING |NO B-DCU-6 BUS OUTPUT    | 10 
+DCU B            |   9   | FAILED/WIRING |NO B-DCU-8 BUS OUTPUT    | 10 
+DCU B            |  10   | FAILED/WIRING |NO A-DCU-5 BUS INPUT     |  5 
+DCU B            |  11   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 10 
+DCU B            |  12   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 10 
+DCU B            |  13   | FAILED/WIRING |NO PSEU-B BUS INPUT      | 10 
+DCU B            |  14   | FAILED/WIRING |NO PSEU-A BUS INPUT      | 10 
+DCU B            |  15   | FAILED/WIRING |NO RB-RIU-6 BUS INPUT    | 10 
+DCU B            |  16   | FAILED/WIRING |NO LB-RIU-6 BUS INPUT    | 10 
+DCU B            |  17   | FAILED/WIRING |NO R-SECU-1 BUS INPUT    | 10 
+DCU B            |  18   | FAILED/WIRING |NO L-SECU-1 BUS INPUT    | 10 
+DCU B            |  19   | FAILED/WIRING |NO IASC1-A BUS INPUT     | 10 
+DCU B            |  20   | FAILED/WIRING |NO IASC1-B BUS INPUT     | 10 
+DCU B            |  21   | FAILED/WIRING |NO IASC2-A BUS INPUT     | 10 
+DCU B            |  22   | FAILED/WIRING |NO IASC2-B BUS INPUT     | 10 
+DCU B            |  23   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+DCU B            |  24   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+DCU B            |  25   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+DCU B            |  26   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+DCU B            |  27   | FAILED/WIRING |NO FIREX-1 BUS INPUT     | 10 
+DCU B            |  28   | FAILED/WIRING |NO LDU-B BUS OUTPUT      | 10 
+DCU B            |  29   | FAILED/WIRING |NO LDU-A BUS OUTPUT      | 10 
+DCU B            |  30   | FAILED/WIRING |NO B-RDC-1 INPUT         | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+DCU B            |  31   | FAILED/WIRING |NO B-RDC-2 BUS INPUT     | 10 
+DCU B            |  32   | FAILED/WIRING |NO A-RDC-1 BUS INPUT     | 10 
+DCU B            |  33   | FAILED/WIRING |NO A-RDC-2 BUS INPUT     | 10 
+DCU B            |  34   | FAILED/WIRING |NO ISI-1 BUS INPUT       | 10 
+DCU B            |  35   | FAILED/WIRING |NO B-SPC-2 BUS INPUT     | 10 
+DCU B            |  36   | FAILED/WIRING |L-ADC DATA SOURCE FAULT  | 15 
+RIU 1 DATALINK   |   0   | PREREQUISITE  |INSTALLED                |  0 
+RIU 1 DATALINK   |   1   | FAILED/WIRING |NO DATALINK OUTPUT       | 10 
+RIU 1 DATALINK   |   2   | FAILED/WIRING |NO 429 OUTPUT BUS TO IOC | 15 
+RIU 1 DATALINK   |   3   | FAILED/WIRING |DATALINK FAIL            |  3 
+RIU 1 DATALINK   |   4   | FAILED/WIRING |NO L-RIU-11 BUS OUTPUT   | 10 
+RIU 1 DATALINK   |   5   | FAILED/WIRING |NO L-RIU-12 BUS OUTPUT   | 10 
+RIU 1 DATALINK   |   6   | FAILED/WIRING |NO L-RIU-12 BUS OUTPUT   | 15 
+RIU 1 DATALINK   |   7   | FAILED/WIRING |VHF3 INPUT BUS INACTIVE  |  3 
+RIU 1 DATALINK   |   8   | FAILED/WIRING |NO L-IOC-4 BUS INPUT     | 10 
+RIU 1 DATALINK   |   9   | FAILED/WIRING |NO R-IOC-4 BUS INPUT     | 10 
+DME 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+DME 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DME 1            |   2   | FAILED        |INTERNAL FAULT           | 10 
+DME 1            |   3   | FAILED/WIRING |NO L-DME-3 BUS OUTPUT    | 10 
+DME 1            |   4   | FAILED/WIRING |NO LB-RIU-7 BUS INPUT    | 10 
+DME 1            |   5   | FAILED/WIRING |NO LA-RIU-7 BUS INPUT    | 10 
+DME 1            |   6   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+DME 1            |   7   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+DME 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+DME 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+DME 2            |   2   | FAILED        |INTERNAL FAULT           |  5 
+DME 2            |   3   | FAILED/WIRING |NO R-DME-3 BUS OUTPUT    | 10 
+DME 2            |   4   | FAILED/WIRING |NO RB-RIU-7 BUS INPUT    | 10 
+DME 2            |   5   | FAILED/WIRING |NO RA-RIU-7 BUS INPUT    | 10 
+DME 2            |   6   | FAILED/WIRING |NO R-CDU-6 BUS INPUT     | 10 
+DME 2            |   7   | FAILED/WIRING |NO L-CDU-7 BUS INPUT     | 10 
+L AHRC;MLGWOW    |   0   | PREREQUISITE  |INSTALLED                |  0 
+L AHRC;MLGWOW    |   1   | FAILED/WIRING |MLGWOW LAHRC OVLD FAULT  |  3 
+R AHRC;MLGWOW    |   0   | PREREQUISITE  |INSTALLED                |  0 
+R AHRC;MLGWOW    |   1   | FAILED/WIRING |MLWOW RAHRC OVLD FAULT   |  3 
+BCU;LGWOFW1      |   1   | FAILED/WIRING |LGWOFW1 BCU OVLD FAULT   |  3 
+BCU;LGWOFW2      |   1   | FAILED/WIRING |LGWOFW2 BCU OVLD FAULT   |  3 
+SPC-A;MLGWOW     |   1   | FAILED/WIRING |MLGWOW SPC-A OVLDFAULT   |  3 
+SPC-A;MLGWOW     |   1   | FAILED/WIRING |MLGWOW SPC-A OVLDFAULT   |  3 
+BCU;RGWOFW1      |   1   | FAILED/WIRING |RGWOFW1 BCU OVLD FAULT   |  3 
+BCU;RGWOFW2      |   1   | FAILED/WIRING |RGWOFW2 BCU OVLD FAULT   |  3 
+CCR-K50;MLGWOW   |   1   | FAILED/WIRING |MLGWOW CCRK50 OVLD FAULT |  3 
+APU;MLGWOW       |   1   | FAILED/WIRING |MLGWOW APU OVLD FAULT    |  3 
+LDCPC;MLGWOW     |   1   | FAILED/WIRING |MLGWOW LDCPC OVLD FAULT  |  3 
+RDCPC;MLGWOW     |   1   | FAILED/WIRING |MLGWOW RDCPC OVLD FAULT  |  3 
+CLOCK;MLGWOW     |   1   | FAILED/WIRING |MLGWOW CLOCK OVLD FAULT  |  3 
+CVR-K40;MLGWOW   |   1   | FAILED/WIRING |MLGWOW CVRK40 OVLD FAULT |  3 
+TR-K19;MLGWOW    |   1   | FAILED/WIRING |MLGWOW TRK19 OVLD FAULT  |  3 
+TR-K19;MLGWOW    |   2   | FAILED/WIRING |MLGWOW TRK19 NO LOAD     |  3 
+TR-K18;MLGWOW    |   1   | FAILED/WIRING |MLGWOW TRK18 OVLD FAULT  |  3 
+TR-K18;MLGWOW    |   2   | FAILED/WIRING |MLGWOW TRK18 NO LOAD     |  3 
+LEFT TDR;MLGWOW  |   0   | PREREQUISITE  |INSTALLED                |  0 
+LEFT TDR;MLGWOW  |   1   | FAILED/WIRING |MLGWOW LTDR OVLD FAULT   |  3 
+RIGHT TDR;MLGWOW |   1   | FAILED/WIRING |MLGWOW RTDR OVLD FAULT   |  3 
+LEFT TSS;MLGWOW  |   0   | PREREQUISITE  |INSTALLED                |  0 
+LEFT TSS;MLGWOW  |   1   | FAILED/WIRING |MLGWOW TSS OVLD FAULT    |  3 
+FCU;MLGWOW       |   1   | FAILED/WIRING |MLGWOW FCU OVLD FAULT    |  3 
+FCU;MLGWOW       |   1   | FAILED/WIRING |MLGWOW FCU OVLDFAULT     |  3 
+SCU;NGWOW        |   1   | FAILED/WIRING |NGWOW SCU OVLD FAULT     |  3 
+SCU;NGWOW        |   2   | FAILED/WIRING |NGWOW SCU NO LOAD        |  3 
+SCU;NGWOW        |   1   | FAILED/WIRING |NGWOW SCU OVLD FAULT     |  3 
+SCU;NGWOW        |   2   | FAILED/WIRING |NGWOW SCU NO LOAD        |  3 
+DL-K159;MLGWOW   |   1   | FAILED/WIRING |MLGWOW K159 OVLD FAULT   |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+DL-K158;MLGWOW   |   1   | FAILED/WIRING |MLGWOW K158 OVLD FAULT   |  3 
+K59;LFWSOV       |   1   | FAILED/WIRING |LFWSOV K59 OVLD FAULT    |  3 
+FSCU;MLGWOFW     |   1   | FAILED/WIRING |MLGWOFW FSCU OVLD FAULT  |  3 
+TCAS;MLGWOW      |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS;MLGWOW      |   1   | FAILED/WIRING |MLGWOW TCAS OVLD FAULT   |  3 
+PL13;NGDNLK      |   1   | FAILED/WIRING |NGDNLK PL13 OVLD FAULT   |  3 
+TSS;MLGWOW       |   0   | PREREQUISITE  |INSTALLED                |  0 
+TSS;MLGWOW       |   1   | FAILED/WIRING |MLGWOW TSS OVLD FAULT    |  3 
+FIREX;MLGWOW     |   1   | FAILED/WIRING |MLGWOW FIREX OVLD FAULT  |  3 
+TAT PROBE;MLGWOW |   1   | FAILED/WIRING |MLGWOW TATPR OVLD FAULT  |  3 
+BCU;RETRACT      |   1   | FAILED/WIRING |RETRACT BCU OVLD FAULT   |  3 
+BCU;RETRACT CMD  |   1   | FAILED/WIRING |RET CMD BCU OVLD FAULT   |  3 
+SPC-B;MLGWOW     |   1   | FAILED/WIRING |MLGWOW SPC-B OVLDFAULT   |  3 
+SPC-B;MLGWOW     |   1   | FAILED/WIRING |MLGWOW SPC-B OVLDFAULT   |  3 
+SCU;NGDNLK       |   1   | FAILED/WIRING |NGDNLK SCU OVLD FAULT    |  3 
+SCU;NGDNLK       |   2   | FAILED/WIRING |NGDNLK SCU NO LOAD       |  3 
+BCU;NOT MGDNLK   |   1   | FAILED/WIRING |NOTMGDNLK BCU OVLD FAULT |  3 
+BCU;NOT MGDNLK   |   1   | FAILED/WIRING |NOTMGDNLK BCU OVLD FAULT |  3 
+LDCMP;LDCMP ENA  |   1   | FAILED/WIRING |LDCMPEN LDCMP OVLD FAULT |  3 
+RDCMP;RDCMP ENA  |   1   | FAILED/WIRING |RDCMPEN RDCMP OVLD FAULT |  3 
+RET VALVE;RET CM |   1   | FAILED/WIRING |RET VALVE OVLD FAULT (+) |  3 
+RET VALVE;RET CM |   3   | FAILED/WIRING |RET VALVE UNRS LOAD (+)  |  3 
+TCAS;MLGDNLK     |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS;MLGDNLK     |   1   | FAILED/WIRING |MLGDNLK TCAS OVLD FAULT  |  3 
+CCR-K51;MLGDNLK  |   1   | FAILED/WIRING |MLGDNLK CCRK51OVLD FAULT |  3 
+CCR-K51;MLGDNLK  |   2   | FAILED/WIRING |MLGDNLK CCRK51 NO LOAD   |  3 
+RET VALVE;RET CM |   1   | FAILED/WIRING |RET VALVE OVLD FAULT (-) |  3 
+RET VALVE;RET CM |   2   | FAILED/WIRING |RET VALVE NO LOAD (-)    |  3 
+RET VALVE;RET CM |   3   | FAILED/WIRING |RET VALVE UNRS LOAD (-)  |  3 
+PTU;PTU ENABLE   |   1   | FAILED/WIRING |PTU ENABLE PTU OVLDFAULT |  3 
+PTU;PTU ENABLE   |   2   | FAILED/WIRING |PTU ENABLE PTU NO LOAD   |  3 
+HMDG;MLGWOW      |   1   | FAILED/WIRING |HMDG K170 OVLD FAULT     |  3 
+K60;RFWSOV       |   1   | FAILED/WIRING |RFWSOV K60 OVLD FAULT    |  3 
+DIFF PROT SNSR 1 |   1   | FAILED/WIRING |DPMS1/LPROT/WIRING FAULT |  3 
+DIFF PROT SNSR 2 |   1   | FAILED/WIRING |DPMS2/RPROT/WIRING FAULT |  3 
+DIFF PROT SNSR 5 |   1   | FAILED/WIRING |DPMS5/APU LOG/WIRE FAULT |  3 
+DIFF PROT SNSR 7 |   1   | FAILED/WIRING |DPMS7 OR WIRING FAULT    |  3 
+DIFF PROT SNSR 8 |   1   | FAILED/WIRING |DPMS8 OR WIRING FAULT    |  3 
+DIFF PRESS SNSR1 |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+DIFF PRESS SNSR2 |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+CKPT DUCT T SNSR |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+CKPT DUCT T SNSR |   2   | FAILED/WIRING |CH A FAULT               |  7 
+CKPT DUCT T SNSR |   3   | FAILED/WIRING |CH B FAULT               |  7 
+CAB DUCT T SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+EXT DC CNTOR     |   1   | FAILED/WIRING |FAULT                    |  3 
+L ENG BOTH ECU   |   1   | FAILED        |FADEC COMMON ECU 4       |  3 
+L ENG BOTH ECU   |   2   | FAILED        |FADEC COMMON P0          |  3 
+L ENG BOTH ECU   |   3   | FAILED        |FADEC COMMON VIBRATION   |  3 
+L ENG BOTH ECU   |   4   | FAILED/WIRING |TR DEPLOY COMMAND 4      |  3 
+R ENG BOTH ECU   |   1   | FAILED        |FADEC COMMON ECU 4       |  3 
+R ENG BOTH ECU   |   2   | FAILED        |FADEC COMMON P0          |  3 
+R ENG BOTH ECU   |   3   | FAILED        |FADEC COMMON VIBRATION   |  3 
+R ENG BOTH ECU   |   4   | FAILED/WIRING |TR DEPLOY COMMAND 4      |  3 
+L ENG EGT SNSR A |   1   | FAILED/WIRING |EGT SENSOR 1A            |  3 
+R ENG EGT SNSR A |   1   | FAILED/WIRING |EGT SENSOR 1A            |  3 
+L ENG EGT SNSR B |   1   | FAILED/WIRING |EGT SENSOR 1B            |  3 
+R ENG EGT SNSR B |   1   | FAILED/WIRING |EGT SENSOR 1B            |  3 
+ENG CNTL PNL     |   1   | FAILED/WIRING |ENGINE START COMMAND 4   |  3 
+ENG CNTL PNL     |   2   | FAILED/WIRING |ENGINE CRANK COMMAND 4   |  3 
+ENG CNTL PNL     |   3   | FAILED/WIRING |FIRE SHUTOFF COMMAND 4   |  3 
+ENG CNTL PNL     |   4   | FAILED/WIRING |AUTO APR INHIBIT 1A      |  3 
+ENG CNTL PNL     |   5   | FAILED/WIRING |AUTO APR INHIBIT 1B      |  3 
+ENG CNTL PNL     |   6   | FAILED        |AUTO APR INHIBIT 4       |  3 
+ENG CNTL PNL     |   7   | FAILED/WIRING |ENGINE START COMMAND 4   |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+ENG CNTL PNL     |   8   | FAILED/WIRING |ENGINE CRANK COMMAND 4   |  3 
+ENG CNTL PNL     |   9   | FAILED/WIRING |FIRE SHUTOFF COMMAND 4   |  3 
+ENG CNTL PNL     |  10   | FAILED/WIRING |AUTO APR INHIBIT 1A      |  3 
+ENG CNTL PNL     |  11   | FAILED/WIRING |AUTO APR INHIBIT 1B      |  3 
+ENG CNTL PNL     |  12   | FAILED        |AUTO APR INHIBIT 4       |  3 
+FLAP CTRL UNIT   |   1   | FAILED        |FCU INTERNAL FAULT       |  3 
+FLAP CTRL UNIT   |   2   | FAILED/WIRING |WOW DISCR MISMATCH       |  3 
+FLAP CTRL UNIT   |   3   | FAILED/WIRING |EDPR PRESS SWITCH FAULT  |  3 
+FLAP CTRL UNIT   |   4   | FAILED/WIRING |SUPPLY SEL MISMATCH      |  3 
+FLAP CTRL UNIT   |   5   | OFF/NO OUTPUT |NO FCU ARINC OUTPUT      |  3 
+FLAP CTRL UNIT   |   6   | FAILED/WIRING |NO R-FCU-2 BUS TO RDC    |  5 
+FLAP CTRL UNIT   |   7   | FAILED/WIRING |NO L-FCU-1 BUS TO SPC    |  5 
+FLAP CTRL UNIT   |   8   | FAILED/WIRING |NO L-GP-5 BUS INPUT      |  3 
+FLAP CTRL UNIT   |   9   | FAILED/WIRING |NO R-GP-5 BUS INPUT      |  3 
+FLAP CTRL UNIT   |  10   | FAILED/WIRING |CRIT FAIL RESET MISMATCH |  3 
+FLAP CTRL UNIT   |  11   | FAILED        |FLAP ASYMMETRY           |  3 
+FLAP CTRL UNIT   |  12   | FAILED        |FLAP RUNAWAY             |  3 
+FLAP CTRL UNIT   |  13   | FAILED        |FLAP JAM                 |  3 
+FLAP CTRL UNIT   |  14   | FAILED        |FTB FLIGHT CYCLE         |  3 
+FLAP CTRL UNIT   |  15   | FAILED        |FLAP OVERSPEED           |  3 
+FLOW CTRL VLV1   |   1   | FAILED/WIRING |DISAG VLV CLSD/DPS DRIFT |  5 
+FLOW CTRL VLV1   |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+FLOW CTRL VLV1   |   3   | FAILED/WIRING |DISCRETE DISABLE FAIL    |  5 
+FLOW CTRL VLV2   |   1   | FAILED/WIRING |DISAG VLV CLSD/DPS DRIFT |  5 
+FLOW CTRL VLV2   |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+FLOW CTRL VLV2   |   3   | FAILED/WIRING |DISCRETE DISABLE FAIL    |  5 
+FIREX PIT SW     |   1   | FAILED/WIRING |PIT SIGNAL MISCOMP       |  3 
+FIREX PIT SW     |   2   | FAILED/WIRING |PIT SIGNAL STUCK ON      |  3 
+FLIGHT DATA REC  |   1   | FAILED/WIRING |FDR INDICATES FAILURE    |  3 
+L ENG FFM        |   1   | FAILED/WIRING |FUEL FLOW METER 1A       |  3 
+L ENG FFM        |   2   | FAILED/WIRING |FUEL FLOW METER 1B       |  3 
+L ENG FFM        |   3   | FAILED        |FUEL FLOW METER 4        |  3 
+L ENG FFM        |   4   | FAILED        |FUEL FLOW METER 5        |  3 
+R ENG FFM        |   1   | FAILED/WIRING |FUEL FLOW METER 1A       |  3 
+R ENG FFM        |   2   | FAILED/WIRING |FUEL FLOW METER 1B       |  3 
+R ENG FFM        |   3   | FAILED        |FUEL FLOW METER 4        |  3 
+R ENG FFM        |   4   | FAILED/WIRING |FUEL FLOW METER 5        |  3 
+FGC 1            |   1   | DON'T FAIL    |INSTALLED                |  0 
+FGC 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FGC 1            |   3   | FAILED        |INTERNAL FAULT           |  5 
+FGC 1            |   4   | FAILED        |PITCH TRIM SYST          |  5 
+FGC 1            |   5   | FAILED/WIRING |NO XSIDE BUS OUTPUT      | 10 
+FGC 1            |   6   | FAILED/WIRING |NO L-AHC-1 BUS INPUT     | 10 
+FGC 1            |   7   | FAILED/WIRING |NO L-IRS-1 BUS INPUT     | 10 
+FGC 1            |   8   | FAILED/WIRING |FGC USING STBY AIR SPEED | 10 
+FGC 1            |   9   | LRU OK / INFO |FGS DIAG CODE=REPAIR     |  1 
+FGC 1            |  10   | LRU OK / INFO |FGS DIAG CODE=AP ENG     |  1 
+FGC 1            |  11   | LRU OK / INFO |FGS DIAG CODE=AP DIS     |  1 
+FGC 1            |  12   | LRU OK / INFO |FGS DIAG CODE=YD ENG     |  1 
+FGC 1            |  13   | LRU OK / INFO |FGS DIAG CODE=YD DIS     |  1 
+FGC 1            |  14   | LRU OK / INFO |FGS DIAG CODE=BOOST      |  1 
+FGC 2            |   1   | DON'T FAIL    |INSTALLED                |  0 
+FGC 2            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FGC 2            |   3   | FAILED        |INTERNAL FAULT           |  5 
+FGC 2            |   4   | FAILED        |PITCH TRIM SYST          |  5 
+FGC 2            |   5   | FAILED/WIRING |NO XSIDE BUS OUTPUT      | 10 
+FGC 2            |   6   | FAILED/WIRING |NO R-AHC-1 BUS INPUT     | 10 
+FGC 2            |   7   | FAILED/WIRING |NO R-IRS-1 BUS INPUT     | 10 
+FGC 2            |   8   | FAILED/WIRING |FGC USING STBY AIR SPEED | 10 
+FGC 2            |   9   | LRU OK / INFO |FGS DIAG CODE=REPAIR     |  1 
+FGC 2            |  10   | LRU OK / INFO |FGS DIAG CODE=AP ENG     |  1 
+FGC 2            |  11   | LRU OK / INFO |FGS DIAG CODE=AP DIS     |  1 
+FGC 2            |  12   | LRU OK / INFO |FGS DIAG CODE=YD ENG     |  1 
+FGC 2            |  13   | LRU OK / INFO |FGS DIAG CODE=YD DIS     |  1 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+FGC 2            |  14   | LRU OK / INFO |FGS DIAG CODE=BOOST      |  1 
+FLT GUIDANCE PNL |   1   | OFF/NO OUTPUT |NO OUTPUT                |  5 
+FLT GUIDANCE PNL |   2   | FAILED/WIRING |INVALID FGP-FGC1 I/O     | 15 
+FLT GUIDANCE PNL |   3   | FAILED/WIRING |INVALID FGP-FGC2 I/O     | 15 
+FLT GUIDANCE PNL |   4   | FAILED/WIRING |BUTTON IS STUCK          | 10 
+FIREX CTRL UNIT  |   1   | OFF/NO OUTPUT |NO FIREX-1 BUS TO DCU    |  3 
+FIREX CTRL UNIT  |   2   | FAILED        |INTERNAL FAULT           |  3 
+FIREX CTRL UNIT  |   3   | OFF/NO OUTPUT |NO POWER FROM CB5-A3     |  3 
+FIREX CTRL UNIT  |   4   | OFF/NO OUTPUT |NO POWER FROM CB6-A4     |  3 
+FIREX CTRL UNIT  |   5   | OFF/NO OUTPUT |NO POWER FROM CB2-A11    |  3 
+FIREX CTRL UNIT  |   6   | FAILED/WIRING |FIRE WARN O/P DISCRETE   |  3 
+FIREX CTRL UNIT  |   7   | OFF/NO OUTPUT |O/P DISCRETE-FIREX BTL 1 |  3 
+FIREX CTRL UNIT  |   8   | FAILED/WIRING |O/P DISCRETE-FIREX BTL 2 |  3 
+FIREX CTRL UNIT  |   9   | FAILED/WIRING |O/P DISCRETE-SMOKE DET   |  3 
+FLAP LEVER       |   1   | FAILED/WIRING |FLAP LEVER FAULT         |  3 
+FLUX DETECTOR 1  |   0   | PREREQUISITE  |INSTALLED                |  0 
+FLUX DETECTOR 1  |   1   | FAILED        |INVALID FLUX DATA TO AHC | 30 
+FLUX DETECTOR 2  |   0   | PREREQUISITE  |INSTALLED                |  0 
+FLUX DETECTOR 2  |   1   | FAILED        |INVALID FLUX DATA TO AHC | 30 
+FMC 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+FMC 1            |   1   | DON'T FAIL    |BLOCK FAULTS FOR IOC OFF |  0 
+FMC 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FMC 1            |   3   | FAILED        |INTERNAL FAULT           |  1 
+FMC 1            |   5   | FAILED/WIRING |NO L-FMC-1 BUS OUTPUT    | 10 
+FMC 1            |   6   | FAILED/WIRING |NO L-FMC-2 BUS OUTPUT    | 10 
+FMC 1            |   7   | FAILED/WIRING |NO L-FMC-4 XTALK BUS OUT | 10 
+FMC 1            |   8   | FAILED/WIRING |NO L-FMC-3 BUS TO L-CDU  | 10 
+FMC 1            |   9   | FAILED/WIRING |NO L-IOC-4 BUS INPUT     | 10 
+FMC 1            |  13   | FAILED/WIRING |NO L-RIU-11 BUS INPUT    | 20 
+FMC 1            |  14   | FAILED/WIRING |NO R-IOC-4 BUS INPUT     | 20 
+FMC 1            |  15   | FAILED/WIRING |CSU STRAPPING INCORRECT  | 10 
+FMC 1            |  16   | DON'T FAIL    |BLOCKING EQ - L-FMC-6    |  0 
+FMC 1            |  17   | FAILED/WIRING |NO L-FMC-6 BUS OUTPUT    |999 
+FMC 1            |  18   | FAILED/WIRING |NO L-FMC-6 BUS OUTPUT    | 10 
+FMC 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+FMC 2            |   1   | DON'T FAIL    |BLOCK FAULTS FOR IOC OFF |  0 
+FMC 2            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FMC 2            |   3   | FAILED        |INTERNAL FAULT           |  1 
+FMC 2            |   5   | FAILED/WIRING |NO R-FMC-1 BUS OUTPUT    | 10 
+FMC 2            |   6   | FAILED/WIRING |NO R-FMC-2 BUS OUTPUT    | 10 
+FMC 2            |   7   | FAILED/WIRING |NO R-FMC-4 XTALK BUS OUT | 10 
+FMC 2            |   8   | FAILED/WIRING |NO R-FMC-6 BUS OUTPUT    | 10 
+FMC 2            |   9   | FAILED/WIRING |NO R-FMC-3 BUS TO R-CDU  | 10 
+FMC 2            |  10   | FAILED/WIRING |NO R-IOC-4 BUS INPUT     | 10 
+FMC 2            |  13   | FAILED/WIRING |NO L-RIU-12 BUS INPUT    | 20 
+FMC 2            |  14   | FAILED/WIRING |NO L-IOC-4 BUS INPUT     | 20 
+FMC 2            |  15   | FAILED/WIRING |CSU STRAPPING INCORRECT  | 10 
+L ENG FUEL IPS   |   1   | FAILED/WIRING |FUEL INLET PRESSURE 1A   |  3 
+L ENG FUEL IPS   |   2   | FAILED/WIRING |FUEL INLET PRESSURE 1B   |  3 
+R ENG FUEL IPS   |   1   | FAILED/WIRING |FUEL INLET PRESSURE 1A   |  3 
+R ENG FUEL IPS   |   2   | FAILED/WIRING |FUEL INLET PRESSURE 1B   |  3 
+FLAP POWER UNIT  |   1   | FAILED/WIRING |FPU FAULT                |  3 
+FLAP POWER UNIT  |   2   | FAILED        |FPU INTERNAL FAULT       |  3 
+FQGC             |   1   | OFF/NO OUTPUT |NO FQGC OUTPUT TO RDC    |  3 
+FQGC             |   2   | FAILED        |INTERNAL FAULT           |  3 
+FQGC             |   3   | LRU OK / INFO |NO L-GP-5 BUS INPUT      |  3 
+FQGC             |   4   | LRU OK / INFO |NO R-GP-5 BUS INPUT      |  3 
+FQGC             |   5   | LRU OK / INFO |WOFFW INPUT DISAGREE     |  3 
+FQGC             |   6   | FAILED/WIRING |NO FQGC-A BUS TO RDC     |  5 
+FQGC             |   7   | FAILED/WIRING |NO FQGC-B BUS TO RDC     |  5 
+FQGC             |   8   | LRU OK / INFO |AHC INPUT DISAGREE       |  3 
+FQGC             |   9   | LRU OK / INFO |IRS INPUT DISAGREE       |  3 
+FUS R/D PANEL    |   1   | FAILED/WIRING |NO COMM WITH FQGC        |  3 
+FSCL RVDT 1      |   1   | FAILED/WIRING |L CH A RVDT OUT OF RANGE |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+FSCL RVDT 2      |   1   | FAILED/WIRING |R CH A RVDT OUT OF RANGE |  3 
+FSCL RVDT 3      |   1   | FAILED/WIRING |L CH B RVDT OUT OF RANGE |  3 
+FSCL RVDT 4      |   1   | FAILED/WIRING |R CH B RVDT OUT OF RANGE |  3 
+FSU 1            |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FSU 1            |   2   | OFF/NO OUTPUT |NO OUTPUT TO IOC         | 10 
+FSU 1            |   3   | FAILED        |FSU PROC CARD FAULT      |  5 
+FSU 1            |   4   | FAILED/WIRING |FSU NODE CARD FAULT      |  5 
+FSU 1            |   5   | FAILED        |SOFTWARE FAULT           |  5 
+FSU 1            |   6   | FAILED/WIRING |INVALID CONFIGURATION    |  5 
+FSU 1            |   8   | FAILED/WIRING |ECU FAULT                |  5 
+FSU 1            |   9   | FAILED        |FSU FAN FAULT            |  5 
+FSU 1            |  10   | LRU OK / INFO |TIME/DATE INVALID        |  5 
+FSU 1            |  11   | FAILED        |APPLICATION FAULT        |  5 
+FSU 1            |  12   | FAILED/WIRING |NO L-RIU-11 BUS INPUT    | 30 
+FSU 1            |  13   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 30 
+FSU 1            |  14   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 30 
+FSU 1 CHARTS     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 1 CHARTS     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 1 CHARTS     |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 1 CHARTS     |   4   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 1 CHARTS     |   6   | FAILED        |APPLICATION FAULT        |  5 
+FSU 1 MAPS       |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 1 MAPS       |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 1 MAPS       |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 1 MAPS       |   4   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 1 MAPS       |   5   | FAILED        |SERVER CONNECTION LOST   |  5 
+FSU 1 MAPS       |   6   | FAILED        |APP CONNECTION LOST      |  5 
+FSU 1 MAPS       |   7   | FAILED        |APPLICATION FAULT        |  3 
+FSU 1 DL GWX     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 1 DL GWX     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 1 DL GWX     |   2   | FAILED        |BACKGND DB IMAGE FAULT   |  5 
+FSU 1 DL GWX     |   3   | FAILED        |INSUFFICIENT STORAGE     |  5 
+FSU 1 DL GWX     |   5   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 1 DL GWX     |   6   | LRU OK / INFO |RECEIVED DATA INVALID    |  5 
+FSU 1 DL GWX     |   7   | FAILED        |APPLICATION FAULT        |  5 
+FSU 1 DL GWX     |   8   | FAILED/WIRING |FSU CROSS-TALK FAILURE   | 30 
+FSU 1 XM GWX     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 1 XM GWX     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 1 XM GWX     |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 1 XM GWX     |   3   | FAILED        |INSUFFICIENT STORAGE     |  5 
+FSU 1 XM GWX     |   5   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 1 XM GWX     |   6   | FAILED        |APPLICATION FAULT        |  5 
+XM RECEIVER      |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+XM RECEIVER      |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+XM RECEIVER      |   3   | FAILED/WIRING |XM 422 BUS TO FSU FAULT  | 15 
+FSU 2            |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+FSU 2            |   2   | OFF/NO OUTPUT |NO OUTPUT TO IOC         | 10 
+FSU 2            |   3   | FAILED        |FSU PROC CARD FAULT      |  5 
+FSU 2            |   4   | FAILED/WIRING |FSU NODE CARD FAULT      |  5 
+FSU 2            |   5   | FAILED        |SOFTWARE FAULT           |  5 
+FSU 2            |   6   | FAILED/WIRING |INVALID CONFIGURATION    |  5 
+FSU 2            |   8   | FAILED/WIRING |ECU FAULT                |  5 
+FSU 2            |   9   | FAILED        |FSU FAN FAULT            |  5 
+FSU 2            |  10   | LRU OK / INFO |TIME/DATE INVALID        |  5 
+FSU 2            |  11   | FAILED        |APPLICATION FAULT        |  5 
+FSU 2            |  12   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 30 
+FSU 2 CHARTS     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 2 CHARTS     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 2 CHARTS     |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 2 CHARTS     |   4   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 2 CHARTS     |   6   | FAILED        |APPLICATION FAULT        |  5 
+FSU 2 MAPS       |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+FSU 2 MAPS       |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 2 MAPS       |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 2 MAPS       |   4   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 2 MAPS       |   5   | FAILED        |SERVER CONNECTION LOST   |  5 
+FSU 2 MAPS       |   6   | FAILED        |APP CONNECTION LOST      |  5 
+FSU 2 MAPS       |   7   | FAILED        |APPLICATION FAULT        |  3 
+FSU 2 DL GWX     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 2 DL GWX     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 2 DL GWX     |   2   | FAILED        |BACKGND DB IMAGE FAULT   |  5 
+FSU 2 DL GWX     |   3   | FAILED        |INSUFFICIENT STORAGE     |  5 
+FSU 2 DL GWX     |   5   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 2 DL GWX     |   6   | LRU OK / INFO |RECEIVED DATA INVALID    |  5 
+FSU 2 DL GWX     |   7   | FAILED        |APPLICATION FAULT        |  5 
+FSU 2 DL GWX     |   8   | FAILED/WIRING |FSU CROSS-TALK FAILURE   | 30 
+FSU 2 XM GWX     |   0   | PREREQUISITE  |NOT INSTALLED            |  0 
+FSU 2 XM GWX     |   1   | DON'T FAIL    |BLOCKING EQUATION        |  0 
+FSU 2 XM GWX     |   2   | FAILED        |DATABASE FILE FAULT      |  5 
+FSU 2 XM GWX     |   3   | FAILED        |INSUFFICIENT STORAGE     |  5 
+FSU 2 XM GWX     |   5   | FAILED        |CONFIG CONNECTION LOST   |  5 
+FSU 2 XM GWX     |   6   | FAILED        |APPLICATION FAULT        |  5 
+L ENG FUEL T/B   |   1   | FAILED/WIRING |FUEL TEMP/BYPASS 1A      |  3 
+L ENG FUEL T/B   |   2   | FAILED/WIRING |FUEL TEMP/BYPASS 1B      |  3 
+L ENG FUEL T/B   |   3   | FAILED        |FUEL TEMP/BYPASS 4       |  3 
+R ENG FUEL T/B   |   1   | FAILED/WIRING |FUEL TEMP/BYPASS 1A      |  3 
+R ENG FUEL T/B   |   2   | FAILED/WIRING |FUEL TEMP/BYPASS 1B      |  3 
+R ENG FUEL T/B   |   3   | FAILED        |FUEL TEMP/BYPASS 4       |  3 
+GPS 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+GPS 1            |   1   | FAILED        |INTERNAL FAULT           |  5 
+GPS 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+GPS 1            |   3   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+GPS 1            |   4   | FAILED/WIRING |NO L-GPS-1 BUS OUTPUT    | 10 
+GPS 1            |   5   | FAILED/WIRING |NO L-GPS-2 BUS OUTPUT    | 15 
+GPS 1            |   6   | FAILED/WIRING |NO L-GPS-3 BUS OUTPUT    | 15 
+GPS 1            |   7   | FAILED/WIRING |NO L-GP-4 BUS INPUT      | 10 
+GPS 1            |   8   | FAILED/WIRING |NO R-GP-4 BUS INPUT      | 10 
+GPS 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+GPS 2            |   1   | FAILED        |INTERNAL FAULT           |  5 
+GPS 2            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+GPS 2            |   3   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+GPS 2            |   4   | OFF/NO OUTPUT |NO R-GPS-1 BUS OUTPUT    | 10 
+GPS 2            |   5   | FAILED/WIRING |NO R-GPS-2 BUS OUTPUT    | 12 
+GPS 2            |   6   | FAILED/WIRING |NO R-GPS-2 BUS OUTPUT    | 15 
+GPS 2            |   7   | FAILED/WIRING |NO R-GPS-3 BUS OUTPUT    | 15 
+GPS 2            |   8   | FAILED/WIRING |NO L-GP-4 BUS INPUT      | 10 
+GPS 2            |   9   | FAILED/WIRING |NO R-GP-4 BUS INPUT      | 10 
+GSSV 1           |   1   | FAILED/WIRING |GSSV FAIL                |  3 
+GSSV 2           |   1   | FAILED/WIRING |GSSV FAIL                |  3 
+HOT AIR T SNSR   |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+HF 1             |   0   | PREREQUISITE  |INSTALLED                |  0 
+HF 1             |   1   | OFF/NO OUTPUT |NO L-HF-1 OUTPUT TO RIU1 |  5 
+HF 1             |   2   | FAILED/WIRING |NO L-HF-1 BUS OUTPUT     | 10 
+HF 1             |   3   | FAILED/WIRING |NO LA-RIU-8 BUS INPUT    | 10 
+HF 1             |   4   | FAILED/WIRING |NO LA-RIU-8 BUS INPUT    | 10 
+HF 1             |   5   | FAILED/WIRING |NO LB-RIU-8 BUS INPUT    | 10 
+HF 1             |   6   | FAILED/WIRING |NO LB-RIU-8 BUS INPUT    | 10 
+HF 1             |   7   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+HF 1             |   8   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+HF 1             |   9   | FAILED/WIRING |R/T CIRCUITRY            | 10 
+HF 1             |  10   | FAILED/WIRING |ANTENNA COUPLER FAULT    | 10 
+HF 1             |  11   | FAILED/WIRING |FIBER OPTIC CONTROL      | 10 
+HF 2             |   0   | PREREQUISITE  |INSTALLED                |  0 
+HF 2             |   1   | OFF/NO OUTPUT |NO R-HF-1 OUTPUT TO RIU2 |  5 
+HF 2             |   2   | FAILED/WIRING |NO R-HF-1 BUS OUTPUT     | 10 
+HF 2             |   3   | FAILED/WIRING |NO RA-RIU-8 BUS INPUT    | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+HF 2             |   4   | FAILED/WIRING |NO RB-RIU-8 BUS INPUT    | 10 
+HF 2             |   5   | FAILED/WIRING |NO R-CDU-6 BUS INPUT     | 10 
+HF 2             |   6   | FAILED/WIRING |NO L-CDU-7 BUS INPUT     | 10 
+HF 2             |   7   | FAILED/WIRING |R/T CIRCUITRY            | 10 
+HF 2             |   8   | FAILED/WIRING |ANTENNA COUPLER FAULT    | 10 
+HF 2             |   9   | FAILED/WIRING |FIBER OPTIC CONTROL      | 10 
+L ENG HMU        |   1   | FAILED/WIRING |FUEL SYSTEM HMU 1A       |  3 
+L ENG HMU        |   2   | FAILED/WIRING |FUEL SYSTEM HMU 1B       |  3 
+L ENG HMU        |   3   | FAILED        |FUEL SYSTEM HMU 4        |  3 
+R ENG HMU        |   1   | FAILED/WIRING |FUEL SYSTEM HMU 1A       |  3 
+R ENG HMU        |   2   | FAILED/WIRING |FUEL SYSTEM HMU 1B       |  3 
+R ENG HMU        |   3   | FAILED        |FUEL SYSTEM HMU 4        |  3 
+HI PRESS SNSR1   |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+HI PRESS SNSR2   |   1   | FAILED/WIRING |NO SIGNAL/OUT OF RANGE   |  5 
+HI PRESS VALVE 1 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+HI PRESS VALVE 1 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+HI PRESS VALVE 1 |   3   | FAILED        |L BLEED PRESSURE HIGH    |  5 
+HI PRESS VALVE 2 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+HI PRESS VALVE 2 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+HI PRESS VALVE 2 |   3   | FAILED        |R BLEED PRESSURE HIGH    |  5 
+HOT AIR REG SOV1 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+HOT AIR REG SOV1 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+HOT AIR REG SOV2 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+HOT AIR REG SOV2 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+HORIZ TRIM ECU   |   1   | FAILED/WIRING |SPC CHANNEL A INPUT      |  3 
+HORIZ TRIM ECU   |   2   | FAILED/WIRING |SPC CHANNEL B INPUT      |  3 
+HORIZ TRIM ECU   |   3   | OFF/NO OUTPUT |NO HSTECU OUTPUT TO IOC  |  3 
+HORIZ TRIM ECU   |   4   | FAILED        |INTERNAL FAULT           |  3 
+HORIZ TRIM ECU   |   5   | LRU OK / INFO |NO L-GP-5 BUS INPUT      |  3 
+HORIZ TRIM ECU   |   6   | LRU OK / INFO |NO R-GP-5 BUS INPUT      |  3 
+HORIZ TRIM ECU   |   7   | FAILED/WIRING |NO HSTECU-1 BUS TO L-IOC |  5 
+HORIZ TRIM ECU   |   8   | FAILED/WIRING |NO HSTECU-2 BUS TO R-IOC |  5 
+HORIZ TRIM ECU   |   9   | FAILED/WIRING |PILOT MAN TRIM SW        |  3 
+HORIZ TRIM ECU   |  10   | FAILED/WIRING |COPILOT MAN TRIM SW      |  3 
+HORIZ TRIM ECU   |  11   | FAILED/WIRING |NO ADC-1 INPUT ON L-GP-5 |  3 
+HORIZ TRIM ECU   |  12   | FAILED/WIRING |NO ADC-2 INPUT ON R-GP-5 |  3 
+HORIZ TRIM ECU   |  13   | FAILED/WIRING |NO FGC-1 INPUT ON L-GP-5 |  3 
+HORIZ TRIM ECU   |  14   | FAILED/WIRING |NO FGC-2 INPUT ON R-GP-5 |  3 
+HORIZ TRIM ECU   |  15   | FAILED/WIRING |NO FCU INPUT ON L-GP-5   |  3 
+HORIZ TRIM ECU   |  16   | FAILED/WIRING |NO FCU INPUT ON R-GP-5   |  3 
+HORIZ TRIM ECU   |  17   | FAILED/WIRING |NO-BACK FAULT            |  3 
+HORIZ TRIM ECU   |  18   | FAILED/WIRING |HSTA MCU FAULT           |  3 
+HORIZ TRIM ECU   |  19   | FAILED/WIRING |NO PSEU CHANNEL A INPUT  |  3 
+HORIZ TRIM ECU   |  20   | FAILED/WIRING |NO PSEU CHANNEL B INPUT  |  3 
+HORIZ TRIM ECU   |  21   | FAILED/WIRING |RTLA POSITION FAULT      |  3 
+HORIZ TRIM ECU   |  22   | FAILED/WIRING |RTLA FAULT               |  3 
+HORIZ TRIM ECU   |  23   | FAILED/WIRING |RTL DISCONNECT           |  3 
+HORIZ TRIM ECU   |  24   | FAILED/WIRING |RTL SECONDARY            |  3 
+HORIZ TRIM ECU   |  25   | FAILED/WIRING |SECU-1 INPUT             |  3 
+HORIZ TRIM ECU   |  26   | FAILED/WIRING |SECU-2 INPUT             |  3 
+HORIZ TRIM BRAK1 |   1   | FAILED/WIRING |HORIZ TRIM BRAKE 1 FAULT |  3 
+HORIZ TRIM BRAK3 |   1   | FAILED/WIRING |HORIZ TRIM BRAKE 3 FAULT |  3 
+HST ENGAGE RELY1 |   1   | FAILED/WIRING |RELAY FAILED             |  3 
+HST ENGAGE RELY2 |   1   | FAILED/WIRING |RELAY FAILED             |  3 
+HORIZ TRIM LVDT1 |   1   | FAILED/WIRING |LVDT INVALID             |  3 
+HORIZ TRIM LVDT2 |   1   | FAILED/WIRING |LVDT INVALID             |  3 
+H-TRIM PRIM MOTR |   1   | FAILED/WIRING |OPEN/SHORT MOTOR         |  3 
+L ENG T2 HT MON  |   1   | FAILED/WIRING |T2 HEAT CURRENT SENSE 1A |  3 
+L ENG T2 HT MON  |   2   | FAILED/WIRING |T2 HEAT CURRENT SENSE 1B |  3 
+R ENG T2 HT MON  |   1   | FAILED/WIRING |T2 HEAT CURRENT SENSE 1A |  3 
+R ENG T2 HT MON  |   2   | FAILED/WIRING |T2 HEAT CURRENT SENSE 1B |  3 
+HYD GEN          |   1   | FAILED/WIRING |HYD GEN ISOL VALVE FAIL  |  3 
+L ENG HYD BYP    |   1   | FAILED/WIRING |HYDRAULIC SOLENOID 1A    |  3 
+L ENG HYD BYP    |   2   | FAILED/WIRING |HYDRAULIC SOLENOID 1B    |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+L ENG HYD BYP    |   3   | FAILED        |HYDRAULIC SOLENOID 4     |  3 
+L ENG HYD BYP    |   4   | FAILED        |HYDRAULIC SOLENOID 5     |  3 
+L ENG HYD BYP    |   5   | FAILED        |HYDRAULIC SOLENOID 6     |  3 
+L ENG HYD BYP    |   6   | FAILED        |HYDRAULIC SOLENOID 7     |  3 
+R ENG HYD BYP    |   1   | FAILED/WIRING |HYDRAULIC SOLENOID 1A    |  3 
+R ENG HYD BYP    |   2   | FAILED/WIRING |HYDRAULIC SOLENOID 1B    |  3 
+R ENG HYD BYP    |   3   | FAILED        |HYDRAULIC SOLENOID 4     |  3 
+R ENG HYD BYP    |   4   | FAILED        |HYDRAULIC SOLENOID 5     |  3 
+R ENG HYD BYP    |   5   | FAILED        |HYDRAULIC SOLENOID 6     |  3 
+R ENG HYD BYP    |   6   | FAILED        |HYDRAULIC SOLENOID 7     |  3 
+IASC1      TST A |   1   | OFF/NO OUTPUT |NO IASC-1 BUS TO DCU     |  5 
+IASC1      TST A |   2   | OFF/NO OUTPUT |NO IASC1A BUS TO DCU-RDC |  7 
+IASC1      TST A |   3   | OFF/NO OUTPUT |NO IASC-1A BUS TO DCU    |  9 
+IASC1      TST A |   4   | OFF/NO OUTPUT |NO IASC-1B BUS TO DCU    |  7 
+IASC1      TST A |   5   | FAILED        |AIR SYSTEM CONT 1 FAIL   |  5 
+IASC1      TST A |   6   | FAILED        |IASC-1 PRESS SNSR FAIL   |  5 
+IASC1      TST A |   7   | FAILED        |NO IASC-1A XTALK BUS     |  7 
+IASC1      TST A |   8   | FAILED        |NO IASC-1B XTALK BUS     |  7 
+IASC1      TST A |   9   | FAILED/WIRING |NO IASC-2A BUS INPUT     |  5 
+IASC1      TST A |  10   | FAILED/WIRING |NO IASC-2B BUS INPUT     |  5 
+IASC1      TST A |  11   | FAILED/WIRING |NO IASC-1 RS422 TO OFV   |  5 
+IASC1      TST A |  12   | FAILED/WIRING |IASC1 RS422 DISABLE FAIL |  5 
+IASC1      TST A |  13   | FAILED        |PIN PROGRAMMING DISAGREE |  5 
+IASC1      TST A |  14   | LRU OK / INFO |NO DCU-4 CH A BUS INPUT  |  5 
+IASC1      TST A |  15   | FAILED/WIRING |NO DCU-4 CH B BUS INPUT  |  5 
+IASC1      TST A |  16   | FAILED/WIRING |NO L-MFD-2 BUS INPUT     |  5 
+IASC2      TST A |   1   | OFF/NO OUTPUT |NO IASC-2 BUS TO DCU     |  5 
+IASC2      TST A |   2   | OFF/NO OUTPUT |NO IASC2A BUS TO DCU-RDC |  7 
+IASC2      TST A |   3   | OFF/NO OUTPUT |NO IASC-2A BUS TO DCU    |  9 
+IASC2      TST A |   4   | OFF/NO OUTPUT |NO IASC-2B BUS TO DCU    |  7 
+IASC2      TST A |   5   | FAILED        |AIR SYSTEM CONT 2 FAIL   |  5 
+IASC2      TST A |   6   | FAILED        |IASC-2 PRESS SNSR FAIL   |  5 
+IASC2      TST A |   7   | FAILED        |NO IASC-2A XTALK BUS     |  7 
+IASC2      TST A |   8   | FAILED        |NO IASC-2B XTALK BUS     |  7 
+IASC2      TST A |   9   | FAILED/WIRING |NO IASC-1A BUS INPUT     |  5 
+IASC2      TST A |  10   | FAILED/WIRING |NO IASC-1B BUS INPUT     |  5 
+IASC2      TST A |  11   | FAILED/WIRING |NO IASC-2 RS422 TO OFV   |  5 
+IASC2      TST A |  12   | FAILED/WIRING |IASC2 RS422 DISABLE FAIL |  5 
+IASC2      TST A |  13   | FAILED        |PIN PROGRAMMING DISAGREE |  5 
+IASC2      TST A |  14   | LRU OK / INFO |NO DCU-4 CH A BUS INPUT  |  5 
+IASC2      TST A |  15   | FAILED/WIRING |NO DCU-4 CH B BUS INPUT  |  5 
+IASC2      TST A |  16   | FAILED/WIRING |NO R-MFD-2 BUS INPUT     |  5 
+IASC1            |   1   | FAILED/WIRING |LOW TEMP DISCRETE 1 FAIL |  5 
+IASC1            |   2   | FAILED/WIRING |HI TEMP DISCRETE 1 FAIL  |  5 
+IASC2            |   1   | FAILED/WIRING |LOW TEMP DISCRETE 2 FAIL |  3 
+IASC2            |   2   | FAILED/WIRING |HI TEMP DISCRETE 2 FAIL  |  3 
+IB PRESS SWITCH  |   1   | FAILED/WIRING |IB ARINC PRESS DISAGREE  |  3 
+IB BRAKE SOV     |   1   | FAILED/WIRING |INBD SHUTOFF VALVE FAULT |  3 
+ICE DETECTOR 1   |   1   | FAILED/WIRING |ICE DETECTOR 1 FAIL      |  3 
+ICE DETECTOR 2   |   1   | FAILED/WIRING |ICE DETECTOR 2 FAIL      |  3 
+IAPS IEC 1       |   1   | FAILED        |FAN/ICC SENSOR           | 45 
+L ENG IGN UNIT   |   1   | FAILED/WIRING |IGNITION ACTIVATION 1A   |  3 
+L ENG IGN UNIT   |   2   | FAILED/WIRING |IGNITION ACTIVATION 1B   |  3 
+L ENG IGN UNIT   |   3   | FAILED        |IGNITION ACTIVATION 4    |  3 
+L ENG IGN UNIT   |   4   | FAILED        |IGNITION ACTIVATION 5    |  3 
+L ENG IGN PLUG   |   1   | FAILED/WIRING |IGNITOR A PLUG/LEAD      |  3 
+L ENG IGN PLUG   |   2   | FAILED/WIRING |IGNITOR B PLUG/LEAD      |  3 
+R ENG IGN PLUG   |   1   | FAILED/WIRING |IGNITOR A PLUG/LEAD      |  3 
+R ENG IGN PLUG   |   2   | FAILED/WIRING |IGNITOR B PLUG/LEAD      |  3 
+R ENG IGN UNIT   |   1   | FAILED/WIRING |IGNITION ACTIVATION 1A   |  3 
+R ENG IGN UNIT   |   2   | FAILED/WIRING |IGNITION ACTIVATION 1B   |  3 
+R ENG IGN UNIT   |   3   | FAILED        |IGNITION ACTIVATION 4    |  3 
+R ENG IGN UNIT   |   4   | FAILED        |IGNITION ACTIVATION 5    |  3 
+IOC 1            |   1   | DON'T FAIL    |INSTALLED                |  0 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+IOC 1            |   2   | FAILED        |INTERNAL FAULT           |  5 
+IOC 1            |   3   | FAILED        |INTERNAL FAULT           |  5 
+IOC 1            |   4   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+IOC 1            |   7   | FAILED/WIRING |NO L-IOC-1 BUS OUTPUT    | 10 
+IOC 1            |   8   | FAILED/WIRING |NO L-IOC-3 BUS OUTPUT    | 10 
+IOC 1            |   9   | FAILED/WIRING |NO L-IOC-4 BUS OUTPUT    | 10 
+IOC 1            |  10   | FAILED/WIRING |NO L-IOC-4 BUS OUTPUT    | 10 
+IOC 1            |  11   | FAILED/WIRING |NO L-IOC-4 BUS OUTPUT    | 15 
+IOC 1            |  12   | FAILED/WIRING |NO L-IOC-5 BUS OUTPUT    | 10 
+IOC 1            |  13   | FAILED/WIRING |NO L-GP-1 BUS OUTPUT     | 10 
+IOC 1            |  14   | FAILED/WIRING |NO L-GP-4 BUS OUTPUT     | 10 
+IOC 1            |  15   | FAILED/WIRING |NO L-GP-5 BUS OUTPUT     | 10 
+IOC 1            |  16   | FAILED/WIRING |NO L-IOC-2 BUS OUTPUT    | 10 
+IOC 1            |  17   | FAILED/WIRING |NO L-IOC-2 BUS OUTPUT    | 10 
+IOC 1            |  18   | FAILED/WIRING |NO L-ADC-1 BUS INPUT     | 10 
+IOC 1            |  19   | FAILED/WIRING |NO L-AHC-1 BUS INPUT     | 10 
+IOC 1            |  20   | FAILED/WIRING |NO L-IRS-1 BUS INPUT     | 10 
+IOC 1            |  21   | FAILED/WIRING |NO L-RALT-1 BUS INPUT    | 10 
+IOC 1            |  25   | FAILED/WIRING |NO PSEU-A BUS INPUT      | 10 
+IOC 1            |  26   | FAILED/WIRING |NO L-RIU-11 BUS INPUT    | 20 
+IOC 1            |  27   | FAILED/WIRING |NO L-RIU-11 BUS INPUT    | 20 
+IOC 2            |   1   | DON'T FAIL    |INSTALLED                |  0 
+IOC 2            |   2   | FAILED        |INTERNAL FAULT           |  5 
+IOC 2            |   3   | FAILED        |INTERNAL FAULT           |  5 
+IOC 2            |   4   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+IOC 2            |   7   | FAILED/WIRING |NO R-IOC-1 BUS OUTPUT    | 10 
+IOC 2            |   8   | FAILED/WIRING |NO R-IOC-3 BUS OUTPUT    | 10 
+IOC 2            |   9   | FAILED/WIRING |NO R-IOC-4 BUS OUTPUT    | 10 
+IOC 2            |  10   | FAILED/WIRING |NO R-IOC-4 BUS OUTPUT    | 15 
+IOC 2            |  11   | FAILED/WIRING |NO R-IOC-5 BUS OUTPUT    | 10 
+IOC 2            |  12   | FAILED/WIRING |NO R-GP-1 BUS OUTPUT     | 10 
+IOC 2            |  13   | FAILED/WIRING |NO R-GP-4 BUS OUTPUT     | 10 
+IOC 2            |  14   | FAILED/WIRING |NO R-GP-5 BUS OUTPUT     | 10 
+IOC 2            |  15   | FAILED/WIRING |NO R-IOC-2 BUS OUTPUT    | 10 
+IOC 2            |  16   | FAILED/WIRING |NO R-IOC-2 BUS OUTPUT    | 10 
+IOC 2            |  17   | FAILED/WIRING |NO R-ADC-1 BUS INPUT     | 10 
+IOC 2            |  18   | FAILED/WIRING |NO R-AHC-1 BUS INPUT     | 10 
+IOC 2            |  19   | FAILED/WIRING |NO R-IRS-1 BUS INPUT     | 10 
+IOC 2            |  23   | FAILED/WIRING |NO PSEU-B BUS INPUT      | 10 
+IOC 2            |  24   | FAILED/WIRING |NO L-RIU-12 BUS INPUT    | 20 
+IOC 2            |  25   | FAILED/WIRING |NO L-RIU-12 BUS INPUT    | 20 
+IRS 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+IRS 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  5 
+IRS 1            |   2   | FAILED        |INTERNAL FAULT           | 10 
+IRS 1            |   3   | FAILED/WIRING |NO L-IRS-1 BUS OUTPUT    | 10 
+IRS 1            |   4   | FAILED/WIRING |NO L-IRS-2 BUS OUTPUT    | 10 
+IRS 1            |   5   | FAILED/WIRING |NO L-IRS-2 BUS OUTPUT    | 12 
+IRS 1            |   6   | FAILED/WIRING |NO L-IRS-2 BUS OUTPUT    | 12 
+IRS 1            |   7   | FAILED/WIRING |NO L-IRS-3 BUS OUTPUT    | 10 
+IRS 1            |   8   | FAILED/WIRING |NO L-IRS-3 BUS OUTPUT    | 12 
+IRS 1            |   9   | FAILED/WIRING |NO L-IRS-3 BUS OUTPUT    | 12 
+IRS 1            |  10   | FAILED/WIRING |NO L-IRS-4 BUS OUTPUT    | 20 
+IRS 1            |  11   | FAILED/WIRING |NO L-GPS-3 BUS INPUT     | 20 
+IRS 1            |  12   | FAILED/WIRING |NO R-GPS-3 BUS INPUT     | 20 
+IRS 1            |  13   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 20 
+IRS 1            |  14   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 20 
+IRS 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+IRS 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  5 
+IRS 2            |   2   | FAILED        |INTERNAL FAULT           | 10 
+IRS 2            |   3   | FAILED/WIRING |NO R-IRS-1 BUS OUTPUT    | 15 
+IRS 2            |   4   | FAILED/WIRING |NO R-IRS-2 BUS OUTPUT    | 10 
+IRS 2            |   5   | FAILED/WIRING |NO R-IRS-2 BUS OUTPUT    | 12 
+IRS 2            |   6   | FAILED/WIRING |NO R-IRS-2 BUS OUTPUT    | 12 
+IRS 2            |   7   | FAILED/WIRING |NO R-IRS-3 BUS OUTPUT    | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+IRS 2            |   8   | FAILED/WIRING |NO R-IRS-3 BUS OUTPUT    | 12 
+IRS 2            |   9   | FAILED/WIRING |NO R-IRS-3 BUS OUTPUT    | 12 
+IRS 2            |  10   | FAILED/WIRING |NO R-IRS-4 BUS OUTPUT    | 20 
+IRS 2            |  11   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 20 
+IRS 2            |  12   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 20 
+IRS 2            |  13   | FAILED/WIRING |NO R-GPS-3 BUS INPUT     | 20 
+IRS 2            |  14   | FAILED/WIRING |NO L-GPS-3 BUS INPUT     | 20 
+IRS 3            |   0   | PREREQUISITE  |INSTALLED                |  0 
+STBY INST BATT   |   3   | FAILED        |STBY INST BATT TEST FAIL |  3 
+ISI              |   1   | OFF/NO OUTPUT |NO ISI BUS OUTPUT        |  3 
+ISI              |   2   | FAILED/WIRING |NO ISI BUS OUTPUT        |  8 
+ISI              |   3   | FAILED/WIRING |NO ISI-1 OUTPUT TO DCU   |  8 
+ISI              |   4   | FAILED        |INTERNAL FAULT           |  5 
+ISI              |   5   | FAILED/WIRING |INVALID A/C CONFIG       |  3 
+ISI              |   6   | FAILED/WIRING |INVALID CONFIG STRAPPING |  3 
+ISI              |   7   | FAILED/WIRING |NO VIR-1 BUS INPUT       |  5 
+L BLEED LOOP     |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+L BLEED LOOP     |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+L ALT BARO BTN   |   1   | FAILED/WIRING |ALT BARO BUTTON STUCK    | 10 
+L AOA SENSOR     |   1   | FAILED/WIRING |L AOA SENSOR FAIL        |  3 
+L APU GEN CNTOR1 |   1   | FAILED        |FAULT                    |  3 
+L APU GEN CNTOR2 |   1   | FAILED        |FAULT                    |  3 
+L AUX BUS CNTOR  |   1   | FAILED        |FAULT                    |  3 
+L AUX/MN BUS FUS |   1   | FAILED        |FUSE BLOWN               |  3 
+L AUX BUS FUSE   |   1   | FAILED        |FUSE BLOWN               |  3 
+L BLEED AIR LEAK |   1   | FAILED        |L BLEED DUCT AIR LEAK    |  5 
+LEFT BATTERY     |   1   | FAILED/WIRING |LBATT OR LPROT PCB FAULT |  3 
+L BAT CNTOR      |   1   | FAILED/WIRING |FAULT                    |  3 
+L BUS TIE CNTOR  |   1   | FAILED/WIRING |FAULT                    |  3 
+L CPLT BK PEDL X |   1   | FAILED/WIRING |LEFT COPILOT LVDT FAIL   |  3 
+L COLLECT PROBE  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+LIGHTNG DET SYS  |   0   | PREREQUISITE  |INSTALLED                |  0 
+LIGHTNG DET SYS  |   1   | FAILED/WIRING |NO OUTPUT                |  3 
+LIGHTNG DET SYS  |   2   | FAILED/WIRING |INTERNAL FAULT           |  3 
+LDU              |   0   | PREREQUISITE  |INSTALLED                |  0 
+LDU              |   1   | OFF/NO OUTPUT |NO OUTPUT                |  5 
+LDU              |   2   | FAILED/WIRING |NO LDU-A BUS OUTPUT      | 10 
+LDU              |   3   | FAILED/WIRING |NO LDU-B BUS OUTPUT      | 10 
+L ENG ECU A      |   1   | FAILED        |FADEC ECU A              |  3 
+L ENG ECU A      |   2   | FAILED        |FADEC VIBRATION A        |  3 
+L ENG ECU A      |   3   | FAILED/WIRING |FADEC SHUTDOWN A         |  3 
+L ENG ECU A      |   4   | FAILED/WIRING |FADEC PMA POWER A        |  3 
+L ENG ECU A      |   5   | FAILED/WIRING |X-CHANNEL BUS 1A         |  3 
+L ENG ECU A      |   6   | FAILED/WIRING |X-CHANNEL DISCRETE 1A    |  3 
+L ENG ECU A      |   7   | FAILED/WIRING |X-ENGINE BUS 1A          |  3 
+L ENG ECU A      |   8   | FAILED/WIRING |TR DEPLOY COMMAND 1A     |  3 
+L ENG ECU A      |   9   | FAILED/WIRING |TR DEPLOY COMMAND 2A     |  3 
+L ENG ECU A      |  10   | FAILED/WIRING |NO LA-FADEC-1 BUS OUTPUT |  3 
+L ENG ECU B      |   1   | FAILED        |FADEC ECU B              |  3 
+L ENG ECU B      |   2   | FAILED        |FADEC VIBRATION B        |  3 
+L ENG ECU B      |   3   | FAILED/WIRING |FADEC SHUTDOWN B         |  3 
+L ENG ECU B      |   4   | FAILED/WIRING |FADEC PMA POWER B        |  3 
+L ENG ECU B      |   5   | FAILED/WIRING |X-CHANNEL BUS 1B         |  3 
+L ENG ECU B      |   6   | FAILED/WIRING |X-CHANNEL DISCRETE 1B    |  3 
+L ENG ECU B      |   7   | FAILED/WIRING |X-ENGINE BUS 1B          |  3 
+L ENG ECU B      |   8   | FAILED/WIRING |TR DEPLOY COMMAND 1B     |  3 
+L ENG ECU B      |   9   | FAILED/WIRING |TR DEPLOY COMMAND 2B     |  3 
+L ENG ECU B      |  10   | FAILED/WIRING |NO LB-FADEC-1 BUS OUTPUT |  3 
+L ESS CNTOR      |   1   | FAILED/WIRING |FAULT                    |  3 
+L ESS FUSE       |   1   | FAILED        |FUSE BLOWN               |  3 
+L ENG EXCEEDANCE |   2   | MAINTENANCE   |N1 THRESHOLD EXCEEDANCE  |  3 
+L ENG EXCEEDANCE |   3   | MAINTENANCE   |N2 THRESHOLD EXCEEDANCE  |  3 
+L ENG EXCEEDANCE |   4   | MAINTENANCE   |ITT THRESHOLD EXCEEDANCE |  3 
+L ENG EXCEEDANCE |   5   | MAINTENANCE   |LOW OIL PRES EXCEEDANCE  |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+L ENG EXCEEDANCE |   6   | MAINTENANCE   |HIGH OIL PRES EXCEEDANCE |  3 
+L ENG EXCEEDANCE |   7   | MAINTENANCE   |HIGH OIL TEMP EXCEEDANCE |  3 
+L ENG EXCEEDANCE |   8   | MAINTENANCE   |LOW FUEL TEMP EXCEEDANCE |  3 
+L ENG EXCEEDANCE |   9   | MAINTENANCE   |VIBRATION EXCEEDANCE     |  3 
+L ENG EXCEEDANCE |  10   | MAINTENANCE   |LOW FUEL PRES EXCEEDANCE |  3 
+L TRANSM BRAKE   |   1   | FAILED        |L FTB FAULT              |  3 
+L GEN GCU        |   1   | FAILED        |FAULT                    |  3 
+LEFT GENERATOR   |   1   | FAILED        |INTERNAL FAULT           |  3 
+L GEN LINE CNTOR |   1   | FAILED/WIRING |FAULT                    |  3 
+L GEN PWR MODULE |   1   | FAILED        |FAULT                    |  3 
+L GEN PMG RLY1   |   1   | FAILED/WIRING |FAULT                    |  3 
+L GEN PMG RLY2   |   1   | FAILED/WIRING |FAULT                    |  3 
+L RACK OVERHEAT  |   1   | OVERHEAT      |L EQPT RACK OVERHEAT     |  5 
+L PYLON LOOP     |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+L PYLON LOOP     |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+L IB BK CTRL VLV |   1   | FAILED/WIRING |L IB BRAKE CTRL VLV      |  3 
+L I/B TEMP SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  3 
+LIB WHL SPD XDCR |   1   | FAILED/WIRING |L IB WHEEL SPEED XDCR    |  3 
+L IB WHEEL SP    |   1   | FAILED/WIRING |L IB WHEEL SPEED XDCR    |  3 
+L IB BRAKE HYDR  |   1   | FAILED        |L IB BRAKE HYDRAULIC     |  3 
+L IB BK PR PULSE |   1   | FAILED        |L IB BRAKE PRESS PULSE   |  3 
+L IB BK PR XDCR2 |   1   | FAILED/WIRING |L IB BRAKE PRESS XDCR    |  3 
+L LOGIC PCB      |   1   | FAILED        |L LOGIC/LBTC/RBTC FAULT  |  3 
+L MAIN FUSE      |   1   | FAILED        |FUSE BLOWN               |  3 
+L OB BK CTRL VLV |   1   | FAILED/WIRING |L OB BRAKE CTRL VLV      |  3 
+L O/B TEMP SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+L O/B TEMP SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+L O/B TEMP SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+LOB WHL SPD XDCR |   1   | FAILED/WIRING |L OB WHEEL SPEED XDCR    |  3 
+L OB WHEEL SP    |   1   | FAILED/WIRING |L OB WHEEL SPEED XDCR    |  3 
+L OB BRAKE HYDR  |   1   | FAILED        |LEFT OB BRAKE HYDRAULIC  |  3 
+L ENG OIL PROBE  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L OB BK PR PULSE |   1   | FAILED        |L OB BRAKE PRESS PULSE   |  3 
+L OB BK PR XDCR1 |   1   | FAILED        |L OB BRAKE PRESS XDCR    |  3 
+L PYLON AIR LEAK |   1   | FAILED        |L PYLON DUCT AIR LEAK    |  5 
+L PLT BK PEDAL X |   1   | FAILED/WIRING |LEFT PILOT BRAKE LVDT    |  3 
+L POSITION SNSR  |   1   | FAILED/WIRING |POSITION SENSOR FAULT    |  3 
+L POSITION SNSR  |   2   | FAILED/WIRING |FPIU POS SENSOR FAULT    |  3 
+L PROTECTION PCB |   1   | FAILED        |FAULT                    |  3 
+L PROTECTION PCB |   2   | OFF/NO OUTPUT |NO L-DCPC-1 BUS TO RDC   |  3 
+RTL RVDT         |   1   | FAILED/WIRING |RTL RVDT FAULT           |  3 
+L STICK SHAKER   |   1   | FAILED/WIRING |L SHAKER FAIL            |  3 
+L WSLD HEAT SPCC |   1   | FAILED/WIRING |L WSHLD HEAT SPCC FAILED |  3 
+L WNDW SPC RELAY |   1   | FAILED/WIRING |LEFT SPC RELAY FAILED    |  3 
+L TNK PR 8/COMP  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 1    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 2    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 3    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 4    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 5    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 6    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK PROBE 7    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L TNK HI LVL     |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+L WNDW TEMP CTRL |   1   | FAILED        |L WNDW TEMP CTRL FAILED  |  3 
+L WING AIR LEAK  |   1   | FAILED        |L PYL/FUS/WING DUCT LEAK |  5 
+L SIDE WINDOW    |   1   | FAILED/WIRING |LEFT SIDE WINDOW FAILED  |  3 
+LEFT WINDSHIELD  |   1   | FAILED/WIRING |LEFT WINDSHIELD FAILED   |  3 
+L WSLD TEMP CTRL |   1   | FAILED        |L WSHLD TEMP CTRL FAILED |  3 
+LBAT CUR SNSR3   |   1   | FAILED        |MCS3 OR LPROT PCB FAULT  |  3 
+RBAT CUR SNSR4   |   1   | FAILED        |MCS4 OR RPROT PCB FAULT  |  3 
+MDC              |   1   | FAILED        |INTERNAL FAULT           |  5 
+MDC              |   2   | FAILED        |INTERNAL CLOCK FAIL      |  5 
+MDC              |   5   | FAILED/WIRING |NO MDC-1 OUTPUT          | 10 
+MDC              |   6   | FAILED/WIRING |NO MDC-2 OUTPUT          | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+MDC              |   7   | FAILED/WIRING |NO LA-IOC-5 BUS INPUT    |  3 
+MDC              |   8   | FAILED/WIRING |NO LB-IOC-5 BUS INPUT    |  3 
+MDC              |   9   | FAILED/WIRING |NO RA-IOC-5 BUS INPUT    |  3 
+MDC              |  10   | FAILED/WIRING |NO RB-IOC-5 BUS INPUT    |  3 
+MDC              |  11   | FAILED/WIRING |NO OUTPUT BUS TO DBU     | 60 
+MFD 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+MFD 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+MFD 1            |   2   | FAILED        |INTERNAL FAULT           |  5 
+MFD 1            |   3   | FAILED/WIRING |NO L-MFD-1 BUS OUTPUT    | 10 
+MFD 1            |   4   | FAILED/WIRING |NO L-MFD-3 BUS OUTPUT    | 10 
+MFD 1            |   5   | FAILED/WIRING |NO L-PFD-3 BUS INPUT     | 10 
+MFD 1            |   6   | FAILED/WIRING |NO R-PFD-3 BUS INPUT     | 10 
+MFD 1            |   7   | FAILED/WIRING |NO R-MFD-3 BUS INPUT     | 10 
+MFD 1            |   8   | FAILED/WIRING |NO L-IOC-1 BUS INPUT     | 10 
+MFD 1            |   9   | FAILED/WIRING |NO R-IOC-1 BUS INPUT     | 10 
+MFD 1            |  10   | FAILED/WIRING |NO L-ADC-2 BUS INPUT     | 10 
+MFD 1            |  11   | FAILED/WIRING |NO L-ADC-2 BUS INPUT     |  3 
+MFD 1            |  12   | FAILED/WIRING |NO R-ADC-3 BUS INPUT     | 10 
+MFD 1            |  13   | FAILED/WIRING |NO R-ADC-3 BUS INPUT     |  3 
+MFD 1            |  14   | FAILED/WIRING |NO L-AHC-2 BUS INPUT     | 10 
+MFD 1            |  15   | FAILED/WIRING |NO L-IRS-2 BUS INPUT     | 10 
+MFD 1            |  16   | FAILED/WIRING |NO R-AHC-3 BUS INPUT     | 10 
+MFD 1            |  17   | FAILED/WIRING |NO R-IRS-3 BUS INPUT     | 10 
+MFD 1            |  18   | FAILED/WIRING |NO A-DCU-2 BUS INPUT     | 10 
+MFD 1            |  19   | FAILED/WIRING |NO B-DCU-2 BUS INPUT     | 10 
+MFD 1            |  20   | FAILED/WIRING |NO TA/RA-1 BUS INPUT     | 10 
+MFD 1            |  21   | FAILED/WIRING |NO TA/RA-1 BUS INPUT     |  3 
+MFD 1            |  22   | FAILED/WIRING |NO L-FMC-2 BUS INPUT     | 10 
+MFD 1            |  23   | FAILED/WIRING |NO L-FMC-2 BUS INPUT     |  3 
+MFD 1            |  24   | FAILED/WIRING |NO R-FMC-6 BUS INPUT     | 10 
+MFD 1            |  25   | FAILED/WIRING |NO R-FMC-6 BUS INPUT     |  3 
+MFD 1            |  26   | FAILED/WIRING |NO LB-RIU-6 BUS INPUT    | 10 
+MFD 1            |  27   | FAILED/WIRING |NO RB-RIU-9 BUS INPUT    | 10 
+MFD 1            |  28   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+MFD 1            |  29   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+MFD 1            |  30   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+MFD 1            |  31   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+MFD 1            |  32   | FAILED/WIRING |NO LDS-1 BUS INPUT       | 10 
+MFD 1            |  33   | FAILED/WIRING |NO A-RDC-3 BUS INPUT     |  5 
+MFD 1            |  34   | FAILED/WIRING |NO B-RDC-3 BUS INPUT     |  5 
+MFD 1            |  35   | FAILED        |NODE CARD FAILURE        | 10 
+MFD 1            |  36   | FAILED/WIRING |L FSU INPUT BUS FAILURE  | 10 
+MFD 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+MFD 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+MFD 2            |   2   | FAILED        |INTERNAL FAULT           |  5 
+MFD 2            |   3   | FAILED/WIRING |NO R-MFD-1 BUS OUTPUT    | 10 
+MFD 2            |   4   | FAILED/WIRING |NO R-MFD-3 BUS OUTPUT    | 10 
+MFD 2            |   5   | FAILED/WIRING |NO R-PFD-3 BUS INPUT     | 10 
+MFD 2            |   6   | FAILED/WIRING |NO L-PFD-3 BUS INPUT     | 10 
+MFD 2            |   7   | FAILED/WIRING |NO L-MFD-3 BUS INPUT     | 10 
+MFD 2            |   8   | FAILED/WIRING |NO R-IOC-1 BUS INPUT     | 10 
+MFD 2            |   9   | FAILED/WIRING |NO L-IOC-1 BUS INPUT     | 10 
+MFD 2            |  10   | FAILED/WIRING |NO R-ADC-2 BUS INPUT     | 10 
+MFD 2            |  11   | FAILED/WIRING |NO R-ADC-2 BUS INPUT     |  3 
+MFD 2            |  12   | FAILED/WIRING |NO L-ADC-3 BUS INPUT     | 10 
+MFD 2            |  13   | FAILED/WIRING |NO L-ADC-3 BUS INPUT     |  3 
+MFD 2            |  14   | FAILED/WIRING |NO R-AHC-2 BUS INPUT     | 10 
+MFD 2            |  15   | FAILED/WIRING |NO R-IRS-2 BUS INPUT     | 10 
+MFD 2            |  16   | FAILED/WIRING |NO L-AHC-3 BUS INPUT     | 10 
+MFD 2            |  17   | FAILED/WIRING |NO L-IRS-3 BUS INPUT     | 10 
+MFD 2            |  18   | FAILED/WIRING |NO A-DCU-2 BUS INPUT     | 10 
+MFD 2            |  19   | FAILED/WIRING |NO B-DCU-2 BUS INPUT     | 10 
+MFD 2            |  20   | FAILED/WIRING |NO TA/RA-2 BUS INPUT     | 10 
+MFD 2            |  21   | FAILED/WIRING |NO TA/RA-2 BUS INPUT     |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+MFD 2            |  22   | FAILED/WIRING |NO R-FMC-2 BUS INPUT     | 10 
+MFD 2            |  23   | FAILED/WIRING |NO R-FMC-2 BUS INPUT     |  3 
+MFD 2            |  24   | FAILED/WIRING |NO L-FMC-6 BUS INPUT     | 10 
+MFD 2            |  25   | FAILED/WIRING |NO L-FMC-6 BUS INPUT     |  3 
+MFD 2            |  26   | FAILED/WIRING |NO RB-RIU-6 BUS INPUT    | 10 
+MFD 2            |  27   | FAILED/WIRING |NO LB-RIU-9 BUS INPUT    | 10 
+MFD 2            |  28   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+MFD 2            |  29   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+MFD 2            |  30   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+MFD 2            |  31   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+MFD 2            |  32   | FAILED/WIRING |NO LDS-1 BUS INPUT       | 10 
+MFD 2            |  33   | FAILED/WIRING |NO A-RDC-3 BUS INPUT     |  5 
+MFD 2            |  34   | FAILED/WIRING |NO B-RDC-3 BUS INPUT     |  5 
+MFD 2            |  35   | FAILED        |NODE CARD FAILURE        | 10 
+MFD 2            |  36   | FAILED/WIRING |R FSU INPUT BUS FAILURE  | 10 
+MFD 2            |  37   | FAILED/WIRING |L FSU INPUT BUS FAILURE  | 15 
+FWD MAINT PNL    |   1   | FAILED/WIRING |MAINTENANCE ENABLE 1A    |  3 
+FWD MAINT PNL    |   2   | FAILED/WIRING |MAINTENANCE ENABLE 1B    |  3 
+FWD MAINT PNL    |   3   | FAILED        |MAINTENANCE ENABLE 4     |  3 
+FWD MAINT PNL    |   4   | FAILED/WIRING |MAINTENANCE ENABLE 1A    |  3 
+FWD MAINT PNL    |   5   | FAILED/WIRING |MAINTENANCE ENABLE 1B    |  3 
+FWD MAINT PNL    |   6   | FAILED        |MAINTENANCE ENABLE 4     |  3 
+MF SPOILER LVDT1 |   1   | FAILED/WIRING |LVDT OUT OF RANGE        |  3 
+MF SPOILER LVDT2 |   1   | FAILED/WIRING |LVDT OUT OF RANGE        |  3 
+MF SPOILER LVDT7 |   1   | FAILED/WIRING |LVDT OUT OF RANGE        |  3 
+MF SPOILER LVDT8 |   1   | FAILED/WIRING |LVDT OUT OF RANGE        |  3 
+MF SPOILER RVDT1 |   1   | FAILED/WIRING |RVDT OUT OF RANGE        |  3 
+MF SPOILER RVDT2 |   1   | FAILED/WIRING |RVDT OUT OF RANGE        |  3 
+MF SPOILER RVDT7 |   1   | FAILED/WIRING |RVDT OUT OF RANGE        |  3 
+MF SPOILER RVDT8 |   1   | FAILED/WIRING |RVDT OUT OF RANGE        |  3 
+L ENG N1 COMP    |   1   | FAILED/WIRING |N1 COMPENSATOR 1A        |  3 
+L ENG N1 COMP    |   2   | FAILED/WIRING |N1 COMPENSATOR 1B        |  3 
+L ENG N1 COMP    |   3   | FAILED        |N1 COMPENSATOR 4         |  3 
+L ENG N1 COMP    |   4   | FAILED        |N1 COMPENSATOR 5         |  3 
+R ENG N1 COMP    |   1   | FAILED/WIRING |N1 COMPENSATOR 1A        |  3 
+R ENG N1 COMP    |   2   | FAILED/WIRING |N1 COMPENSATOR 1B        |  3 
+R ENG N1 COMP    |   3   | FAILED        |N1 COMPENSATOR 4         |  3 
+R ENG N1 COMP    |   4   | FAILED        |N1 COMPENSATOR 5         |  3 
+L ENG N1 MONO    |   1   | FAILED/WIRING |N1 MONOPOLE 1A           |  3 
+L ENG N1 MONO    |   2   | FAILED/WIRING |N1 MONOPOLE 1B           |  3 
+L ENG N1 MONO    |   3   | FAILED        |N1 MONOPOLE 4            |  3 
+R ENG N1 MONO    |   1   | FAILED/WIRING |N1 MONOPOLE 1A           |  3 
+R ENG N1 MONO    |   2   | FAILED/WIRING |N1 MONOPOLE 1B           |  3 
+R ENG N1 MONO    |   3   | FAILED        |N1 MONOPOLE 4            |  3 
+L ENG N2 MONO    |   1   | FAILED/WIRING |N2 MONOPOLE 1A           |  3 
+L ENG N2 MONO    |   2   | FAILED/WIRING |N2 MONOPOLE 1B           |  3 
+L ENG N2 MONO    |   3   | FAILED        |N2 MONOPOLE 4            |  3 
+R ENG N2 MONO    |   1   | FAILED/WIRING |N2 MONOPOLE 1A           |  3 
+R ENG N2 MONO    |   2   | FAILED/WIRING |N2 MONOPOLE 1B           |  3 
+R ENG N2 MONO    |   3   | FAILED        |N2 MONOPOLE 4            |  3 
+NAV 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+NAV 1            |   1   | FAILED/WIRING |INTERNAL FAULT           |  5 
+NAV 1            |   2   | FAILED/WIRING |NO OUTPUT                |  3 
+NAV 1            |   3   | OFF/NO OUTPUT |NO L-NAV-ADF-2 OUTPUT    | 10 
+NAV 1            |   4   | OFF/NO OUTPUT |NO L-NAV-VIR-2 OUTPUT    | 10 
+NAV 1            |   5   | FAILED/WIRING |NO LA-RIU-7 BUS INPUT    | 10 
+NAV 1            |   6   | FAILED/WIRING |NO LB-RIU-7 BUS INPUT    | 10 
+NAV 1            |   7   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+NAV 1            |   8   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+NAV 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+NAV 2            |   1   | FAILED/WIRING |INTERNAL FAULT           |  5 
+NAV 2            |   2   | FAILED/WIRING |NO OUTPUT                |  3 
+NAV 2            |   3   | FAILED/WIRING |NO R-NAV-ADF-2 BUS OUT   | 10 
+NAV 2            |   4   | FAILED/WIRING |NO R-NAV-VIR-2 BUS OUT   | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+NAV 2            |   5   | FAILED/WIRING |NO RA-RIU-7 BUS INPUT    | 10 
+NAV 2            |   6   | FAILED/WIRING |RA-RIU-7 BUS INPUT FAIL  | 10 
+NAV 2            |   7   | FAILED/WIRING |NO RB-RIU-7 BUS INPUT    | 10 
+NAV 2            |   8   | FAILED/WIRING |RB-RIU-7 BUS INPUT FAIL  | 10 
+NAV 2            |   9   | FAILED/WIRING |NO R-CDU-6 BUS INPUT     | 10 
+NAV 2            |  10   | FAILED/WIRING |NO L-CDU-7 BUS INPUT     | 10 
+NOSEWHEEL STEER  |   1   | FAILED/WIRING |NOSE WHEEL STEERING FAIL |  3 
+NWS SELECT VALVE |   1   | FAILED/WIRING |SELECT VALVE STUCK OPEN  |  3 
+OB PRESS SWITCH  |   1   | FAILED/WIRING |OB ARINC PRESS DISAGREE  |  3 
+OB BRAKE SOV     |   1   | FAILED/WIRING |OB SHUTOFF VALVE FAULT   |  3 
+L ENG CHIP D/Z   |   1   | FAILED/WIRING |OIL CHIP DETECT/ZAP 1A   |  3 
+L ENG CHIP D/Z   |   2   | FAILED/WIRING |OIL CHIP DETECT/ZAP 1B   |  3 
+L ENG CHIP D/Z   |   3   | FAILED        |OIL CHIP DETECT/ZAP 4    |  3 
+L ENG CHIP D/Z   |   4   | FAILED        |OIL CHIP DETECT/ZAP 5    |  3 
+L ENG CHIP D/Z   |   5   | FAILED        |OIL CHIP DETECT/ZAP 6    |  3 
+R ENG CHIP D/Z   |   1   | FAILED/WIRING |OIL CHIP DETECT/ZAP 1A   |  3 
+R ENG CHIP D/Z   |   2   | FAILED/WIRING |OIL CHIP DETECT/ZAP 1B   |  3 
+R ENG CHIP D/Z   |   3   | FAILED        |OIL CHIP DETECT/ZAP 4    |  3 
+R ENG CHIP D/Z   |   4   | FAILED        |OIL CHIP DETECT/ZAP 5    |  3 
+R ENG CHIP D/Z   |   5   | FAILED        |OIL CHIP DETECT/ZAP 6    |  3 
+OUTFLOW VALVE    |   1   | FAILED/WIRING |NO OFV RS422 BUS OUTPUT  |  5 
+OUTFLOW VALVE    |   2   | FAILED        |OFV AUTO CHANNEL INOP    |  5 
+L ENG OIL FILTER |   1   | FAILED/WIRING |OIL FILTER BYPASS 1A     |  3 
+L ENG OIL FILTER |   2   | FAILED/WIRING |OIL FILTER BYPASS 1B     |  3 
+L ENG OIL FILTER |   3   | FAILED        |OIL FILTER BYPASS 4      |  3 
+R ENG OIL FILTER |   1   | FAILED/WIRING |OIL FILTER BYPASS 1A     |  3 
+R ENG OIL FILTER |   2   | FAILED/WIRING |OIL FILTER BYPASS 1B     |  3 
+R ENG OIL FILTER |   3   | FAILED        |OIL FILTER BYPASS 4      |  3 
+L ENG OIL TEMP   |   1   | FAILED/WIRING |OIL TEMP SENSOR 1A       |  3 
+L ENG OIL TEMP   |   2   | FAILED/WIRING |OIL TEMP SENSOR 1B       |  3 
+L ENG OIL TEMP   |   3   | FAILED/WIRING |OIL TEMP SENSOR 2A       |  3 
+L ENG OIL TEMP   |   4   | FAILED/WIRING |OIL TEMP SENSOR 2B       |  3 
+L ENG OIL TEMP   |   5   | FAILED/WIRING |OIL TEMP REFERENCE 3A    |  3 
+L ENG OIL TEMP   |   6   | FAILED/WIRING |OIL TEMP REFERENCE 3B    |  3 
+L ENG OIL TEMP   |   7   | FAILED        |OIL TEMP SENSOR 4        |  3 
+R ENG OIL TEMP   |   1   | FAILED/WIRING |OIL TEMP SENSOR 1A       |  3 
+R ENG OIL TEMP   |   2   | FAILED/WIRING |OIL TEMP SENSOR 1B       |  3 
+R ENG OIL TEMP   |   3   | FAILED/WIRING |OIL TEMP SENSOR 2A       |  3 
+R ENG OIL TEMP   |   4   | FAILED/WIRING |OIL TEMP SENSOR 2B       |  3 
+R ENG OIL TEMP   |   5   | FAILED/WIRING |OIL TEMP REFERENCE 3A    |  3 
+R ENG OIL TEMP   |   6   | FAILED/WIRING |OIL TEMP REFERENCE 3B    |  3 
+R ENG OIL TEMP   |   7   | FAILED        |OIL TEMP SENSOR 4        |  3 
+L ENG OIL PRES   |   1   | FAILED/WIRING |OIL PRESSURE SENSOR 1A   |  3 
+L ENG OIL PRES   |   2   | FAILED/WIRING |OIL PRESSURE SENSOR 1B   |  3 
+R ENG OIL PRES   |   1   | FAILED/WIRING |OIL PRESSURE SENSOR 1A   |  3 
+R ENG OIL PRES   |   2   | FAILED/WIRING |OIL PRESSURE SENSOR 1B   |  3 
+L ENG OS ID      |   1   | FAILED/WIRING |N2 OVERSPEED ID 1A       |  3 
+L ENG OS ID      |   2   | FAILED/WIRING |N2 OVERSPEED ID 1B       |  3 
+R ENG OS ID      |   1   | FAILED/WIRING |N2 OVERSPEED ID 1A       |  3 
+R ENG OS ID      |   2   | FAILED/WIRING |N2 OVERSPEED ID 1B       |  3 
+L ENG P3 TUBING  |   1   | FAILED        |P3 TUBING 4              |  3 
+R ENG P3 TUBING  |   1   | FAILED/WIRING |P3 TUBING 4              |  3 
+PILOT CW RES 1   |   1   | FAILED/WIRING |RESOLVER FAILED          |  3 
+PILOT CW RES 2   |   1   | FAILED/WIRING |RESOLVER FAILED          |  3 
+PK DISCH T SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+PK DISCH T SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+PK DISCH T SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  5 
+PFD 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+PFD 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+PFD 1            |   2   | FAILED        |INTERNAL FAULT           |  5 
+PFD 1            |   3   | FAILED/WIRING |NO L-PFD-1 BUS OUTPUT    | 10 
+PFD 1            |   4   | FAILED/WIRING |NO L-PFD-3 BUS OUTPUT    | 10 
+PFD 1            |   5   | FAILED/WIRING |NO L-MFD-3 BUS INPUT     | 10 
+PFD 1            |   6   | FAILED/WIRING |NO R-PFD-3 BUS INPUT     | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+PFD 1            |   7   | FAILED/WIRING |NO R-MFD-3 BUS INPUT     | 10 
+PFD 1            |   8   | FAILED/WIRING |NO L-IOC-1 BUS INPUT     | 10 
+PFD 1            |   9   | FAILED/WIRING |NO R-IOC-1 BUS INPUT     | 10 
+PFD 1            |  10   | FAILED/WIRING |NO L-ADC-2 BUS INPUT     | 10 
+PFD 1            |  11   | FAILED/WIRING |NO L-ADC-2 BUS INPUT     |  3 
+PFD 1            |  12   | FAILED/WIRING |NO R-ADC-3 BUS INPUT     | 10 
+PFD 1            |  13   | FAILED/WIRING |NO R-ADC-3 BUS INPUT     |  3 
+PFD 1            |  14   | FAILED/WIRING |NO L-AHC-2 BUS INPUT     | 10 
+PFD 1            |  15   | FAILED/WIRING |NO L-IRS-2 BUS INPUT     | 10 
+PFD 1            |  16   | FAILED/WIRING |NO R-AHC-3 BUS INPUT     | 10 
+PFD 1            |  17   | FAILED/WIRING |NO R-IRS-3 BUS INPUT     | 10 
+PFD 1            |  18   | FAILED/WIRING |NO A-DCU-2 BUS INPUT     | 10 
+PFD 1            |  19   | FAILED/WIRING |NO B-DCU-2 BUS INPUT     | 10 
+PFD 1            |  20   | FAILED/WIRING |NO TA/RA-1 BUS INPUT     | 10 
+PFD 1            |  21   | FAILED/WIRING |NO TA/RA-1 BUS INPUT     |  3 
+PFD 1            |  22   | FAILED/WIRING |NO L-FMC-2 BUS INPUT     | 10 
+PFD 1            |  23   | FAILED/WIRING |NO L-FMC-2 BUS INPUT     |  3 
+PFD 1            |  24   | FAILED/WIRING |NO R-FMC-6 BUS INPUT     | 10 
+PFD 1            |  25   | FAILED/WIRING |NO R-FMC-6 BUS INPUT     |  3 
+PFD 1            |  26   | FAILED/WIRING |NO LB-RIU-6 BUS INPUT    | 10 
+PFD 1            |  27   | FAILED/WIRING |NO RB-RIU-9 BUS INPUT    | 10 
+PFD 1            |  28   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+PFD 1            |  29   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+PFD 1            |  30   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+PFD 1            |  31   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+PFD 1            |  32   | FAILED/WIRING |NO LDS-1 BUS INPUT       | 10 
+PFD 1            |  33   | FAILED/WIRING |NO A-RDC-3 BUS INPUT     |  5 
+PFD 1            |  34   | FAILED/WIRING |NO B-RDC-3 BUS INPUT     |  5 
+PFD 1            |  35   | FAILED/WIRING |PFD HW NOT SVS CAPABLE   |  3 
+PFD 1            |  36   | FAILED/WIRING |INTERNAL SVS SYS FAULT   | 20 
+PFD 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+PFD 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+PFD 2            |   2   | FAILED        |INTERNAL FAULT           |  5 
+PFD 2            |   3   | FAILED/WIRING |NO R-PFD-1 BUS OUTPUT    | 10 
+PFD 2            |   4   | FAILED/WIRING |NO R-PFD-3 BUS OUTPUT    | 10 
+PFD 2            |   5   | FAILED/WIRING |NO R-MFD-3 BUS INPUT     | 10 
+PFD 2            |   6   | FAILED/WIRING |NO L-PFD-3 BUS INPUT     | 10 
+PFD 2            |   7   | FAILED/WIRING |NO L-MFD-3 BUS INPUT     | 10 
+PFD 2            |   8   | FAILED/WIRING |NO R-IOC-1 BUS INPUT     | 10 
+PFD 2            |   9   | FAILED/WIRING |NO L-IOC-1 BUS INPUT     | 10 
+PFD 2            |  10   | FAILED/WIRING |NO R-ADC-2 BUS INPUT     | 10 
+PFD 2            |  11   | FAILED/WIRING |NO R-ADC-2 BUS INPUT     |  3 
+PFD 2            |  12   | FAILED/WIRING |NO L-ADC-3 BUS INPUT     | 10 
+PFD 2            |  13   | FAILED/WIRING |NO L-ADC-3 BUS INPUT     |  3 
+PFD 2            |  14   | FAILED/WIRING |NO R-AHC-2 BUS INPUT     | 10 
+PFD 2            |  15   | FAILED/WIRING |NO R-IRS-2 BUS INPUT     | 10 
+PFD 2            |  16   | FAILED/WIRING |NO L-AHC-3 BUS INPUT     | 10 
+PFD 2            |  17   | FAILED/WIRING |NO L-IRS-3 BUS INPUT     | 10 
+PFD 2            |  18   | FAILED/WIRING |NO A-DCU-2 BUS INPUT     | 10 
+PFD 2            |  19   | FAILED/WIRING |NO B-DCU-2 BUS INPUT     | 10 
+PFD 2            |  20   | FAILED/WIRING |NO TA/RA-2 BUS INPUT     | 10 
+PFD 2            |  21   | FAILED/WIRING |NO TA/RA-2 BUS INPUT     |  3 
+PFD 2            |  22   | FAILED/WIRING |NO R-FMC-2 BUS INPUT     | 10 
+PFD 2            |  23   | FAILED/WIRING |NO R-FMC-2 BUS INPUT     |  3 
+PFD 2            |  24   | FAILED/WIRING |NO L-FMC-6 BUS INPUT     | 10 
+PFD 2            |  25   | FAILED/WIRING |NO L-FMC-6 BUS INPUT     |  3 
+PFD 2            |  26   | FAILED/WIRING |NO RB-RIU-6 BUS INPUT    | 10 
+PFD 2            |  27   | FAILED/WIRING |NO LB-RIU-9 BUS INPUT    | 10 
+PFD 2            |  28   | FAILED/WIRING |NO LA-FADEC BUS INPUT    | 10 
+PFD 2            |  29   | FAILED/WIRING |NO LB-FADEC BUS INPUT    | 10 
+PFD 2            |  30   | FAILED/WIRING |NO RA-FADEC BUS INPUT    | 10 
+PFD 2            |  31   | FAILED/WIRING |NO RB-FADEC BUS INPUT    | 10 
+PFD 2            |  32   | FAILED/WIRING |NO LDS-1 BUS INPUT       | 10 
+PFD 2            |  33   | FAILED/WIRING |NO A-RDC-3 BUS INPUT     |  5 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+PFD 2            |  34   | FAILED/WIRING |NO B-RDC-3 BUS INPUT     |  5 
+PFD 2            |  35   | FAILED/WIRING |PFD HW NOT SVS CAPABLE   | 10 
+PFD 2            |  36   | FAILED/WIRING |INTERNAL SVS SYS FAULT   | 20 
+PK INLET T SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+PK INLET T SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+PK INLET T SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+PACK AIR LEAK    |   1   | FAILED        |PACK DUCT AIR LEAK       |  5 
+PACK LOOP A      |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+PACK LOOP A      |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+PACK OVERHEAT    |   1   | OVERHEAT      |PACK TEMP HIGH           |  5 
+L ENG PMA        |   1   | FAILED/WIRING |ENGINE PMA 1A            |  3 
+L ENG PMA        |   2   | FAILED/WIRING |ENGINE PMA 1B            |  3 
+L ENG PMA        |   3   | FAILED        |ENGINE PMA 4             |  3 
+R ENG PMA        |   1   | FAILED/WIRING |ENGINE PMA 1A            |  3 
+R ENG PMA        |   2   | FAILED/WIRING |ENGINE PMA 1B            |  3 
+R ENG PMA        |   3   | FAILED        |ENGINE PMA 4             |  3 
+IAPS PWR 1       |   1   | FAILED        |NO OUTPUT                |  3 
+IAPS PWR 1       |   2   | OVERHEAT      |OVERHEATED               | 60 
+IAPS PWR 2       |   1   | FAILED        |NO OUTPUT                |  5 
+IAPS PWR 2       |   2   | OVERHEAT      |OVERHEATED               | 60 
+PSEU LRU         |   1   | OFF/NO OUTPUT |PSEU OFF/NO OUTPUT       |  3 
+PSEU LRU         |   2   | FAILED/WIRING |PSEU SYSTEM FAILURE      |  3 
+PSEU LRU         |   3   | FAILED/WIRING |BOTH GP-5 INPUT FAILED   |  3 
+PSEU LRU         |   4   | FAILED/WIRING |L ESSENTIAL BUS FAILED   |  3 
+PSEU LRU         |   5   | FAILED/WIRING |L MAIN BUS FAILED        |  3 
+PSEU LRU         |   6   | FAILED/WIRING |R ESSENTIAL BUS FAILED   |  3 
+PSEU LRU         |   7   | FAILED/WIRING |R MAIN BUS FAILED        |  3 
+PSEU LRU         |   8   | FAILED/WIRING |PSEU-B ARINC CH FAILED   |  5 
+PSEU LRU         |   9   | FAILED/WIRING |PSEU-A ARINC CH FAILED   |  5 
+PSEU LRU         |  10   | FAILED/WIRING |NO L-GP-5 BUS INPUT      |  5 
+PSEU LRU         |  11   | FAILED/WIRING |NO R-GP-5 BUS INPUT      |  5 
+PSEU LRU         |  12   | FAILED/WIRING |DIN01A FAILED            |  3 
+PSEU LRU         |  13   | FAILED/WIRING |DIN02A FAILED            |  3 
+PSEU LRU         |  14   | FAILED/WIRING |DIN03A FAILED            |  3 
+PSEU LRU         |  15   | FAILED/WIRING |DIN04A FAILED            |  3 
+PSEU LRU         |  16   | FAILED/WIRING |DIN09A FAILED            |  3 
+PSEU LRU         |  17   | FAILED/WIRING |DIN03B FAILED            |  3 
+PSEU LRU         |  18   | FAILED/WIRING |DIN04B FAILED            |  3 
+PSEU LRU         |  19   | FAILED/WIRING |DIN05B FAILED            |  3 
+PSEU LRU         |  20   | FAILED/WIRING |RMLG WOW1 SC FAIL        |  3 
+PSEU LRU         |  21   | FAILED/WIRING |LMLG WOW1 SC FAIL        |  3 
+PSEU LRU         |  22   | FAILED/WIRING |NG WOFW1 SC FAIL         |  3 
+PSEU LRU         |  23   | FAILED/WIRING |RGUPLK SC FAIL           |  3 
+PSEU LRU         |  24   | FAILED/WIRING |LGUPLK SC FAIL           |  3 
+PSEU LRU         |  25   | FAILED/WIRING |NGUPLK SC FAIL           |  3 
+PSEU LRU         |  26   | FAILED/WIRING |RGDLK1 SC FAIL           |  3 
+PSEU LRU         |  27   | FAILED/WIRING |LGDLK1 SC FAIL           |  3 
+PSEU LRU         |  28   | FAILED/WIRING |NGDLK1 SC FAIL           |  3 
+PSEU LRU         |  29   | FAILED/WIRING |LOTGSST SC FAIL          |  3 
+PSEU LRU         |  30   | FAILED/WIRING |ROTGSST SC FAIL          |  3 
+PSEU LRU         |  31   | FAILED/WIRING |PDRCL SC FAIL            |  3 
+PSEU LRU         |  32   | FAILED/WIRING |PDRLK1 SC FAIL           |  3 
+PSEU LRU         |  33   | FAILED/WIRING |PDRHLK SC FAIL           |  3 
+PSEU LRU         |  34   | FAILED/WIRING |RMLG WOW2 SC FAIL        |  3 
+PSEU LRU         |  35   | FAILED/WIRING |LMLG WOW2 SC FAIL        |  3 
+PSEU LRU         |  36   | FAILED/WIRING |NG WOFW2 SC FAIL         |  3 
+PSEU LRU         |  37   | FAILED/WIRING |LNGDRCL SC FAIL          |  3 
+PSEU LRU         |  38   | FAILED/WIRING |RNGDRCL SC FAIL          |  3 
+PSEU LRU         |  39   | FAILED/WIRING |RGDLK2 SC FAIL           |  3 
+PSEU LRU         |  40   | FAILED/WIRING |LGDLK2 SC FAIL           |  3 
+PSEU LRU         |  41   | FAILED/WIRING |NGDLK2 SC FAIL           |  3 
+PSEU LRU         |  42   | FAILED/WIRING |LINGSST SC FAIL          |  3 
+PSEU LRU         |  43   | FAILED/WIRING |RINGSST SC FAIL          |  3 
+PSEU LRU         |  44   | FAILED/WIRING |BGDRCL SC FAIL           |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+PSEU LRU         |  45   | FAILED/WIRING |BGDRHLK SC FAIL          |  3 
+PSEU LRU         |  46   | FAILED/WIRING |AEBDRCL SC FAIL          |  3 
+PSEU LRU         |  47   | FAILED/WIRING |BABDRCL SC FAIL          |  3 
+PSEU LRU         |  48   | FAILED/WIRING |ROEDRLK SC FAIL          |  3 
+PSEU LRU         |  49   | FAILED/WIRING |MLGWOW LAHRC DRV FAIL    |  3 
+PSEU LRU         |  50   | FAILED/WIRING |LGWOFW1 BCU DRV FAIL     |  3 
+PSEU LRU         |  51   | FAILED/WIRING |MLGWOW SPC CH-A DRV FAIL |  3 
+PSEU LRU         |  52   | FAILED/WIRING |RGWOFW1 BCU DRV FAIL     |  3 
+PSEU LRU         |  53   | FAILED/WIRING |MLGWOW CCRK50 DRV FAIL   |  3 
+PSEU LRU         |  54   | FAILED/WIRING |MLGWOW APU DRV FAIL      |  3 
+PSEU LRU         |  55   | FAILED/WIRING |MLGWOW LDCPC DRV FAIL    |  3 
+PSEU LRU         |  56   | FAILED/WIRING |MLGWOW CLOCK DRV FAIL    |  3 
+PSEU LRU         |  57   | FAILED/WIRING |MLGWOW TRK19 DRV FAIL    |  3 
+PSEU LRU         |  58   | FAILED/WIRING |MLGWOW LTDR DRV FAIL     |  3 
+PSEU LRU         |  59   | FAILED/WIRING |MLGWOW LFCU DRV FAIL     |  3 
+PSEU LRU         |  60   | FAILED/WIRING |NGWOW SCU DRV FAIL       |  3 
+PSEU LRU         |  61   | FAILED/WIRING |MLGWOW RAHRC DRV FAIL    |  3 
+PSEU LRU         |  62   | FAILED/WIRING |MLGWOW TCAS DRV FAIL     |  3 
+PSEU LRU         |  63   | FAILED/WIRING |MLGWOW TSS DRV FAIL      |  3 
+PSEU LRU         |  64   | FAILED/WIRING |MLGWOW FIREX DRV FAIL    |  3 
+PSEU LRU         |  65   | FAILED/WIRING |RETRACT BCU DRV FAIL     |  3 
+PSEU LRU         |  66   | FAILED/WIRING |LGWOFW2 BCU DRV FAIL     |  3 
+PSEU LRU         |  67   | FAILED/WIRING |NGDNLK SCU DRV FAIL      |  3 
+PSEU LRU         |  68   | FAILED/WIRING |NOT MLGDNLK BCU DRV FAIL |  3 
+PSEU LRU         |  69   | FAILED/WIRING |LDCMP EN LDCMP DRV FAIL  |  3 
+PSEU LRU         |  70   | FAILED/WIRING |RET VALVE DRV FAIL       |  3 
+PSEU LRU         |  71   | FAILED/WIRING |MLGDNLK TCAS DRV FAIL    |  3 
+PSEU LRU         |  72   | FAILED/WIRING |MLGWOW SPC-CHA DRV FAIL  |  3 
+PSEU LRU         |  73   | FAILED/WIRING |RGWOFW2 BCU DRV FAIL     |  3 
+PSEU LRU         |  74   | FAILED/WIRING |MLGWOW RDCPC DRV FAIL    |  3 
+PSEU LRU         |  75   | FAILED/WIRING |MLGWOW CVRK40 DRV FAIL   |  3 
+PSEU LRU         |  76   | FAILED/WIRING |MLGWOW TRK18 DRV FAIL    |  3 
+PSEU LRU         |  77   | FAILED/WIRING |MLGWOW RTDR DRV FAIL     |  3 
+PSEU LRU         |  78   | FAILED/WIRING |ALLGEARWOW RFCU DRV FAIL |  3 
+PSEU LRU         |  79   | FAILED/WIRING |NGWOW SCU DRV FAIL       |  3 
+PSEU LRU         |  80   | FAILED/WIRING |MLGWOFW FSCU DRV FAIL    |  3 
+PSEU LRU         |  81   | FAILED/WIRING |MLGWOW PL13 DRV FAIL     |  3 
+PSEU LRU         |  82   | FAILED/WIRING |MLGWOW TAT PR DRV FAIL   |  3 
+PSEU LRU         |  83   | FAILED/WIRING |RETRACT BCU DRV FAIL     |  3 
+PSEU LRU         |  84   | FAILED/WIRING |NOT RGDNLK BCU DRV FAIL  |  3 
+PSEU LRU         |  85   | FAILED/WIRING |RDCMP_EN RDCMP DRV FAIL  |  3 
+PSEU LRU         |  86   | FAILED/WIRING |MLGDNLK CCRK51 DRV FAIL  |  3 
+PSEU LRU         |  87   | FAILED/WIRING |MLGWOW SPC-CHB DRV FAIL  |  3 
+PSEU LRU         |  88   | FAILED/WIRING |PTU_EN PTU DRV FAIL      |  3 
+PSEU LRU         |  89   | FAILED/WIRING |MLGWOW SPC-CHB DRV FAIL  |  3 
+PSEU LRU         |  90   | FAILED/WIRING |LEFT GEAR NO MVT         |  3 
+PSEU LRU         |  91   | FAILED/WIRING |RIGHT GEAR NO MVT        |  3 
+PSEU LRU         |  92   | FAILED/WIRING |NOSE GEAR NO MVT         |  3 
+PSEU LRU         |  93   | FAILED/WIRING |LEFT GEAR TIME EXCEEDED  |  3 
+PSEU LRU         |  94   | FAILED/WIRING |NOSE GEAR TIME EXCEEDED  |  3 
+PSEU LRU         |  95   | FAILED/WIRING |RIGHT GEAR TIME EXCEEDED |  3 
+PSEU LRU         |  96   | FAILED/WIRING |LG UNCOMMANDED MVT       |  3 
+PSEU LRU         |  97   | FAILED/WIRING |NG UNCOMMANDED MVT       |  3 
+PSEU LRU         |  98   | FAILED/WIRING |RG UNCOMMANDED MVT       |  3 
+PSEU LRU         |  99   | FAILED/WIRING |DIN01A REASONABLENESS    |  3 
+PSEU LRU         | 100   | FAILED/WIRING |DIN02A REASONABLENESS    |  3 
+PSEU LRU         | 101   | FAILED/WIRING |DIN02B FAILED            |  3 
+PSEU LRU         | 102   | FAILED/WIRING |DIN06B FAILED            |  3 
+PSEU LRU         | 103   | FAILED/WIRING |DIN01B FAILED            |  3 
+PSEU LRU         | 104   | FAILED/WIRING |DEGRADED ARINC A INPUT   |  3 
+PSEU LRU         | 105   | FAILED/WIRING |DEGRADED ARINC B INPUT   |  3 
+PSEU LRU         | 106   | FAILED/WIRING |MLGWOW K159 DRV FAIL     |  3 
+PSEU LRU         | 107   | FAILED/WIRING |MLGWOW K158 DRV FAIL     |  3 
+PSEU LRU         | 108   | FAILED/WIRING |DIN09A REASONABLENESS    |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+PSEU LRU         | 109   | FAILED/WIRING |LFWSOV K59 DRV FAIL      |  3 
+PSEU LRU         | 110   | FAILED/WIRING |RFWSOV K60 DRV FAIL      |  3 
+PSEU LRU         | 111   | FAILED/WIRING |DIN11A FAILED            |  3 
+PSEU LRU         | 112   | FAILED/WIRING |DIN11B FAILED            |  3 
+PSEU LRU         | 113   | FAILED/WIRING |HMDG K170 DRV FAIL       |  3 
+PSEU LRU         | 114   | FAILED/WIRING |RET VALVE DRV FAIL       |  3 
+PACK TEMP SNSR   |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+RGWOW1 SNSR      |   1   | FAILED/WIRING |RMLG WOW1 OPEN           |  3 
+RGWOW1 SNSR      |   2   | FAILED/WIRING |RMLG WOW1 SHORTED        |  3 
+RGWOW1 SNSR      |   3   | FAILED/WIRING |RMLG WOW1 REASONABLENESS |  3 
+RGWOW1 SNSR      |   4   | FAILED/WIRING |RMLG WOW1 RIGGING        |  3 
+LGWOW1 SNSR      |   1   | FAILED/WIRING |LMLG WOW1 OPEN           |  3 
+LGWOW1 SNSR      |   2   | FAILED/WIRING |LMLG WOW1 SHORTED        |  3 
+LGWOW1 SNSR      |   3   | FAILED/WIRING |LMLG WOW1 REASONABLENESS |  3 
+LGWOW1 SNSR      |   4   | FAILED/WIRING |LMLG WOW1 RIGGING        |  3 
+NGWOFW1 SNSR     |   1   | FAILED/WIRING |NG WOFW1 OPEN            |  3 
+NGWOFW1 SNSR     |   2   | FAILED/WIRING |NG WOFW1 SHORTED         |  3 
+NGWOFW1 SNSR     |   3   | FAILED/WIRING |NG WOFW1 REASONABLENESS  |  3 
+NGWOFW1 SNSR     |   4   | FAILED/WIRING |NG WOFW1 RIGGING         |  3 
+RGUPLK SNSR      |   1   | FAILED/WIRING |RMLG UPLK OPEN           |  3 
+RGUPLK SNSR      |   2   | FAILED/WIRING |RMLG UPLK SHORTED        |  3 
+RGUPLK SNSR      |   3   | FAILED/WIRING |RMLG UPLK REASONABLENESS |  3 
+RGUPLK SNSR      |   4   | FAILED/WIRING |RMLG UPLK RIGGING        |  3 
+LGUPLK SNSR      |   1   | FAILED/WIRING |LMLG UPLK OPEN           |  3 
+LGUPLK SNSR      |   2   | FAILED/WIRING |LMLG UPLK SHORTED        |  3 
+LGUPLK SNSR      |   3   | FAILED/WIRING |LMLG UPLK REASONABLENESS |  3 
+LGUPLK SNSR      |   4   | FAILED/WIRING |LMLG UPLK RIGGING        |  3 
+NGUPLK SNSR      |   1   | FAILED/WIRING |NG UPLK OPEN             |  3 
+NGUPLK SNSR      |   2   | FAILED/WIRING |NG UPLK SHORTED          |  3 
+NGUPLK SNSR      |   3   | FAILED/WIRING |NG UPLK REASONABLENESS   |  3 
+NGUPLK SNSR      |   4   | FAILED/WIRING |NG UPLK RIGGING          |  3 
+RGDLK1 SNSR      |   1   | FAILED/WIRING |RMLG DNLK1 OPEN          |  3 
+RGDLK1 SNSR      |   2   | FAILED/WIRING |RMLG DNLK1 SHORTED       |  3 
+RGDLK1 SNSR      |   3   | FAILED/WIRING |RMLG DNLK1 REASONABLENES |  3 
+RGDLK1 SNSR      |   4   | FAILED/WIRING |RMLG DNLK1 RIGGING       |  3 
+LGDLK1 SNSR      |   1   | FAILED/WIRING |LMLG DNLK1 OPEN          |  3 
+LGDLK1 SNSR      |   2   | FAILED/WIRING |LMLG DNLK1  SHORTED      |  3 
+LGDLK1 SNSR      |   3   | FAILED/WIRING |LMLG DNLK1 REASONABLENES |  3 
+LGDLK1 SNSR      |   4   | FAILED/WIRING |LMLG DNLK1 RIGGING       |  3 
+NGDLK1 SNSR      |   1   | FAILED/WIRING |NG DNLK1 OPEN            |  3 
+NGDLK1 SNSR      |   2   | FAILED/WIRING |NG DNLK1  SHORTED        |  3 
+NGDLK1 SNSR      |   3   | FAILED/WIRING |NG DNLK1 REASONABLENESS  |  3 
+NGDLK1 SNSR      |   4   | FAILED/WIRING |NG DNLK1 RIGGING         |  3 
+LOTGSST SNSR     |   1   | FAILED/WIRING |LOTGSST OPEN             |  3 
+LOTGSST SNSR     |   2   | FAILED/WIRING |LOTGSST SHORTED          |  3 
+LOTGSST SNSR     |   3   | FAILED/WIRING |LOTGSST REASONABLENESS   |  3 
+LOTGSST SNSR     |   4   | FAILED/WIRING |LOTGSST RIGGING          |  3 
+ROTGSST SNSR     |   1   | FAILED/WIRING |ROTGSST OPEN             |  3 
+ROTGSST SNSR     |   2   | FAILED/WIRING |ROTGSST SHORTED          |  3 
+ROTGSST SNSR     |   3   | FAILED/WIRING |ROTGSST REASONABLENESS   |  3 
+ROTGSST SNSR     |   4   | FAILED/WIRING |ROTGSST RIGGING          |  3 
+PDRCL SNSR       |   1   | FAILED/WIRING |PDRCL OPEN               |  3 
+PDRCL SNSR       |   2   | FAILED/WIRING |PDRCL SHORTED            |  3 
+PDRCL SNSR       |   3   | FAILED/WIRING |PDRCL REASONABLENESS     |  3 
+PDRCL SNSR       |   4   | FAILED/WIRING |PDRCL RIGGING            |  3 
+PDRLK1 SNSR      |   1   | FAILED/WIRING |PDRLK1 OPEN              |  3 
+PDRLK1 SNSR      |   2   | FAILED/WIRING |PDRLK1 SHORTED           |  3 
+PDRLK1 SNSR      |   3   | FAILED/WIRING |PDRLK1 REASONABLENESS    |  3 
+PDRLK1 SNSR      |   4   | FAILED/WIRING |PDRLK1 RIGGING           |  3 
+PDRHLK SNSR      |   1   | FAILED/WIRING |PDRHLK OPEN              |  3 
+PDRHLK SNSR      |   2   | FAILED/WIRING |PDRHLK SHORTED           |  3 
+PDRHLK SNSR      |   3   | FAILED/WIRING |PDRHLK REASONABLENESS    |  3 
+PDRHLK SNSR      |   4   | FAILED/WIRING |PDRHLK RIGGING           |  3 
+RGWOW2 SNSR      |   1   | FAILED/WIRING |RMLG WOW2 OPEN           |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+RGWOW2 SNSR      |   2   | FAILED/WIRING |RMLG WOW2 SHORTED        |  3 
+RGWOW2 SNSR      |   3   | FAILED/WIRING |RMLG WOW2 REASONABLENESS |  3 
+RGWOW2 SNSR      |   4   | FAILED/WIRING |RMLG WOW2 RIGGING        |  3 
+LGWOW2 SNSR      |   1   | FAILED/WIRING |LMLG WOW2 OPEN           |  3 
+LGWOW2 SNSR      |   2   | FAILED/WIRING |LMLG WOW2 SHORTED        |  3 
+LGWOW2 SNSR      |   3   | FAILED/WIRING |LMLG WOW2 REASONABLENESS |  3 
+LGWOW2 SNSR      |   4   | FAILED/WIRING |LMLG WOW2 RIGGING        |  3 
+NGWOFW2 SNSR     |   1   | FAILED/WIRING |NG WOFW2 OPEN            |  3 
+NGWOFW2 SNSR     |   2   | FAILED/WIRING |NG WOFW2 SHORTED         |  3 
+NGWOFW2 SNSR     |   3   | FAILED/WIRING |NG WOFW2 REASONABLENESS  |  3 
+NGWOFW2 SNSR     |   4   | FAILED/WIRING |NG WOFW2 RIGGING         |  3 
+LNGDRCL SNSR     |   1   | FAILED/WIRING |LNGDRCL OPEN             |  3 
+LNGDRCL SNSR     |   2   | FAILED/WIRING |LNGDRCL  SHORTED         |  3 
+LNGDRCL SNSR     |   3   | FAILED/WIRING |LNGDRCL REASONABLENESS   |  3 
+LNGDRCL SNSR     |   4   | FAILED/WIRING |LNGDRCL RIGGING          |  3 
+RNGDRCL SNSR     |   1   | FAILED/WIRING |RNGDRCL OPEN             |  3 
+RNGDRCL SNSR     |   2   | FAILED/WIRING |RNGDRCL SHORTED          |  3 
+RNGDRCL SNSR     |   3   | FAILED/WIRING |RNGDRCL REASONABLENESS   |  3 
+RNGDRCL SNSR     |   4   | FAILED/WIRING |RNGDRCL RIGGING          |  3 
+RGDLK2 SNSR      |   1   | FAILED/WIRING |RMLG DNLK2 OPEN          |  3 
+RGDLK2 SNSR      |   2   | FAILED/WIRING |RMLG DNLK2 SHORTED       |  3 
+RGDLK2 SNSR      |   3   | FAILED/WIRING |RMLG DNLK2 REASONABLENES |  3 
+RGDLK2 SNSR      |   4   | FAILED/WIRING |RMLG DNLK2 RIGGING       |  3 
+LGDLK2 SNSR      |   1   | FAILED/WIRING |LMLG DNLK2 OPEN          |  3 
+LGDLK2 SNSR      |   2   | FAILED/WIRING |LMLG DNLK2 SHORTED       |  3 
+LGDLK2 SNSR      |   3   | FAILED/WIRING |LMLG DNLK2 REASONABLENES |  3 
+LGDLK2 SNSR      |   4   | FAILED/WIRING |LMLG DNLK2 RIGGING       |  3 
+NGDLK2 SNSR      |   1   | FAILED/WIRING |NG DNLK2 OPEN            |  3 
+NGDLK2 SNSR      |   2   | FAILED/WIRING |NG DNLK2 SHORTED         |  3 
+NGDLK2 SNSR      |   3   | FAILED/WIRING |NG DNLK2 REASONABLENESS  |  3 
+NGDLK2 SNSR      |   4   | FAILED/WIRING |NG DNLK2 RIGGING         |  3 
+LINGSST SNSR     |   1   | FAILED/WIRING |LINGSST OPEN             |  3 
+LINGSST SNSR     |   2   | FAILED/WIRING |LINGSST SHORTED          |  3 
+LINGSST SNSR     |   3   | FAILED/WIRING |LINGSST REASONABLENESS   |  3 
+LINGSST SNSR     |   4   | FAILED/WIRING |LINGSST RIGGING          |  3 
+RINGSST SNSR     |   1   | FAILED/WIRING |RINGSST OPEN             |  3 
+RINGSST SNSR     |   2   | FAILED/WIRING |RINGSST SHORTED          |  3 
+RINGSST SNSR     |   3   | FAILED/WIRING |RINGSST REASONABLENESS   |  3 
+RINGSST SNSR     |   4   | FAILED/WIRING |RINGSST RIGGING          |  3 
+BGDRCL SNSR      |   1   | FAILED/WIRING |BGDRCL OPEN              |  3 
+BGDRCL SNSR      |   2   | FAILED/WIRING |BGDRCL SHORTED           |  3 
+BGDRCL SNSR      |   3   | FAILED/WIRING |BGDRCL REASONABLENESS    |  3 
+BGDRCL SNSR      |   4   | FAILED/WIRING |BGDRCL RIGGING           |  3 
+BGDRHLK SNSR     |   1   | FAILED/WIRING |BGDRHLK OPEN             |  3 
+BGDRHLK SNSR     |   2   | FAILED/WIRING |BGDRHLK SHORTED          |  3 
+BGDRHLK SNSR     |   3   | FAILED/WIRING |BGDRHLK REASONABLENESS   |  3 
+BGDRHLK SNSR     |   4   | FAILED/WIRING |BGDRHLK RIGGING          |  3 
+AEBDRCL SNSR     |   1   | FAILED/WIRING |AEBDRCL OPEN             |  3 
+AEBDRCL SNSR     |   2   | FAILED/WIRING |AEBDRCL SHORTED          |  3 
+AEBDRCL SNSR     |   3   | FAILED/WIRING |AEBDRCL REASONABLENESS   |  3 
+AEBDRCL SNSR     |   4   | FAILED/WIRING |AEBDRCL RIGGING          |  3 
+BABDRCL SNSR     |   1   | FAILED/WIRING |BABDRCL OPEN             |  3 
+BABDRCL SNSR     |   2   | FAILED/WIRING |BABDRCL SHORTED          |  3 
+BABDRCL SNSR     |   3   | FAILED/WIRING |BABDRCL REASONABLENESS   |  3 
+BABDRCL SNSR     |   4   | FAILED/WIRING |BABDRCL RIGGING          |  3 
+ROEDRLK SNSR     |   1   | FAILED/WIRING |ROEDRLK OPEN             |  3 
+ROEDRLK SNSR     |   2   | FAILED/WIRING |ROEDRLK SHORT            |  3 
+ROEDRLK SNSR     |   3   | FAILED/WIRING |ROEDRLK REASONABLENESS   |  3 
+ROEDRLK SNSR     |   4   | FAILED/WIRING |ROEDRLK RIGGING          |  3 
+PRECOOLER XVALVE |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+PRECOOLER XVALVE |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+R BLEED LOOP     |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+R BLEED LOOP     |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+R ALT BARO BTN   |   1   | FAILED/WIRING |ALT BARO BUTTON STUCK    | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+RAD ALT 4000     |   0   | PREREQUISITE  |INSTALLED                |  0 
+RAD ALT 4000     |   1   | FAILED/WIRING |NO OUTPUT                |  3 
+RAD ALT 4000     |   2   | FAILED/WIRING |NO OUTPUT                |  3 
+RAD ALT 4000     |   3   | FAILED/WIRING |ALTIMETER FAIL           |  5 
+RAD ALT 4000     |   4   | FAILED        |INTERNAL FAULT           |  5 
+RAD ALT 4000     |   5   | FAILED/WIRING |NO RALT-1 BUS OUTPUT     | 10 
+RAD ALT 4000     |   6   | FAILED/WIRING |NO RALT-1 BUS OUTPUT     | 10 
+RAD ALT 4000     |   7   | FAILED/WIRING |NO RALT-2 BUS OUTPUT     | 10 
+R AOA SENSOR     |   1   | FAILED/WIRING |R AOA SENSOR FAIL        |  3 
+R APU GEN CNTOR1 |   1   | FAILED        |FAULT                    |  3 
+R APU GEN CNTOR2 |   1   | FAILED        |FAULT                    |  3 
+RAM AIR REG VLV  |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+RAM AIR REG VLV  |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+R AUX BUS CNTOR  |   1   | FAILED        |FAULT                    |  3 
+RAM AIR VALVE    |   1   | FAILED/WIRING |DISAGREE / VALVE OPEN    | 10 
+RAM AIR VALVE    |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    | 10 
+RAM AIR VALVE    |   3   | FAILED/WIRING |DISAGREE / VALVE CLOSED  | 10 
+RAM AIR VALVE    |   4   | FAILED/WIRING |DISAGREE / VALVE CLOSED  | 10 
+R AUX/MN BUS FUS |   1   | FAILED        |FUSE BLOWN               |  3 
+R AUX BUS FUSE   |   1   | FAILED        |FUSE BLOWN               |  3 
+R BLEED AIR LEAK |   1   | FAILED        |R BLEED DUCT AIR LEAK    |  5 
+RIGHT BATTERY    |   1   | FAILED/WIRING |RBATT OR RPROT PCB FAULT |  3 
+R BAT CNTOR      |   1   | FAILED/WIRING |FAULT                    |  3 
+R BUS TIE CNTOR  |   1   | FAILED/WIRING |FAULT                    |  3 
+R CPLT PEDL X    |   1   | FAILED        |R COPILOT BRAKE LVDT     |  3 
+R COLLECT PROBE  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+RDC A&B          |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+RDC A&B          |   2   | OFF/NO OUTPUT |NO RDC CH A OUTPUT       |  3 
+RDC A&B          |   3   | OFF/NO OUTPUT |NO RDC CH B OUTPUT       |  3 
+RDC A&B          |   4   | FAILED/WIRING |INTERNAL FAULT CH A      |  5 
+RDC A&B          |   5   | FAILED/WIRING |INTERNAL FAULT CH B      |  5 
+RDC A&B          |   6   | FAILED/WIRING |NO A-RDC-1 BUS OUTPUT    | 10 
+RDC A&B          |   7   | FAILED/WIRING |NO A-RDC-2 BUS OUTPUT    | 10 
+RDC A&B          |   8   | FAILED/WIRING |NO B-RDC-1 BUS OUTPUT    | 10 
+RDC A&B          |   9   | FAILED/WIRING |NO B-RDC-2 BUS OUTPUT    | 10 
+RDC A&B          |  10   | FAILED/WIRING |NO A-RDC-3 BUS OUTPUT    |  5 
+RDC A&B          |  11   | FAILED/WIRING |NO B-RDC-3 BUS OUTPUT    |  5 
+RDC A&B          |  12   | FAILED/WIRING |NO L-DCPC INPUT TO CH A  | 10 
+RDC A&B          |  13   | FAILED/WIRING |NO R-DCPC INPUT TO CH A  | 10 
+RDC A&B          |  14   | FAILED/WIRING |NO L-DCPC INPUT TO CH B  | 10 
+RDC A&B          |  15   | FAILED/WIRING |NO R-DCPC INPUT TO CH B  | 10 
+RDC A&B          |  16   | FAILED/WIRING |NO FQGC-1 INPUT TO CH A  | 10 
+RDC A&B          |  17   | FAILED/WIRING |NO FQGC-1 INPUT TO CH B  | 10 
+RDC A&B          |  18   | FAILED/WIRING |NO FQGC-2 INPUT TO CH A  | 10 
+RDC A&B          |  19   | FAILED/WIRING |NO FQGC-2 INPUT TO CH B  | 10 
+RDC A&B          |  20   | FAILED/WIRING |NO BCU-1 INPUT TO CH A   | 10 
+RDC A&B          |  21   | FAILED/WIRING |NO BCU-1 INPUT TO CH B   | 10 
+RDC A&B          |  22   | FAILED/WIRING |NO BCU-2 INPUT TO CH A   | 10 
+RDC A&B          |  23   | FAILED/WIRING |NO BCU-2 INPUT TO CH B   | 10 
+RDC A&B          |  24   | FAILED/WIRING |NO APU BUS INPUT TO CH A | 15 
+RDC A&B          |  25   | FAILED/WIRING |NO APU BUS INPUT TO CH B | 15 
+RDC A&B          |  26   | FAILED/WIRING |NO A-DCU-5 INPUT TO CH A | 15 
+RDC A&B          |  30   | FAILED/WIRING |NO IASC-1A BUS INPUT     |  5 
+RDC A&B          |  31   | FAILED/WIRING |NO IASC1-A INPUT TO CH A |  5 
+RDC A&B          |  32   | FAILED/WIRING |NO IASC1-A INPUT TO CH B |  5 
+RDC A&B          |  33   | FAILED/WIRING |NO IASC-2A BUS INPUT     |  5 
+RDC A&B          |  34   | FAILED/WIRING |NO IASC2-A INPUT TO CH A |  5 
+RDC A&B          |  35   | FAILED/WIRING |NO IASC2-A INPUT TO CH B |  5 
+R ENG ECU A      |   1   | FAILED        |FADEC ECU A              |  3 
+R ENG ECU A      |   2   | FAILED        |FADEC VIBRATION A        |  3 
+R ENG ECU A      |   3   | FAILED/WIRING |FADEC SHUTDOWN A         |  3 
+R ENG ECU A      |   4   | FAILED/WIRING |FADEC PMA POWER A        |  3 
+R ENG ECU A      |   5   | FAILED/WIRING |X-CHANNEL BUS 1A         |  3 
+R ENG ECU A      |   6   | FAILED/WIRING |X-CHANNEL DISCRETE 1A    |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+R ENG ECU A      |   7   | FAILED/WIRING |X-ENGINE BUS 1A          |  3 
+R ENG ECU A      |   8   | FAILED/WIRING |TR DEPLOY COMMAND 1A     |  3 
+R ENG ECU A      |   9   | FAILED/WIRING |TR DEPLOY COMMAND 2A     |  3 
+R ENG ECU A      |  10   | FAILED/WIRING |NO RA-FADEC-1 BUS OUPUT  |  3 
+R ENG ECU B      |   1   | FAILED        |FADEC ECU B              |  3 
+R ENG ECU B      |   2   | FAILED        |FADEC VIBRATION B        |  3 
+R ENG ECU B      |   3   | FAILED/WIRING |FADEC SHUTDOWN B         |  3 
+R ENG ECU B      |   4   | FAILED/WIRING |FADEC PMA POWER B        |  3 
+R ENG ECU B      |   5   | FAILED/WIRING |X-CHANNEL BUS 1B         |  3 
+R ENG ECU B      |   6   | FAILED/WIRING |X-CHANNEL DISCRETE 1B    |  3 
+R ENG ECU B      |   7   | FAILED/WIRING |X-ENGINE BUS 1B          |  3 
+R ENG ECU B      |   8   | FAILED/WIRING |TR DEPLOY COMMAND 1B     |  3 
+R ENG ECU B      |   9   | FAILED/WIRING |TR DEPLOY COMMAND 2B     |  3 
+R ENG ECU B      |  10   | FAILED/WIRING |NO RB-FADEC-1 BUS OUTPUT |  3 
+R ESS CNTOR      |   1   | FAILED/WIRING |FAULT                    |  3 
+R ESS FUSE       |   1   | FAILED        |FUSE BLOWN               |  3 
+R ENG EXCEEDANCE |   2   | MAINTENANCE   |N1 THRESHOLD EXCEEDANCE  |  3 
+R ENG EXCEEDANCE |   3   | MAINTENANCE   |N2 THRESHOLD EXCEEDANCE  |  3 
+R ENG EXCEEDANCE |   4   | MAINTENANCE   |ITT THRESHOLD EXCEEDANCE |  3 
+R ENG EXCEEDANCE |   5   | MAINTENANCE   |LOW OIL PRES EXCEEDANCE  |  3 
+R ENG EXCEEDANCE |   6   | MAINTENANCE   |HIGH OIL PRES EXCEEDANCE |  3 
+R ENG EXCEEDANCE |   7   | MAINTENANCE   |HIGH OIL TEMP EXCEEDANCE |  3 
+R ENG EXCEEDANCE |   8   | MAINTENANCE   |LOW FUEL TEMP EXCEEDANCE |  3 
+R ENG EXCEEDANCE |   9   | MAINTENANCE   |VIBRATION EXCEEDANCE     |  3 
+R ENG EXCEEDANCE |  10   | MAINTENANCE   |LOW FUEL PRES EXCEEDANCE |  3 
+R TRANSM BRAKE   |   1   | FAILED        |R FTB FAULT              |  3 
+R GEN GCU        |   1   | FAILED        |FAULT                    |  3 
+RIGHT GENERATOR  |   1   | FAILED        |INTERNAL FAULT           |  3 
+R GEN LINE CNTOR |   1   | FAILED/WIRING |FAULT                    |  3 
+R GEN PWR MODULE |   1   | FAILED        |FAULT                    |  3 
+R GEN PMG RLY1   |   1   | FAILED/WIRING |FAULT                    |  3 
+R GEN PMG RLY2   |   1   | FAILED/WIRING |FAULT                    |  3 
+R RACK OVERHEAT  |   1   | OVERHEAT      |R EQPT RACK OVERHEAT     |  5 
+R PYLON LOOP     |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+R PYLON LOOP     |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+R IB BK CTRL VLV |   1   | FAILED        |R IB BRAKE CTRL VALVE    |  3 
+R I/B TEMP SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  3 
+RIB WHL SPD XDCR |   1   | FAILED/WIRING |R IB WHEEL SPEED XDCR    |  3 
+R IB WHEEL SP    |   1   | FAILED/WIRING |R IB WHEEL SPEED XDCR    |  3 
+R IB BRAKE HYDR  |   1   | FAILED        |R IB BRAKE HYDRAULIC     |  3 
+R IB BK PR PULSE |   1   | FAILED        |R IB BRAKE PRESS PULSE   |  3 
+R IB BK PR XDCR3 |   1   | FAILED/WIRING |R IB BRAKE PRESS XDCR    |  3 
+RIU 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+RIU 1            |   2   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+RIU 1            |   3   | OFF/NO OUTPUT |NO L RIU CHAN A OUTPUT   |  6 
+RIU 1            |   4   | OFF/NO OUTPUT |NO L RIU CHAN A OUTPUT   |  6 
+RIU 1            |   5   | OFF/NO OUTPUT |NO L RIU CHAN B OUTPUT   |  6 
+RIU 1            |   6   | FAILED/WIRING |INTERNAL FAULT           |  5 
+RIU 1            |   7   | FAILED/WIRING |NO LA-RIU-1 BUS OUTPUT   | 10 
+RIU 1            |   8   | FAILED/WIRING |NO LB-RIU-1 BUS OUTPUT   | 10 
+RIU 1            |   9   | FAILED/WIRING |NO LA-RIU-2 BUS OUTPUT   | 10 
+RIU 1            |  10   | FAILED/WIRING |NO LB-RIU-2 BUS OUTPUT   | 10 
+RIU 1            |  11   | FAILED/WIRING |NO LA-RIU-3 BUS OUTPUT   | 10 
+RIU 1            |  12   | FAILED/WIRING |NO LB-RIU-3 BUS OUTPUT   | 10 
+RIU 1            |  13   | FAILED/WIRING |NO LA-RIU-4 BUS OUTPUT   | 10 
+RIU 1            |  14   | FAILED/WIRING |NO LB-RIU-4 BUS OUTPUT   | 10 
+RIU 1            |  15   | FAILED/WIRING |NO LA-RIU-6 BUS OUTPUT   | 10 
+RIU 1            |  16   | FAILED/WIRING |NO LB-RIU-6 BUS OUTPUT   | 10 
+RIU 1            |  17   | FAILED/WIRING |NO LA-RIU-7 BUS OUTPUT   | 10 
+RIU 1            |  18   | FAILED/WIRING |NO LB-RIU-7 BUS OUTPUT   | 10 
+RIU 1            |  19   | FAILED/WIRING |NO LA-RIU-8 BUS OUTPUT   | 10 
+RIU 1            |  20   | FAILED/WIRING |NO LA-RIU-8 BUS OUTPUT   | 10 
+RIU 1            |  21   | FAILED/WIRING |NO LB-RIU-8 BUS OUTPUT   | 10 
+RIU 1            |  22   | FAILED/WIRING |NO LB-RIU-8 BUS OUTPUT   | 10 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+RIU 1            |  23   | FAILED/WIRING |NO LB-RIU-9 BUS OUTPUT   | 10 
+RIU 1            |  24   | FAILED/WIRING |NO L-RIU-10 BUS OUTPUT   | 10 
+RIU 1            |  26   | FAILED/WIRING |NO L-RIU-11 BUS OUTPUT   | 10 
+RIU 1            |  29   | FAILED/WIRING |NO L-RIU-12 BUS OUTPUT   | 15 
+RIU 1            |  30   | FAILED/WIRING |NO LB-RIU-14 BUS OUTPUT  | 10 
+RIU 1            |  32   | FAILED/WIRING |NO R-IOC-4 BUS INPUT     | 10 
+RIU 1            |  33   | FAILED/WIRING |NO L-GP-1 BUS INPUT      | 10 
+RIU 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+RIU 2            |   2   | OFF/NO OUTPUT |NO R RIU CHAN A OUTPUT   |  6 
+RIU 2            |   3   | OFF/NO OUTPUT |NO R RIU CHAN B OUTPUT   |  6 
+RIU 2            |   4   | FAILED/WIRING |INTERNAL FAULT           |  5 
+RIU 2            |   5   | FAILED/WIRING |NO RA-RIU-1 BUS OUTPUT   | 10 
+RIU 2            |   6   | FAILED/WIRING |NO RB-RIU-1 BUS OUTPUT   | 10 
+RIU 2            |   7   | FAILED/WIRING |NO RA-RIU-3 BUS OUTPUT   | 10 
+RIU 2            |   8   | FAILED/WIRING |NO RB-RIU-3 BUS OUTPUT   | 10 
+RIU 2            |   9   | FAILED/WIRING |NO RA-RIU-4 BUS OUTPUT   | 10 
+RIU 2            |  10   | FAILED/WIRING |NO RB-RIU-4 BUS OUTPUT   | 10 
+RIU 2            |  11   | FAILED/WIRING |NO RA-RIU-6 BUS OUTPUT   | 10 
+RIU 2            |  12   | FAILED/WIRING |NO RB-RIU-6 BUS OUTPUT   | 10 
+RIU 2            |  13   | FAILED/WIRING |NO RA-RIU-7 BUS OUTPUT   | 10 
+RIU 2            |  14   | FAILED/WIRING |NO RB-RIU-7 BUS OUTPUT   | 10 
+RIU 2            |  15   | FAILED/WIRING |NO RA-RIU-8 BUS OUTPUT   | 10 
+RIU 2            |  16   | FAILED/WIRING |NO RB-RIU-8 BUS OUTPUT   | 10 
+RIU 2            |  17   | FAILED/WIRING |NO RB-RIU-8 BUS OUTPUT   | 15 
+RIU 2            |  18   | FAILED/WIRING |NO RB-RIU-9 BUS OUTPUT   | 10 
+RIU 2            |  19   | FAILED/WIRING |NO RB-RIU-14 BUS OUTPUT  | 10 
+RIU 2            |  20   | FAILED/WIRING |NO R-GP-1 BUS INPUT      | 10 
+RIU 2            |  21   | FAILED/WIRING |NO L-MFD-3 BUS INPUT     | 10 
+R LOGIC PCB      |   1   | FAILED        |R LOGIC/RBTC/LBTC FAULT  |  3 
+R MAIN FUSE      |   1   | FAILED        |FUSE BLOWN               |  3 
+R OB BK CTRL VLV |   1   | FAILED/WIRING |R OB BRAKE CTRL VALVE    |  3 
+R O/B TEMP SNSR  |   1   | FAILED/WIRING |CH A&B FAULT             |  5 
+R O/B TEMP SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+R O/B TEMP SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+ROB WHL SPD XDCR |   1   | FAILED/WIRING |R OB WHEEL SPEED XDCR    |  3 
+R OB WHEEL SP    |   1   | FAILED/WIRING |R OB WHEEL SPEED XDCR    |  3 
+R OB BRAKE HYDR  |   1   | FAILED        |RIGHT OB BRAKE HYDRAULIC |  3 
+R ENG OIL PROBE  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R OB BK PR PULSE |   1   | FAILED        |R OB BRAKE PRESS PULSE   |  3 
+R OB BK PR XDCR4 |   1   | FAILED        |R OB BRAKE PRESS XDCR    |  3 
+R PYLON AIR LEAK |   1   | FAILED        |R PYLON DUCT AIR LEAK    |  5 
+R PLT BK PEDAL X |   1   | FAILED        |RIGHT PILOT BRAKE LVDT   |  3 
+R POSITION SNSR  |   1   | FAILED/WIRING |POSITION SENSOR FAULT    |  3 
+R POSITION SNSR  |   2   | FAILED/WIRING |FPIU POS SENSOR FAULT    |  3 
+R PROTECTION PCB |   1   | FAILED        |FAULT                    |  3 
+R PROTECTION PCB |   2   | OFF/NO OUTPUT |NO R-DCPC-1 BUS TO RDC   |  3 
+R STICK SHAKER   |   1   | FAILED/WIRING |R SHAKER FAIL            |  3 
+R WSLD HEAT SPCC |   1   | FAILED/WIRING |R WSHLD HEAT SPCC FAILED |  3 
+R WNDW SPC RELAY |   1   | FAILED/WIRING |RIGHT SPC RELAY FAILED   |  3 
+R TNK PR 8/COMP  |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 1    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 2    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 3    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 4    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 5    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 6    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK PROBE 7    |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R TNK HI LVL     |   1   | FAILED/WIRING |OPN/SHRT/OUT OF RANGE    |  3 
+R WNDW TEMP CTRL |   1   | FAILED        |R WNDW TEMP CTRL FAILED  |  3 
+R WING AIR LEAK  |   1   | FAILED        |R PYL/FUS/WING DUCT LEAK |  5 
+R SIDE WINDOW    |   1   | FAILED/WIRING |RIGHT SIDE WINDOW FAILED |  3 
+RIGHT WINDSHIELD |   1   | FAILED/WIRING |RIGHT WINDSHIELD FAILED  |  3 
+R WSLD TEMP CTRL |   1   | FAILED        |R WSHLD TEMP CTRL FAILED |  3 
+L ENG SBV A      |   1   | FAILED/WIRING |SURGE BLEED VALVE A 1A   |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+L ENG SBV A      |   2   | FAILED/WIRING |SURGE BLEED VALVE A 1B   |  3 
+L ENG SBV A      |   3   | FAILED        |SURGE BLEED VALVE A 4    |  3 
+R ENG SBV A      |   1   | FAILED/WIRING |SURGE BLEED VALVE A 1A   |  3 
+R ENG SBV A      |   2   | FAILED/WIRING |SURGE BLEED VALVE A 1B   |  3 
+R ENG SBV A      |   3   | FAILED        |SURGE BLEED VALVE A 4    |  3 
+L ENG SBV B      |   1   | FAILED/WIRING |SURGE BLEED VALVE B 1A   |  3 
+L ENG SBV B      |   2   | FAILED/WIRING |SURGE BLEED VALVE B 1B   |  3 
+L ENG SBV B      |   3   | FAILED        |SURGE BLEED VALVE B 4    |  3 
+R ENG SBV B      |   1   | FAILED/WIRING |SURGE BLEED VALVE B 1A   |  3 
+R ENG SBV B      |   2   | FAILED/WIRING |SURGE BLEED VALVE B 1B   |  3 
+R ENG SBV B      |   3   | FAILED        |SURGE BLEED VALVE B 4    |  3 
+L ENG SBV C      |   1   | FAILED/WIRING |SURGE BLEED VALVE C 1A   |  3 
+L ENG SBV C      |   2   | FAILED/WIRING |SURGE BLEED VALVE C 1B   |  3 
+L ENG SBV C      |   3   | FAILED        |SURGE BLEED VALVE C 4    |  3 
+R ENG SBV C      |   1   | FAILED/WIRING |SURGE BLEED VALVE C 1A   |  3 
+R ENG SBV C      |   2   | FAILED/WIRING |SURGE BLEED VALVE C 1B   |  3 
+R ENG SBV C      |   3   | FAILED        |SURGE BLEED VALVE C 4    |  3 
+SPOILER ECU 1    |   1   | OFF/NO OUTPUT |NO L-SECU-1 BUS TO DCU   |  3 
+SPOILER ECU 1    |   2   | FAILED        |INTERNAL FAULT           |  3 
+SPOILER ECU 1    |   3   | FAILED/WIRING |NO L-GP-5 BUS INPUT      |  3 
+SPOILER ECU 1    |   4   | FAILED/WIRING |ROLL SPOILR OFF SW FAIL  |  3 
+SPOILER ECU 1    |   5   | FAILED/WIRING |ROLL DISCONNECT SW FAIL  |  3 
+SPOILER ECU 1    |   6   | FAILED/WIRING |GROUND SPOIL SELECT SW   |  3 
+SPOILER ECU 1    |   7   | FAILED/WIRING |NO R-GP-5 BUS INPUT      |  3 
+SPOILER ECU 1    |   8   | FAILED/WIRING |NO ADC-1 INPUT ON L-GP-5 |  3 
+SPOILER ECU 1    |   9   | FAILED/WIRING |NO ADC-2 INPUT ON R-GP-5 |  3 
+SPOILER ECU 1    |  10   | FAILED/WIRING |NO FCU INPUT ON L-GP-5   |  3 
+SPOILER ECU 1    |  11   | FAILED/WIRING |NO FCU INPUT ON R-GP-5   |  3 
+SPOILER ECU 1    |  12   | FAILED/WIRING |NO RADIO ALTIMETER INPUT |  3 
+SPOILER ECU 1    |  13   | FAILED/WIRING |L HYDRAULIC INPUT FAIL   |  3 
+SPOILER ECU 1    |  14   | FAILED/WIRING |R HYDRAULIC INPUT FAIL   |  3 
+SPOILER ECU 1    |  15   | FAILED/WIRING |L TQA IDLE FAULT         |  3 
+SPOILER ECU 1    |  16   | FAILED/WIRING |R TQA IDLE FAULT         |  3 
+SPOILER ECU 1    |  17   | FAILED/WIRING |PROGRAM PIN FAULT        |  3 
+SPOILER ECU 1    |  18   | FAILED/WIRING |XTALK ARINC BUS          |  3 
+SPOILER ECU 1    |  19   | FAILED/WIRING |NO PSEU CHANNEL A INPUT  |  3 
+SPOILER ECU 1    |  20   | FAILED/WIRING |NO PSEU CHANNEL B INPUT  |  3 
+SPOILER ECU 1    |  21   | FAILED/WIRING |NO LA-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  22   | FAILED/WIRING |NO LA-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  23   | FAILED/WIRING |NO LB-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  24   | FAILED/WIRING |NO LB-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  25   | FAILED/WIRING |NO RA-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  26   | FAILED/WIRING |NO RA-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  27   | FAILED/WIRING |NO RB-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  28   | FAILED/WIRING |NO RB-FADEC BUS INPUT    |  3 
+SPOILER ECU 1    |  29   | FAILED/WIRING |L IB GR SPOILER          |  3 
+SPOILER ECU 1    |  30   | FAILED/WIRING |R IB GR SPOILER          |  3 
+SPOILER ECU 1    |  31   | FAILED/WIRING |L IB MF SPOILER          |  3 
+SPOILER ECU 1    |  32   | FAILED/WIRING |R IB MF SPOILER          |  3 
+SPOILER ECU 1    |  33   | FAILED/WIRING |NO RADIO ALTIMETER INPUT |  3 
+SPOILER ECU 2    |   1   | OFF/NO OUTPUT |NO R-SECU-1 BUS TO DCU   |  3 
+SPOILER ECU 2    |   2   | FAILED        |INTERNAL FAULT           |  3 
+SPOILER ECU 2    |   3   | FAILED/WIRING |NO R-GP-5 BUS INPUT      |  3 
+SPOILER ECU 2    |   4   | FAILED/WIRING |ROLL SPOILR OFF SW FAIL  |  3 
+SPOILER ECU 2    |   5   | FAILED/WIRING |ROLL DISCONNECT SW FAIL  |  3 
+SPOILER ECU 2    |   6   | FAILED/WIRING |GROUND SPOIL SELECT SW   |  3 
+SPOILER ECU 2    |   7   | FAILED/WIRING |NO L-GP-5 BUS INPUT      |  3 
+SPOILER ECU 2    |   8   | FAILED/WIRING |NO ADC-1 INPUT ON L-GP-5 |  3 
+SPOILER ECU 2    |   9   | FAILED/WIRING |NO ADC-2 INPUT ON R-GP-5 |  3 
+SPOILER ECU 2    |  10   | FAILED/WIRING |NO FCU INPUT ON L-GP-5   |  3 
+SPOILER ECU 2    |  11   | FAILED/WIRING |NO FCU INPUT ON R-GP-5   |  3 
+SPOILER ECU 2    |  12   | FAILED/WIRING |NO RADIO ALTIMETER INPUT |  3 
+SPOILER ECU 2    |  13   | FAILED/WIRING |L HYDRAULIC INPUT FAIL   |  3 
+SPOILER ECU 2    |  14   | FAILED/WIRING |R HYDRAULIC INPUT FAIL   |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+SPOILER ECU 2    |  15   | FAILED/WIRING |L TQA IDLE FAULT         |  3 
+SPOILER ECU 2    |  16   | FAILED/WIRING |R TQA IDLE FAULT         |  3 
+SPOILER ECU 2    |  17   | FAILED/WIRING |PROGRAM PIN FAULT        |  3 
+SPOILER ECU 2    |  18   | FAILED/WIRING |XTALK ARINC BUS          |  3 
+SPOILER ECU 2    |  19   | FAILED/WIRING |NO PSEU CHANNEL A INPUT  |  3 
+SPOILER ECU 2    |  20   | FAILED/WIRING |NO PSEU CHANNEL B INPUT  |  3 
+SPOILER ECU 2    |  21   | FAILED/WIRING |NO LA-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  22   | FAILED/WIRING |NO LA-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  23   | FAILED/WIRING |NO LB-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  24   | FAILED/WIRING |NO LB-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  25   | FAILED/WIRING |NO RA-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  26   | FAILED/WIRING |NO RA-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  27   | FAILED/WIRING |NO RB-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  28   | FAILED/WIRING |NO RB-FADEC BUS INPUT    |  3 
+SPOILER ECU 2    |  29   | FAILED/WIRING |L OB GR SPOILER          |  3 
+SPOILER ECU 2    |  30   | FAILED/WIRING |R OB GR SPOILER          |  3 
+SPOILER ECU 2    |  31   | FAILED/WIRING |L OB MF SPOILER          |  3 
+SPOILER ECU 2    |  32   | FAILED/WIRING |R OB MF SPOILER          |  3 
+SPOILER ECU 2    |  33   | FAILED/WIRING |NO RADIO ALTIMETER INPUT |  3 
+STALL COMPUTER   |   1   | OFF/NO OUTPUT |SPC OFF/NO OUTPUT        |  3 
+STALL COMPUTER   |   2   | FAILED/WIRING |NO A-SPC-1 BUS TO IOC    | 10 
+STALL COMPUTER   |   3   | FAILED/WIRING |NO B-SPC-1 BUS TO IOC    | 10 
+STALL COMPUTER   |   4   | FAILED/WIRING |NO A-SPC-2 BUS OUTPUT    | 10 
+STALL COMPUTER   |   5   | FAILED/WIRING |NO B-SPC-2 BUS OUTPUT    | 10 
+STALL COMPUTER   |   6   | FAILED        |SPC INTERNAL FAULT       |  3 
+STALL COMPUTER   |   7   | FAILED        |L/R AOA DISAGREE         |  8 
+STALL COMPUTER   |   8   | FAILED/WIRING |L A/C CORRECTION FAULT   |  3 
+STALL COMPUTER   |   9   | FAILED/WIRING |R A/C CORRECTION FAULT   |  3 
+STALL COMPUTER   |  10   | OFF/NO OUTPUT |NO FLAP ANALOG TO SPC    |  3 
+STALL COMPUTER   |  11   | FAILED/WIRING |NO L FLAP ANALOG TO SPC  |  8 
+STALL COMPUTER   |  12   | FAILED/WIRING |NO R FLAP ANALOG TO SPC  |  8 
+STALL COMPUTER   |  13   | FAILED        |NO ADC MACH INPUT        |  3 
+STALL COMPUTER   |  14   | FAILED        |NO FCU FLAP INPUT        |  3 
+STALL COMPUTER   |  15   | FAILED        |NO AHC1 LAT ACCEL INPUT  |  3 
+STALL COMPUTER   |  16   | FAILED        |NO IRS1 LAT ACCEL INPUT  |  3 
+STALL COMPUTER   |  17   | FAILED        |NO AHC2 LAT ACCEL INPUT  |  3 
+STALL COMPUTER   |  18   | FAILED        |NO IRS2 LAT ACCEL INPUT  |  3 
+STALL COMPUTER   |  19   | FAILED        |NO ISI MACH INPUT        |  3 
+STALL COMPUTER   |  20   | FAILED        |NO ISI CAS INPUT         |  3 
+STALL COMPUTER   |  21   | FAILED        |ISI/ADC MACH DISAGREE    |  3 
+STALL COMPUTER   |  22   | FAILED        |NO SPC CROSS DATA BUS    |  8 
+STALL COMPUTER   |  23   | FAILED        |INVALID FLAP INPUT       |  3 
+STALL COMPUTER   |  24   | FAILED/WIRING |INVALID WOW INPUT        |  3 
+STALL COMPUTER   |  25   | FAILED/WIRING |INVALID SECU INPUT       |  3 
+STALL COMPUTER   |  26   | FAILED/WIRING |A/P DISCONNECT FAIL      |  3 
+STALL COMPUTER   |  27   | FAILED/WIRING |RTL SPEED DISCRETE FAIL  |  3 
+SAT 2X00         |   0   | PREREQUISITE  |INSTALLED                |  0 
+SAT 2X00         |   1   | FAILED/WIRING |NO SATCOM BUS OUTPUT     |  7 
+SAT 2X00         |   2   | FAILED/WIRING |NO SATCOM BUS OUTPUT     |  7 
+SAT 2X00         |   3   | FAILED/WIRING |NO SATCOM BUS TO RIU     | 10 
+SAT 2X00         |   4   | FAILED/WIRING |NO SATCOM MAINT OUTPUT   | 10 
+SAT 2X00         |   5   | FAILED/WIRING |NO SATCOM BUS TO CDU     | 10 
+SAT 2X00         |   6   | FAILED/WIRING |SATELLITE DATA UNIT      |  5 
+SAT 2X00         |   7   | FAILED/WIRING |TOP/PORT DIPLEXER/LNA    |  5 
+SAT 2X00         |   8   | FAILED/WIRING |STARBOARD DIPLEXER/LNA   |  5 
+SAT 2X00         |   9   | FAILED/WIRING |TOP/PORT BSU             |  5 
+SAT 2X00         |  10   | FAILED/WIRING |STARBOARD BSU            |  5 
+SAT 2X00         |  11   | FAILED/WIRING |HIGH POWER RELAY         |  5 
+SAT 2X00         |  12   | FAILED/WIRING |RX COMBINER/CABLE FAULT  |  5 
+SAT 2X00         |  13   | FAILED/WIRING |SDU STRAPPING PARITY     |  5 
+SAT 2X00         |  14   | FAILED/WIRING |INT GAIN -TP/PORT HG ANT |  5 
+SAT 2X00         |  15   | FAILED/WIRING |STARBOARD HI GAIN ANT    |  5 
+SAT 2X00         |  16   | DON'T FAIL    |BLOCKING EQ FOR SRT 2000 |  0 
+SAT 2X00         |  17   | FAILED/WIRING |NO L-IRS-4 BUS INPUT     | 25 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+SAT 2X00         |  18   | FAILED/WIRING |NO R-IRS-4 BUS INPUT     | 25 
+SAT 2X00         |  19   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 15 
+SAT 2X00         |  20   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 15 
+SAT 2X00         |  21   | OVERHEAT      |SDU OVERHEAT             | 30 
+SAT 2X00         |  22   | FAILED/WIRING |DLNA TO SDU RX ERROR     | 20 
+SAT 2X00         |  23   | FAILED/WIRING |HGA TO SDU DATA BUS      | 20 
+SAT 2X00         |  24   | FAILED/WIRING |SDU TO HGA DATA BUS      | 20 
+SAT 2X00         |  25   | FAILED/WIRING |SDU TO HGA VSWR          | 20 
+SAT 2X00         |  26   | FAILED/WIRING |SDU CONFIG MODULE        | 20 
+SAT 2X00         |  27   | FAILED/WIRING |SDU / SCM DATA BUS FAULT | 20 
+STICK PUSHER     |   1   | FAILED/WIRING |PUSHER FAIL / NO POWER   |  3 
+SVC              |   0   | PREREQUISITE  |INSTALLED                |  0 
+SVC              |   1   | OFF/NO OUTPUT |NO OUTPUT TO IOC         |  3 
+SVC              |   2   | FAILED/WIRING |INTERNAL FAULT           |  5 
+SVC              |   3   | FAILED        |AIRPORT/RUNWAY DB FAULT  | 30 
+SVC              |   4   | FAILED        |TERRAIN DB FAULT         | 30 
+SVC              |   5   | FAILED/WIRING |NO L-GPS-2 BUS INPUT     | 12 
+SVC              |   6   | FAILED/WIRING |NO R-GPS-2 BUS INPUT     | 12 
+SVC              |   7   | FAILED/WIRING |NO L-IOC-4 BUS INPUT     | 10 
+SVC              |   8   | FAILED/WIRING |NO R-IOC-4 BUS INPUT     | 10 
+SVC              |   9   | FAILED/WIRING |NO L-AHC-1 BUS INPUT     | 10 
+SVC              |  10   | FAILED/WIRING |NO L-IRS-4 BUS INPUT     | 25 
+SVC              |  11   | FAILED/WIRING |NO R-AHC-1 BUS INPUT     | 15 
+SVC              |  12   | FAILED/WIRING |NO R-IRS-4 BUS INPUT     | 15 
+SVC              |  13   | FAILED/WIRING |VIDEO OUTPUT FAIL        | 10 
+SVC              |  14   | FAILED/WIRING |VIDEO OUTPUT TO L \R PFD | 12 
+SVC              |  15   | FAILED/WIRING |VIDEO OUTPUT TO L PFD    | 15 
+SVC              |  16   | FAILED/WIRING |VIDEO OUTPUT TO R PFD    | 15 
+SYN VISION CFG   |   0   | PREREQUISITE  |INSTALLED                |  0 
+SYN VISION CFG   |   1   | FAILED        |CONFIG MODULE FAIL       | 30 
+TRIM AIR LEAK    |   1   | FAILED        |TRIM DUCT AIR LEAK       |  5 
+TAWS MARK V      |   0   | PREREQUISITE  |INSTALLED MARK V         |  0 
+TAWS MARK V      |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+TAWS MARK V      |   2   | FAILED        |INTERNAL FAULT           |  5 
+TAWS MARK V      |   4   | FAILED/WIRING |NO TAWS-1 BUS OUTPUT     | 10 
+TAWS MARK V      |   5   | FAILED/WIRING |NO TERR-1 BUS OUTPUT     |  8 
+TAWS MARK V      |   6   | FAILED/WIRING |NO PFD TERR-1 BUS INPUT  | 10 
+TAWS MARK V      |   7   | FAILED/WIRING |NO MFD TERR-1 BUS INPUT  | 10 
+TAWS MARK V      |   8   | FAILED/WIRING |NO TERR-2 BUS OUTPUT     |  8 
+TAWS MARK V      |   9   | FAILED/WIRING |NO PFD TERR-2 BUS INPUT  | 10 
+TAWS MARK V      |  10   | FAILED/WIRING |NO MFD TERR-2 BUS INPUT  | 10 
+TAWS MARK V      |  11   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 10 
+TAWS MARK V      |  12   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 10 
+TAWS MARK V      |  13   | FAILED/WIRING |NO L-GPS-2 BUS INPUT     | 20 
+TAWS MARK V      |  14   | FAILED/WIRING |NO R-GPS-2 BUS INPUT     | 20 
+TAWS MARK V      |  16   | FAILED        |PROGRAM PIN FAIL         | 30 
+TAWS MARK V      |  17   | FAILED        |FLAP INPUT FAIL          | 30 
+TAWS MARK V      |  18   | FAILED        |GEAR INPUT FAIL          | 30 
+TAWS MARK VIII   |   0   | PREREQUISITE  |INSTALLED MARK VIII      |  0 
+TAWS MARK VIII   |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+TAWS MARK VIII   |   2   | FAILED        |INTERNAL FAULT           |  5 
+TAWS MARK VIII   |   3   | FAILED        |CONFIGURATION MODULE     | 10 
+TAWS MARK VIII   |   5   | FAILED/WIRING |NO TAWS-1 BUS OUTPUT     | 10 
+TAWS MARK VIII   |   6   | FAILED/WIRING |NO TERR-1 BUS OUTPUT     |  8 
+TAWS MARK VIII   |   7   | FAILED/WIRING |NO PFD TERR-1 BUS INPUT  | 10 
+TAWS MARK VIII   |   8   | FAILED/WIRING |NO MFD TERR-1 BUS INPUT  | 10 
+TAWS MARK VIII   |   9   | FAILED/WIRING |NO TERR-2 BUS OUTPUT     |  8 
+TAWS MARK VIII   |  10   | FAILED/WIRING |NO PFD TERR-2 BUS INPUT  | 10 
+TAWS MARK VIII   |  11   | FAILED/WIRING |NO MFD TERR-2 BUS INPUT  | 10 
+TAWS MARK VIII   |  12   | FAILED/WIRING |NO L-GP-5 BUS INPUT      | 10 
+TAWS MARK VIII   |  13   | FAILED/WIRING |NO R-GP-5 BUS INPUT      | 10 
+TAWS MARK VIII   |  14   | FAILED/WIRING |FLAP INPUT FAILED        |  5 
+TAWS MARK VIII   |  15   | FAILED/WIRING |GEAR INPUT FAILED        |  5 
+TAWS MARK VIII   |  16   | FAILED/WIRING |NO L-GPS-2 BUS INPUT     | 20 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+TAWS MARK VIII   |  18   | FAILED/WIRING |NO R-GPS-2 BUS INPUT     | 20 
+TEMP CTRL VLV    |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+TEMP CTRL VLV    |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+TEMP CTRL VLV    |   3   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+TEMP CTRL VLV    |   4   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+L ENG TR DCU     |   1   | FAILED/WIRING |TR DCU 1A                |  3 
+L ENG TR DCU     |   2   | FAILED/WIRING |TR DCU 1B                |  3 
+L ENG TR DCU     |   3   | FAILED        |TR DCU 4                 |  3 
+L ENG TR DCU     |   4   | FAILED        |TR DCU 5                 |  3 
+L ENG TR DCU     |   5   | FAILED        |TR DCU 6                 |  3 
+L ENG TR DCU     |   6   | FAILED        |TR DCU 7                 |  3 
+R ENG TR DCU     |   1   | FAILED/WIRING |TR DCU 1A                |  3 
+R ENG TR DCU     |   2   | FAILED/WIRING |TR DCU 1B                |  3 
+R ENG TR DCU     |   3   | FAILED        |TR DCU 4                 |  3 
+R ENG TR DCU     |   4   | FAILED        |TR DCU 5                 |  3 
+R ENG TR DCU     |   5   | FAILED        |TR DCU 6                 |  3 
+R ENG TR DCU     |   6   | FAILED        |TR DCU 7                 |  3 
+TDR 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+TDR 1            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+TDR 1            |   2   | FAILED        |INTERNAL FAULT           |  5 
+TDR 1            |   3   | FAILED        |INTERNAL FAULT           |  5 
+TDR 1            |   4   | FAILED        |CONFIG STRAPS INVALID    |  5 
+TDR 1            |   5   | FAILED        |INVALID MODE S ADDRESS   |  5 
+TDR 1            |   6   | FAILED/WIRING |NO L-TDR-1 BUS OUTPUT    | 10 
+TDR 1            |   7   | DON'T FAIL    |BLOCK FAULT -BAD INPUTS  |  0 
+TDR 1            |   8   | FAILED/WIRING |NO LB-RIU-8 BUS INPUT    | 10 
+TDR 1            |   9   | FAILED/WIRING |NO LA-RIU-8 BUS INPUT    | 10 
+TDR 1            |  10   | FAILED/WIRING |NO L-TDR-XT BUS OUTPUT   | 10 
+TDR 1            |  11   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+TDR 1            |  12   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 10 
+TDR 1            |  13   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 10 
+TDR 1            |  14   | FAILED/WIRING |TRANSPONDER FAILURE      | 25 
+TDR 1            |  15   | FAILED/WIRING |ADS-B OUT FAILURE        | 30 
+TDR 1            |  16   | FAILED/WIRING |TRANSPONDER FAILURE      | 30 
+TDR 1            |  17   | LRU OK / INFO |GPS TIMEMARK INVALID     | 60 
+TDR 1            |  18   | FAILED        |ADS-B PARITY ERROR       | 15 
+TDR 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+TDR 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  5 
+TDR 2            |   2   | FAILED        |INTERNAL FAULT           | 10 
+TDR 2            |   3   | FAILED        |INTERNAL FAULT           |180 
+TDR 2            |   4   | FAILED        |CONFIG STRAPS INVALID    | 30 
+TDR 2            |   5   | FAILED        |INVALID MODE S ADDRESS   | 30 
+TDR 2            |   6   | FAILED/WIRING |NO R-TDR-1 BUS OUTPUT    |  3 
+TDR 2            |   7   | DON'T FAIL    |BLOCK FAULT -BAD INPUTS  |  0 
+TDR 2            |   8   | FAILED/WIRING |NO RB-RIU-8 BUS INPUT    | 30 
+TDR 2            |   9   | FAILED/WIRING |NO RA-RIU-8 BUS INPUT    | 30 
+TDR 2            |  10   | FAILED/WIRING |NO R-TDR-XT BUS OUTPUT   | 30 
+TDR 2            |  11   | FAILED/WIRING |NO R-TDR-XT BUS OUTPUT   | 30 
+TDR 2            |  12   | FAILED/WIRING |NO R-CDU-6 BUS INPUT     | 10 
+TDR 2            |  13   | FAILED/WIRING |NO L-CDU-7 BUS INPUT     | 10 
+TDR 2            |  14   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 10 
+TDR 2            |  15   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 10 
+TDR 2            |  16   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 10 
+TDR 2            |  17   | FAILED/WIRING |TRANSPONDER FAILURE      | 25 
+TDR 2            |  18   | FAILED/WIRING |ADS-B OUT FAILURE        | 30 
+TDR 2            |  19   | FAILED/WIRING |TRANSPONDER FAILURE      | 30 
+TDR 2            |  20   | LRU OK / INFO |GPS TIMEMARK INVALID     | 60 
+TDR 2            |  21   | FAILED        |ADS-B PARITY ERROR       | 15 
+L ENG TR EHPL    |   1   | FAILED        |TR EHPL 4                |  3 
+L ENG TR EHPL    |   2   | FAILED        |TR EHPL 5                |  3 
+R ENG TR EHPL    |   1   | FAILED        |TR EHPL 4                |  3 
+R ENG TR EHPL    |   2   | FAILED        |TR EHPL 5                |  3 
+L ENG TR HYDRAUL |   1   | FAILED        |NO TR HYDRAULICS         |  3 
+R ENG TR HYDRAUL |   1   | FAILED        |NO TR HYDRAULICS         |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+L TR L DEPLOY SW |   1   | FAILED/WIRING |TR L DEPLOY SWITCH 1A    |  3 
+L TR L DEPLOY SW |   2   | FAILED/WIRING |TR L DEPLOY SWITCH 1B    |  3 
+L TR L DEPLOY SW |   3   | FAILED        |TR L DEPLOY SWITCH 4     |  3 
+R TR L DEPLOY SW |   1   | FAILED/WIRING |TR L DEPLOY SWITCH 1A    |  3 
+R TR L DEPLOY SW |   2   | FAILED/WIRING |TR L DEPLOY SWITCH 1B    |  3 
+R TR L DEPLOY SW |   3   | FAILED        |TR L DEPLOY SWITCH 4     |  3 
+L TR L DOOR      |   1   | FAILED        |TR LL DOOR HOOK/LATCH    |  3 
+L TR L DOOR      |   2   | FAILED        |TR LR DOOR HOOK/LATCH    |  3 
+L TR L DOOR      |   3   | FAILED        |TR LOWER DOOR ACTUATOR   |  3 
+R TR L DOOR      |   1   | FAILED        |TR LL DOOR HOOK/LATCH    |  3 
+R TR L DOOR      |   2   | FAILED        |TR LR DOOR HOOK/LATCH    |  3 
+R TR L DOOR      |   3   | FAILED        |TR LOWER DOOR ACTUATOR   |  3 
+L TR LL STOW SW  |   1   | FAILED/WIRING |TR LL STOW SWITCH 1A     |  3 
+L TR LL STOW SW  |   2   | FAILED/WIRING |TR LL STOW SWITCH 1B     |  3 
+L TR LL STOW SW  |   3   | FAILED        |TR LL STOW SWITCH 4      |  3 
+R TR LL STOW SW  |   1   | FAILED/WIRING |TR LL STOW SWITCH 1A     |  3 
+R TR LL STOW SW  |   2   | FAILED/WIRING |TR LL STOW SWITCH 1B     |  3 
+R TR LL STOW SW  |   3   | FAILED        |TR LL STOW SWITCH 4      |  3 
+L TR LR STOW SW  |   1   | FAILED/WIRING |TR LR STOW SWITCH 1A     |  3 
+L TR LR STOW SW  |   2   | FAILED/WIRING |TR LR STOW SWITCH 1B     |  3 
+L TR LR STOW SW  |   3   | FAILED        |TR LR STOW SWITCH 4      |  3 
+R TR LR STOW SW  |   1   | FAILED/WIRING |TR LR STOW SWITCH 1A     |  3 
+R TR LR STOW SW  |   2   | FAILED/WIRING |TR LR STOW SWITCH 1B     |  3 
+R TR LR STOW SW  |   3   | FAILED        |TR LR STOW SWITCH 4      |  3 
+L ENG TR MUX     |   1   | FAILED/WIRING |TR MULTIPLEXER 1A        |  3 
+L ENG TR MUX     |   2   | FAILED/WIRING |TR MULTIPLEXER 1B        |  3 
+L ENG TR MUX     |   3   | FAILED/WIRING |TR MULTIPLEXER 4         |  3 
+L ENG TR MUX     |   4   | FAILED/WIRING |TR MULTIPLEXER 5         |  3 
+R ENG TR MUX     |   1   | FAILED/WIRING |TR MULTIPLEXER 1A        |  3 
+R ENG TR MUX     |   2   | FAILED/WIRING |TR MULTIPLEXER 1B        |  3 
+R ENG TR MUX     |   3   | FAILED/WIRING |TR MULTIPLEXER 4         |  3 
+R ENG TR MUX     |   4   | FAILED/WIRING |TR MULTIPLEXER 5         |  3 
+PACK LOOP B      |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+PACK LOOP B      |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+TAT PROBE        |   1   | FAILED        |INTERNAL FAULT           | 30 
+L ENG THROTTLE   |   1   | FAILED/WIRING |THROTTLE LEVER 1A        |  3 
+L ENG THROTTLE   |   2   | FAILED/WIRING |THROTTLE LEVER 1B        |  3 
+L ENG THROTTLE   |   3   | FAILED/WIRING |THROTTLE RIGGING 1A      |  3 
+L ENG THROTTLE   |   4   | FAILED/WIRING |THROTTLE RIGGING 1B      |  3 
+L ENG THROTTLE   |   5   | FAILED/WIRING |ENGINE RUN COMMAND 4     |  3 
+R ENG THROTTLE   |   1   | FAILED/WIRING |THROTTLE LEVER 1A        |  3 
+R ENG THROTTLE   |   2   | FAILED/WIRING |THROTTLE LEVER 1B        |  3 
+R ENG THROTTLE   |   3   | FAILED/WIRING |THROTTLE RIGGING 1A      |  3 
+R ENG THROTTLE   |   4   | FAILED/WIRING |THROTTLE RIGGING 1B      |  3 
+R ENG THROTTLE   |   5   | FAILED/WIRING |ENGINE RUN COMMAND 4     |  3 
+TRIM AIR LOOP    |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+TRIM AIR LOOP    |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+L ENG TR ICU     |   1   | FAILED/WIRING |TR ICU 1A                |  3 
+L ENG TR ICU     |   2   | FAILED/WIRING |TR ICU 1B                |  3 
+L ENG TR ICU     |   3   | FAILED        |TR ICU 4                 |  3 
+L ENG TR ICU     |   4   | FAILED        |TR ICU 5                 |  3 
+L ENG TR ICU     |   5   | FAILED        |TR ICU 6                 |  3 
+L ENG TR ICU     |   6   | FAILED        |TR ICU 7                 |  3 
+L ENG TR ICU     |   7   | FAILED        |TR ICU 8                 |  3 
+L ENG TR ICU     |   8   | FAILED        |TR ICU 9                 |  3 
+L ENG TR ICU     |   9   | FAILED        |TR ICU 10                |  3 
+R ENG TR ICU     |   1   | FAILED/WIRING |TR ICU 1A                |  3 
+R ENG TR ICU     |   2   | FAILED/WIRING |TR ICU 1B                |  3 
+R ENG TR ICU     |   3   | FAILED        |TR ICU 4                 |  3 
+R ENG TR ICU     |   4   | FAILED        |TR ICU 5                 |  3 
+R ENG TR ICU     |   5   | FAILED        |TR ICU 6                 |  3 
+R ENG TR ICU     |   6   | FAILED        |TR ICU 7                 |  3 
+R ENG TR ICU     |   7   | FAILED        |TR ICU 8                 |  3 
+R ENG TR ICU     |   8   | FAILED        |TR ICU 9                 |  3 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+R ENG TR ICU     |   9   | FAILED        |TR ICU 10                |  3 
+L ENG TR TEST SW |   1   | FAILED/WIRING |TR TEST SWITCH 1A        |  3 
+L ENG TR TEST SW |   2   | FAILED/WIRING |TR TEST SWITCH 1B        |  3 
+L ENG TR TEST SW |   3   | FAILED        |TR TEST SWITCH 4         |  3 
+R ENG TR TEST SW |   1   | FAILED/WIRING |TR TEST SWITCH 1A        |  3 
+R ENG TR TEST SW |   2   | FAILED/WIRING |TR TEST SWITCH 1B        |  3 
+R ENG TR TEST SW |   3   | FAILED        |TR TEST SWITCH 4         |  3 
+TSS-4100         |   0   | PREREQUISITE  |INSTALLED                |  0 
+TSS-4100         |   1   | FAILED/WIRING |NO OUTPUT                | 15 
+TSS-4100         |   2   | FAILED/WIRING |ECU FAULT                |  5 
+TSS-4100         |   3   | FAILED/WIRING |INTERNAL FAULT           |  6 
+TSS-4100         |   4   | FAILED/WIRING |NO TSS-TA/RA-1 BUS OUT   | 10 
+TSS-4100         |   5   | FAILED/WIRING |NO TSS-TA/RA-2 BUS OUT   | 10 
+TSS-4100         |   6   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 15 
+TSS-4100         |   7   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 20 
+TSS-4100         |   8   | FAILED/WIRING |RA 1 DISPLAY INVALID     | 20 
+TSS-4100         |   9   | FAILED/WIRING |RA 2 DISPLAY INVALID     | 20 
+TSS-4100         |  10   | FAILED/WIRING |TA 1 DISPLAY INVALID     | 20 
+TSS-4100         |  11   | FAILED/WIRING |TA 2 DISPLAY INVALID     | 20 
+TSS-4100         |  12   | FAILED/WIRING |NO LB-RIU-8 BUS INPUT    | 15 
+TSS-4100         |  13   | FAILED/WIRING |NO LA-RIU-8 BUS INPUT    | 15 
+TSS-4100         |  14   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 15 
+TSS-4100         |  15   | LRU OK / INFO |ADS-B OUT FUNCTION FAIL  | 60 
+TSS-4100         |  19   | OVERHEAT      |FAN FAILURE              | 30 
+TSS-4100         |  20   | FAILED/WIRING |TCAS SYSTEM STATUS FAIL  | 15 
+TSS-4100         |  21   | FAILED/WIRING |ACAS SYSTEM SUMMARY FAIL | 10 
+TSS-4100         |  22   | FAILED/WIRING |XPDR SYSTEM SUMMARY FAIL | 10 
+TSS LOWER ANT    |   0   | PREREQUISITE  |INSTALLED                |  0 
+TSS LOWER ANT    |   1   | FAILED        |INTERNAL FAULT           | 30 
+TSS UPPER ANT    |   0   | PREREQUISITE  |INSTALLED                |  0 
+TSS UPPER ANT    |   1   | FAILED        |INTERNAL FAULT           | 30 
+L ENG TR SYS     |   1   | FAILED        |NO TR MOVEMENT           |  3 
+R ENG TR SYS     |   1   | FAILED        |NO TR MOVEMENT           |  3 
+L ENG TT2 SNSR   |   1   | FAILED/WIRING |TT2 SENSOR/HEATER 1A     |  3 
+L ENG TT2 SNSR   |   2   | FAILED/WIRING |TT2 SENSOR/HEATER 1B     |  3 
+L ENG TT2 SNSR   |   3   | FAILED        |TT2 SENSOR/HEATER 4      |  3 
+R ENG TT2 SNSR   |   1   | FAILED/WIRING |TT2 SENSOR/HEATER 1A     |  3 
+R ENG TT2 SNSR   |   2   | FAILED/WIRING |TT2 SENSOR/HEATER 1B     |  3 
+R ENG TT2 SNSR   |   3   | FAILED        |TT2 SENSOR/HEATER 4      |  3 
+L ENG TR TQA     |   1   | FAILED/WIRING |TR TQA 1A                |  3 
+L ENG TR TQA     |   2   | FAILED/WIRING |TR TQA 1B                |  3 
+L ENG TR TQA     |   3   | FAILED        |TR TQA 4                 |  3 
+L ENG TR TQA     |   4   | FAILED        |TR TQA 5                 |  3 
+L ENG TR TQA     |   5   | FAILED        |TR TQA 6                 |  3 
+R ENG TR TQA     |   1   | FAILED/WIRING |TR TQA 1A                |  3 
+R ENG TR TQA     |   2   | FAILED/WIRING |TR TQA 1B                |  3 
+R ENG TR TQA     |   3   | FAILED        |TR TQA 4                 |  3 
+R ENG TR TQA     |   4   | FAILED        |TR TQA 5                 |  3 
+R ENG TR TQA     |   5   | FAILED        |TR TQA 6                 |  3 
+TCAS CH A        |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS CH A        |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+TCAS CH A        |   2   | FAILED        |INTERNAL FAULT           |  5 
+TCAS CH A        |   3   | FAILED        |TA 1 DISPLAY INVALID     |  5 
+TCAS CH A        |   4   | FAILED        |RA 1 DISPLAY INVALID     |  5 
+TCAS CH A        |   5   | FAILED/WIRING |NO L-AHC-1 BUS INPUT     | 10 
+TCAS CH A        |   6   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 10 
+TCAS CH A        |   7   | DON'T FAIL    |BLOCK FAULT -BAD INPUTS  |  0 
+TCAS CH A        |   8   | OFF/NO OUTPUT |NO TA/RA-1 BUS OUTPUT    | 10 
+TCAS CH A        |   9   | FAILED/WIRING |NO TTR-TX-1 BUS OUTPUT   | 10 
+TCAS CH A        |  10   | FAILED        |INVALID TCAS PROTOCOL    |  5 
+TCAS CH B        |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS CH B        |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+TCAS CH B        |   2   | FAILED        |INTERNAL FAULT           |  5 
+TCAS CH B        |   3   | FAILED        |TA 2 DISPLAY INVALID     |  5 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+TCAS CH B        |   4   | FAILED        |RA 2 DISPLAY INVALID     |  5 
+TCAS CH B        |   5   | FAILED/WIRING |NO L-AHC-1 BUS INPUT     | 10 
+TCAS CH B        |   6   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 10 
+TCAS CH B        |   7   | DON'T FAIL    |BLOCK FAULT -BAD INPUTS  |  0 
+TCAS CH B        |   8   | FAILED/WIRING |NO TA/RA-2 BUS OUTPUT    | 10 
+TCAS CH B        |   9   | FAILED/WIRING |NO TTR-TX-2 BUS OUTPUT   | 10 
+TCAS CH B        |  10   | FAILED        |INVALID TCAS PROTOCOL    |  5 
+TCAS LOWER ANT   |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS LOWER ANT   |   1   | FAILED        |INTERNAL FAULT           | 30 
+TCAS UPPER ANT   |   0   | PREREQUISITE  |INSTALLED                |  0 
+TCAS UPPER ANT   |   1   | FAILED        |INTERNAL FAULT           | 30 
+L TR U DEPLOY SW |   1   | FAILED/WIRING |TR U DEPLOY SWITCH 1A    |  3 
+L TR U DEPLOY SW |   2   | FAILED/WIRING |TR U DEPLOY SWITCH 1B    |  3 
+L TR U DEPLOY SW |   3   | FAILED        |TR U DEPLOY SWITCH 4     |  3 
+R TR U DEPLOY SW |   1   | FAILED/WIRING |TR U DEPLOY SWITCH 1A    |  3 
+R TR U DEPLOY SW |   2   | FAILED/WIRING |TR U DEPLOY SWITCH 1B    |  3 
+R TR U DEPLOY SW |   3   | FAILED        |TR U DEPLOY SWITCH 4     |  3 
+L TR U DOOR      |   1   | FAILED        |TR UL DOOR HOOK/LATCH    |  3 
+L TR U DOOR      |   2   | FAILED        |TR UR DOOR HOOK/LATCH    |  3 
+L TR U DOOR      |   3   | FAILED        |TR UPPER DOOR ACTUATOR   |  3 
+R TR U DOOR      |   1   | FAILED        |TR UL DOOR HOOK/LATCH    |  3 
+R TR U DOOR      |   2   | FAILED        |TR UR DOOR HOOK/LATCH    |  3 
+R TR U DOOR      |   3   | FAILED        |TR UPPER DOOR ACTUATOR   |  3 
+L TR UL STOW SW  |   1   | FAILED/WIRING |TR UL STOW SWITCH 1A     |  3 
+L TR UL STOW SW  |   2   | FAILED/WIRING |TR UL STOW SWITCH 1B     |  3 
+L TR UL STOW SW  |   3   | FAILED        |TR UL STOW SWITCH 4      |  3 
+R TR UL STOW SW  |   1   | FAILED/WIRING |TR UL STOW SWITCH 1A     |  3 
+R TR UL STOW SW  |   2   | FAILED/WIRING |TR UL STOW SWITCH 1B     |  3 
+R TR UL STOW SW  |   3   | FAILED        |TR UL STOW SWITCH 4      |  3 
+L TR UR STOW SW  |   1   | FAILED/WIRING |TR UR STOW SWITCH 1A     |  3 
+L TR UR STOW SW  |   2   | FAILED/WIRING |TR UR STOW SWITCH 1B     |  3 
+L TR UR STOW SW  |   3   | FAILED        |TR UR STOW SWITCH 4      |  3 
+R TR UR STOW SW  |   1   | FAILED/WIRING |TR UR STOW SWITCH 1A     |  3 
+R TR UR STOW SW  |   2   | FAILED/WIRING |TR UR STOW SWITCH 1B     |  3 
+R TR UR STOW SW  |   3   | FAILED        |TR UR STOW SWITCH 4      |  3 
+VHF 1            |   0   | PREREQUISITE  |INSTALLED                |  0 
+VHF 1            |   1   | FAILED/WIRING |NO OUTPUT                |  3 
+VHF 1            |   2   | FAILED/WIRING |INTERNAL FAULT           |  5 
+VHF 1            |   3   | FAILED/WIRING |NO L-VHF-3 BUS OUTPUT    | 10 
+VHF 1            |   4   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+VHF 1            |   5   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+VHF 2            |   0   | PREREQUISITE  |INSTALLED                |  0 
+VHF 2            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+VHF 2            |   2   | FAILED/WIRING |INTERNAL FAULT           |  5 
+VHF 2            |   3   | FAILED/WIRING |NO R-VHF-3 BUS OUTPUT    | 10 
+VHF 2            |   4   | FAILED/WIRING |NO R-CDU-6 BUS INPUT     | 10 
+VHF 2            |   5   | FAILED/WIRING |NO L-CDU-7 BUS INPUT     | 10 
+VHF 3            |   0   | PREREQUISITE  |INSTALLED                |  0 
+VHF 3            |   1   | OFF/NO OUTPUT |NO OUTPUT                |  3 
+VHF 3            |   2   | FAILED/WIRING |INTERNAL FAULT           |  5 
+VHF 3            |   3   | FAILED/WIRING |NO T-VHF-3 BUS OUTPUT    | 10 
+VHF 3            |   4   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+VHF 3            |   5   | FAILED/WIRING |NO L-CDU-6 BUS INPUT     | 10 
+L ENG VIB SNSR   |   1   | FAILED/WIRING |ENGINE VIB SENSOR 1A     |  3 
+L ENG VIB SNSR   |   2   | FAILED/WIRING |ENGINE VIB SENSOR 1B     |  3 
+L ENG VIB SNSR   |   3   | FAILED        |ENGINE VIB SENSOR 4      |  3 
+R ENG VIB SNSR   |   1   | FAILED/WIRING |ENGINE VIB SENSOR 1A     |  3 
+R ENG VIB SNSR   |   2   | FAILED/WIRING |ENGINE VIB SENSOR 1B     |  3 
+R ENG VIB SNSR   |   3   | FAILED        |ENGINE VIB SENSOR 4      |  3 
+L PYLN/WING LOOP |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+L PYLN/WING LOOP |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+L FUSE/WING LOOP |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+L FUSE/WING LOOP |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+R FUSE/WING LOOP |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+R FUSE/WING LOOP |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+R PYLN/WING LOOP |   1   | FAILED/WIRING |SHORT CIRCUIT            |  5 
+R PYLN/WING LOOP |   2   | FAILED/WIRING |OPEN CIRCUIT             |  5 
+WING A/ICE VLV 1 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+WING A/ICE VLV 1 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+WING A/ICE VLV 1 |   3   | FAILED/WIRING |DISCRETE DISABLE FAIL    |  5 
+WING A/ICE VLV 2 |   1   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+WING A/ICE VLV 2 |   2   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+WING A/ICE VLV 2 |   3   | FAILED/WIRING |DISCRETE DISABLE FAIL    |  5 
+WXR RTA          |   0   | PREREQUISITE  |INSTALLED                |  0 
+WXR RTA          |   1   | OFF/NO OUTPUT |NO WXT BUS OUTPUT        |  3 
+WXR RTA          |   2   | OFF/NO OUTPUT |NO WXT-1/2 OUTPUT TO AFD |  5 
+WXR RTA          |   3   | FAILED        |STRAP FAULT              | 15 
+WXR RTA          |   4   | FAILED/WIRING |NO WXT-1 BUS TO L AFD    | 10 
+WXR RTA          |   5   | FAILED/WIRING |NO WXT-2 BUS TO R AFD    | 10 
+WXR RTA          |   6   | FAILED/WIRING |NO WXT-1 BUS TO PFD1     | 15 
+WXR RTA          |   7   | FAILED/WIRING |NO WXT-2 BUS TO PFD2     | 15 
+WXR RTA          |   8   | FAILED/WIRING |NO WXT-1 BUS TO MFD1     | 15 
+WXR RTA          |   9   | FAILED/WIRING |NO WXT-2 BUS TO MFD2     | 15 
+WXR RTA          |  10   | FAILED/WIRING |NO WXT-4 BUS TO IOC      | 10 
+WXR RTA          |  11   | FAILED/WIRING |NO L-IOC-2 BUS INPUT     | 15 
+WXR RTA          |  12   | FAILED/WIRING |NO R-IOC-2 BUS INPUT     | 15 
+WXR RTA          |  13   | FAILED/WIRING |RTA FAULT                | 15 
+WX RADAR CH A/B  |   0   | PREREQUISITE  |INSTALLED                |  0 
+WX RADAR CH A/B  |   2   | FAILED/WIRING |NO OUTPUT                |  3 
+WX RADAR CH A/B  |   3   | FAILED        |INTERNAL FAULT           |  5 
+WX RADAR CH A/B  |   5   | FAILED/WIRING |NO WXT-1 BUS OUTPUT      |  4 
+WX RADAR CH A/B  |   6   | FAILED/WIRING |NO WXT-1 BUS TO L-PFD    |  5 
+WX RADAR CH A/B  |   7   | FAILED/WIRING |NO WXT-1 BUS TO L-MFD    |  7 
+WX RADAR CH A/B  |   8   | FAILED/WIRING |NO WXT-1 BUS TO R-MFD    |  9 
+WX RADAR CH A/B  |   9   | FAILED/WIRING |NO WXT-1 BUS TO R-PFD    | 11 
+WX RADAR CH A/B  |  10   | FAILED/WIRING |NO L-GP-4 BUS INPUT      | 10 
+WX RADAR CH A/B  |  11   | FAILED/WIRING |NO R-GP-4 BUS INPUT      | 10 
+APU SQUIB        |   1   | FAILED/WIRING |BOTH BRIDGEWIRES OPEN    |  3 
+APU FIRE LOOP A  |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+APU FIRE LOOP A  |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+APU FIRE LOOP B  |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+APU FIRE LOOP B  |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+APU FIRE LOOPS   |   1   | FAILED/WIRING |CROSSWIRED LOOPS         |  3 
+FIREX BOTTLE 1   |   1   | FAILED/WIRING |LOW PRESSURE DETECTED    |  3 
+FIREX BOTTLE 2   |   1   | FAILED/WIRING |LOW PRESSURE DETECTED    |  3 
+XBLEED VALVE     |   1   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+XBLEED VALVE     |   2   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+CARGO SMOKE DET  |   1   | FAILED/WIRING |NO RESPONSE TO CMD       |  3 
+L ENG FIRE LOOPA |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+L ENG FIRE LOOPA |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+R ENG FIRE LOOPA |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+R ENG FIRE LOOPA |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+L ENG FIRE LOOPB |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+L ENG FIRE LOOPB |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+R ENG FIRE LOOPB |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+R ENG FIRE LOOPB |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+L ENG FIRE LOOPS |   1   | FAILED/WIRING |CROSSWIRED LOOPS         |  3 
+R ENG FIRE LOOPS |   1   | FAILED/WIRING |CROSSWIRED LOOPS         |  3 
+L ENG BTL1 SQUIB |   1   | FAILED/WIRING |BOTH BRIDGEWIRES OPEN    |  3 
+L ENG BTL2 SQUIB |   1   | FAILED/WIRING |BOTH BRIDGEWIRES OPEN    |  3 
+MWW OVHT LOOP    |   1   | FAILED/WIRING |SHORT CIRCUIT            |  3 
+MWW OVHT LOOP    |   2   | FAILED/WIRING |OPEN CIRCUIT             |  3 
+R ENG BTL1 SQUIB |   1   | FAILED/WIRING |BOTH BRIDGEWIRES OPEN    |  3 
+R ENG BTL2 SQUIB |   1   | FAILED/WIRING |BOTH BRIDGEWIRES OPEN    |  3 
+WING XVALVE      |   1   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+
+     LRU SERVICE MESSAGE LISTING
+
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+L ENG A/C FAULTS |   1   | LRU OK / INFO |FADEC/AIRCRAFT MISMATCH  |  3 
+R ENG A/C FAULTS |   1   | LRU OK / INFO |FADEC/AIRCRAFT MISMATCH  |  3 
+AC FUEL SYSTEM   |   1   | LRU OK / INFO |FUEL LOW PRESSURE        |  3 
+AC FUEL SYSTEM   |   2   | LRU OK / INFO |FUEL LOW PRESSURE        |  0 
+L ENG AI SYSTEM  |   1   | LRU OK / INFO |ANTI-ICE LOW PRESSURE    |  3 
+L ENG AI SYSTEM  |   2   | LRU OK / INFO |ANTI-ICE OVER PRESSURE   |  3 
+L ENG AI SYSTEM  |   3   | LRU OK / INFO |ANTI-ICE ON W/O COMMAND  |  3 
+R ENG AI SYSTEM  |   1   | LRU OK / INFO |ANTI-ICE LOW PRESSURE    |  3 
+R ENG AI SYSTEM  |   2   | LRU OK / INFO |ANTI-ICE OVER PRESSURE   |  3 
+R ENG AI SYSTEM  |   3   | LRU OK / INFO |ANTI-ICE ON W/O COMMAND  |  3 
+APU ECU          |   4   | FAILED        |NO BATT BUS PWR          |  3 
+APU ECU          |   5   | FAILED        |NO BATT BUS PWR          |  3 
+APU FUEL CTRL    |   1   | FAILED/WIRING |OPN/SHRT TORQUE MOTOR    |  3 
+APU FUEL SOV     |   2   | FAILED/WIRING |OPEN/SHORT FUEL SOV      |  3 
+APU START MOTOR  |   1   | FAILED/WIRING |OPEN PWR/SENSE WIRE      |  3 
+APU INLET T SNSR |   1   | FAILED/WIRING |OPN/SHRT CIRCUIT         |  3 
+APU HOURMETER    |   1   | FAILED/WIRING |NO DATA OUTPUT TO ECU    |  3 
+APU HOURMETER    |   2   | FAILED        |DATA XCHECK FAULT        |  3 
+APU OIL T SNSR   |   1   | FAILED/WIRING |OPN/SHRT CIRCUIT         |  3 
+AUX HYDRAULICS   |   1   | DEFERRED MAINT|LOW HYDRAULICS LEVEL     |  3 
+AUX HYDRAULICS   |   2   | MAINTENANCE   |HIGH HYDRAULICS LEVEL    |  3 
+AVIONICS VLV RLY |   1   | FAILED/WIRING |AVIONICS RELAY FAILED    |  5 
+BLEED VALVE 1    |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+BLEED VALVE 1    |   6   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+BLEED VALVE 2    |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+BLEED VALVE 2    |   6   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+CAB VENT T SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+CAB VENT T SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+L ENG CGV ACT    |   4   | LRU OK / INFO |CGV ACTUATOR SUSPECT     |  3 
+R ENG CGV ACT    |   4   | LRU OK / INFO |CGV ACTUATOR SUSPECT     |  3 
+CKPT T SEL PNL   |   2   | FAILED/WIRING |CH A FAULT               |  7 
+CKPT T SEL PNL   |   3   | FAILED/WIRING |CH B FAULT               |  7 
+CKPT VENT T SNSR |   2   | FAILED/WIRING |CH A FAULT               |  7 
+CKPT VENT T SNSR |   3   | FAILED/WIRING |CH B FAULT               |  7 
+CAB DUCT T SNSR  |   2   | FAILED/WIRING |CH B FAULT               |  7 
+CAB DUCT T SNSR  |   3   | FAILED/WIRING |CH A FAULT               |  7 
+L ENG BOTH ECU   |   5   | LRU OK / INFO |FADEC CONFIG MISMATCH    |  3 
+R ENG BOTH ECU   |   5   | LRU OK / INFO |FADEC CONFIG MISMATCH    |  3 
+L ENG OIL SYS    |   1   | LRU OK / INFO |OIL FILTER BLOCKAGE      |  3 
+L ENG OIL SYS    |   2   | LRU OK / INFO |OIL CHIPS DETECTED       |  3 
+R ENG OIL SYS    |   1   | LRU OK / INFO |OIL FILTER BLOCKAGE      |  3 
+R ENG OIL SYS    |   2   | LRU OK / INFO |OIL CHIPS DETECTED       |  3 
+FLOW CTRL VLV1   |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+FLOW CTRL VLV1   |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+FLOW CTRL VLV2   |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+FLOW CTRL VLV2   |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+FIREX CTRL UNIT  |  10   | DEFERRED MAINT|INTERNAL FAULT           |  3 
+FSU 1 CHARTS     |   5   | LRU OK / INFO |DATABASE NOT CURRENT     |  5 
+XM RECEIVER      |   2   | LRU OK / INFO |XM SUBSCRIPTION INVALID  |  5 
+FSU 2 CHARTS     |   5   | LRU OK / INFO |DATABASE NOT CURRENT     |  5 
+HOT AIR T SNSR   |   2   | FAILED/WIRING |CH A FAULT               |  7 
+HOT AIR T SNSR   |   3   | FAILED/WIRING |CH B FAULT               |  7 
+HYD GEN TEST     |   1   | LRU OK / INFO |HYD GEN TEST OK          |  3 
+HYD GEN TEST     |   2   | LRU OK / INFO |HYD GEN TEST INCOMPLETE  |  3 
+HYD GEN CNTOR    |   1   | FAILED/WIRING |HYD GEN CNTOR TEST FAIL  |  3 
+HYD GEN FEEDER   |   1   | FAILED/WIRING |HYD GEN FEEDER TEST FAIL |  3 
+HYD GEN GCU      |   1   | FAILED        |HYD GEN GCU TEST FAIL    |  3 
+L ENG HMU        |   4   | LRU OK / INFO |HMU SUSPECT              |  0 
+R ENG HMU        |   4   | LRU OK / INFO |HMU SUSPECT              |  3 
+HI PRESS VALVE 1 |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+HI PRESS VALVE 1 |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+HI PRESS VALVE 1 |   6   | MAINTENANCE   |L HPV HI PRESS DRIFT     |  5 
+HI PRESS VALVE 2 |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+HI PRESS VALVE 2 |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+HI PRESS VALVE 2 |   6   | MAINTENANCE   |R HPV HI PRESS DRIFT     |  5 
+IASC1      TST A |  17   | DEFERRED MAINT|IASC-1 CHANNEL A FAULT   |  5 
+IASC1      TST A |  18   | DEFERRED MAINT|IASC-1 CHANNEL B FAULT   |  5 
+IASC1      TST A |  19   | DEFERRED MAINT|IASC-1 INPUT DISAGREE    |  5 
+IASC2      TST A |  17   | DEFERRED MAINT|IASC-2 CHANNEL A FAULT   |  5 
+IASC2      TST A |  18   | DEFERRED MAINT|IASC-2 CHANNEL B FAULT   |  5 
+IASC2      TST A |  19   | DEFERRED MAINT|IASC-2 INPUT DISAGREE    |  5 
+IOC 1            |   5   | LRU OK / INFO |I/O OVERLOAD             | 45 
+IOC 1            |   6   | LRU OK / INFO |INPUT BUS ERROR          | 25 
+IOC 1            |  22   | LRU OK / INFO |ATM 1 FIFO FULL FAULT    | 25 
+IOC 1            |  23   | LRU OK / INFO |ATM 2 FIFO FULL FAULT    | 25 
+IOC 1            |  24   | LRU OK / INFO |ATM 3 FIFO FULL FAULT    | 25 
+IOC 2            |   5   | LRU OK / INFO |I/O OVERLOAD             | 45 
+IOC 2            |   6   | LRU OK / INFO |INPUT BUS ERROR          | 25 
+IOC 2            |  20   | LRU OK / INFO |ATM 1 FIFO FULL FAULT    | 25 
+IOC 2            |  21   | LRU OK / INFO |ATM 2 FIFO FULL FAULT    | 25 
+IOC 2            |  22   | LRU OK / INFO |ATM 3 FIFO FULL FAULT    | 25 
+STBY INST BATT   |   1   | LRU OK / INFO |STBY INST BATT IN TEST   |  1 
+STBY INST BATT   |   2   | LRU OK / INFO |STBY INST BATT TEST OK   |  3 
+L AOA SENSOR     |   2   | FAILED/WIRING |L AOA SINGLE FAULT       |  3 
+L AOA SENSOR     |   3   | LRU OK / INFO |L AOA RSLVR 1&2 DISAGREE |  8 
+L DC MOTOR PUMP  |   1   | DEFERRED MAINT|DC MOTOR PUMP BRUSH WEAR |  3 
+L ENG ECFR       |   1   | LRU OK / INFO |FADEC ECU A DATA FULL    |  3 
+L ENG ECFR       |   2   | LRU OK / INFO |FADEC ECU B DATA FULL    |  3 
+L ENG ECFR       |   3   | LRU OK / INFO |POWERPLANT EVENT RECORD  |  3 
+L ENG EXCEEDANCE |   1   | MAINTENANCE   |THRESHOLD EXCEEDANCE     |  3 
+L HYDR RESERVOIR |   1   | DEFERRED MAINT|LOW HYDRAULICS LEVEL     |  3 
+L I/B TEMP SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+L I/B TEMP SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+L ENG NOTICE     |   1   | LRU OK / INFO |HIGH POWER SHUTDOWN      |  3 
+L ENG NOTICE     |   2   | LRU OK / INFO |UNEXPECTED CHANNEL SWAP  |  3 
+L ENG NOTICE     |   3   | LRU OK / INFO |UNEXPECTED FLAMEOUT      |  3 
+L ENG NOTICE     |   4   | LRU OK / INFO |UNEXPECTED ENGINE SURGE  |  3 
+L ENG NOTICE     |   5   | LRU OK / INFO |UNEXPECTED AUTO-IGNITION |  3 
+L ENG NOTICE     |   6   | LRU OK / INFO |START ABORT - HIGH TEMP  |  3 
+L ENG NOTICE     |   7   | LRU OK / INFO |START ABORT - NO FINISH  |  3 
+L ENG NOTICE     |   8   | LRU OK / INFO |START ABORT - NO BEGIN   |  3 
+L ENG NOTICE     |   9   | LRU OK / INFO |BROKEN SHAFT DETECTION   |  3 
+L ENG NOTICE     |  10   | LRU OK / INFO |N2 OVERSPEED DETECTION   |  3 
+L ENG NOTICE     |  11   | LRU OK / INFO |N1 NOTICE EXCEEDANCE     |  3 
+L ENG NOTICE     |  12   | LRU OK / INFO |N2 NOTICE EXCEEDANCE     |  0 
+L ENG NOTICE     |  13   | LRU OK / INFO |ITT NOTICE EXCEEDANCE    |  3 
+L ENG NOTICE     |  14   | LRU OK / INFO |LOW OIL PRES NOTICE      |  3 
+L ENG TLD        |   1   | LRU OK / INFO |FUNCTIONAL STATUS CLEAR  |  3 
+L ENG TLD        |   2   | LRU OK / INFO |FUNCTIONAL STATUS NOTICE |  3 
+L ENG TLD        |   3   | LRU OK / INFO |FUNCTIONAL STATUS LT     |  3 
+L ENG TLD        |   4   | LRU OK / INFO |FUNCTIONAL STATUS ST     |  3 
+L ENG TLD        |   5   | LRU OK / INFO |FUNCTIONAL STATUS (MMEL) |  3 
+L ENG TLD        |   6   | LRU OK / INFO |FUNCTIONAL STATUS CHANGE |  3 
+MDC              |   3   | LRU OK / INFO |QUEUE OVERRUN            | 45 
+MDC              |   4   | FAILED        |INTERNAL BATTERY FAIL    |  5 
+PACK TEMP SNSR   |   2   | FAILED/WIRING |CH A FAULT               |  7 
+PACK TEMP SNSR   |   3   | FAILED/WIRING |CH B FAULT               |  7 
+R AOA SENSOR     |   2   | FAILED/WIRING |R AOA SINGLE FAULT       |  8 
+R AOA SENSOR     |   3   | LRU OK / INFO |R AOA RSLVR 1&2 DISAGREE |  8 
+RAM AIR REG VLV  |   3   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+RAM AIR REG VLV  |   4   | FAILED/WIRING |DISAGREE / VALVE OPEN    |  5 
+R DC MOTOR PUMP  |   1   | DEFERRED MAINT|DC MOTOR PUMP BRUSH WEAR |  3 
+R ENG ECFR       |   1   | LRU OK / INFO |FADEC ECU A DATA FULL    |  3 
+R ENG ECFR       |   2   | LRU OK / INFO |FADEC ECU B DATA FULL    |  3 
+R ENG ECFR       |   3   | LRU OK / INFO |POWERPLANT EVENT RECORD  |  3 
+R ENG EXCEEDANCE |   1   | MAINTENANCE   |THRESHOLD EXCEEDANCE     |  3 
+R HYDR RESERVOIR |   1   | DEFERRED MAINT|LOW HYDRAULICS LEVEL     |  3 
+R I/B TEMP SNSR  |   2   | FAILED/WIRING |CH A FAULT               |  7 
+
+       LRU       | Mess# |    Status     |        Message          |Timer
+------------------------------------------------------------------------
+R I/B TEMP SNSR  |   3   | FAILED/WIRING |CH B FAULT               |  7 
+R ENG NOTICE     |   1   | LRU OK / INFO |HIGH POWER SHUTDOWN      |  3 
+R ENG NOTICE     |   2   | LRU OK / INFO |UNEXPECTED CHANNEL SWAP  |  3 
+R ENG NOTICE     |   3   | LRU OK / INFO |UNEXPECTED FLAMEOUT      |  3 
+R ENG NOTICE     |   4   | LRU OK / INFO |UNEXPECTED ENGINE SURGE  |  3 
+R ENG NOTICE     |   5   | LRU OK / INFO |UNEXPECTED AUTO-IGNITION |  3 
+R ENG NOTICE     |   6   | LRU OK / INFO |START ABORT - HIGH TEMP  |  0 
+R ENG NOTICE     |   7   | LRU OK / INFO |START ABORT - NO FINISH  |  3 
+R ENG NOTICE     |   8   | LRU OK / INFO |START ABORT - NO BEGIN   |  3 
+R ENG NOTICE     |   9   | LRU OK / INFO |BROKEN SHAFT DETECTION   |  3 
+R ENG NOTICE     |  10   | LRU OK / INFO |N2 OVERSPEED DETECTION   |  3 
+R ENG NOTICE     |  11   | LRU OK / INFO |N1 NOTICE EXCEEDANCE     |  3 
+R ENG NOTICE     |  12   | LRU OK / INFO |N2 NOTICE EXCEEDANCE     |  3 
+R ENG NOTICE     |  13   | LRU OK / INFO |ITT NOTICE EXCEEDANCE    |  3 
+R ENG NOTICE     |  14   | LRU OK / INFO |LOW OIL PRES NOTICE      |  3 
+R ENG TLD        |   1   | LRU OK / INFO |FUNCTIONAL STATUS CLEAR  |  3 
+R ENG TLD        |   2   | LRU OK / INFO |FUNCTIONAL STATUS NOTICE |  3 
+R ENG TLD        |   3   | LRU OK / INFO |FUNCTIONAL STATUS LT     |  3 
+R ENG TLD        |   4   | LRU OK / INFO |FUNCTIONAL STATUS ST     |  0 
+R ENG TLD        |   5   | LRU OK / INFO |FUNCTIONAL STATUS (MMEL) |  3 
+R ENG TLD        |   6   | LRU OK / INFO |FUNCTIONAL STATUS CHANGE |  3 
+L ENG SBV A      |   4   | LRU OK / INFO |SBV A SUSPECT            |  3 
+R ENG SBV A      |   4   | LRU OK / INFO |SBV A SUSPECT            |  3 
+L ENG SBV B      |   4   | LRU OK / INFO |SBV B SUSPECT            |  3 
+R ENG SBV B      |   4   | LRU OK / INFO |SBV B SUSPECT            |  3 
+L ENG SBV C      |   4   | LRU OK / INFO |SBV C SUSPECT            |  3 
+R ENG SBV C      |   4   | LRU OK / INFO |SBV C SUSPECT            |  3 
+SPOILER ECU 1    |  34   | MAINTENANCE   |SPOILER RIGGING FAILED   |  3 
+SPOILER ECU 2    |  34   | MAINTENANCE   |SPOILER RIGGING FAILED   |  3 
+STALL COMPUTER   |  28   | FAILED        |SPC RESOLVER CH FAIL     |  8 
+TAWS MARK V      |   3   | FAILED/WIRING |SELF TEST INVALID        |  5 
+TAWS MARK V      |  15   | FAILED/WIRING |GS CANCEL INVALID        |  5 
+TAWS MARK VIII   |   4   | FAILED/WIRING |SELF TEST INVALID        |  5 
+TAWS MARK VIII   |  17   | FAILED/WIRING |GS CANCEL INVALID        |  5 
+L ENG TR SYS     |   2   | LRU OK / INFO |REVERSER IS FAILED       |  3 
+L ENG TR SYS     |   3   | LRU OK / INFO |REVESER NOT INHIBITED    |  3 
+R ENG TR SYS     |   2   | LRU OK / INFO |REVERSER IS FAILED       |  3 
+R ENG TR SYS     |   3   | LRU OK / INFO |REVESER NOT INHIBITED    |  3 
+WING A/ICE VLV 1 |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+WING A/ICE VLV 1 |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+WING A/ICE VLV 2 |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+WING A/ICE VLV 2 |   5   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+L ENG FUEL FILT  |   1   | LRU OK / INFO |FUEL FILTER BLOCKAGE     |  3 
+R ENG FUEL FILT  |   1   | LRU OK / INFO |FUEL FILTER BLOCKAGE     |  3 
+WXR RTA          |  14   | LRU OK / INFO |AUTO NOTIFICATION        | 30 
+WXR RTA          |  15   | LRU OK / INFO |TURBULENCE NOTIFICATION  | 30 
+WX RADAR CH A/B  |   4   | LRU OK / INFO |INVALID MODE/RANGE       |  5 
+APU SQUIB        |   2   | FAILED/WIRING |BRIDGEWIRE A OPEN        |  3 
+APU SQUIB        |   3   | FAILED/WIRING |BRIDGEWIRE B OPEN        |  3 
+L ENG BTL1 SQUIB |   2   | FAILED/WIRING |BRIDGEWIRE A OPEN        |  3 
+L ENG BTL1 SQUIB |   3   | FAILED/WIRING |BRIDGEWIRE B OPEN        |  3 
+R ENG BTL1 SQUIB |   2   | FAILED/WIRING |BRIDGEWIRE A OPEN        |  3 
+R ENG BTL1 SQUIB |   3   | FAILED/WIRING |BRIDGEWIRE B OPEN        |  3 
+WING XVALVE      |   2   | FAILED/WIRING |DISAGREE / VALVE CLOSED  |  5 
+WING XVALVE      |   3   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 
+WING XVALVE      |   4   | FAILED/WIRING |DISCRETE INPUT TO DCU    |  5 

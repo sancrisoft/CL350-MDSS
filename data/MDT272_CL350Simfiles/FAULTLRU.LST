@@ -1,0 +1,1347 @@
+----------------Reporting LRU's-------------------------
+                                               ioc lbl remap sdi-label remap sdi
+                                                -- ---  --- --     ---  --- --
+ADC1   ADC 1             ATA=34-13  ID=A001     1X 350  062 01  -  351  301 01 
+
+ADC2   ADC 2             ATA=34-13  ID=A002     2X 350  062 10  -  351  301 10 
+
+AHC1   AHC 1             ATA=34-21  ID=A011     1X 350  060 01  -  351  061 01 
+
+AHC2   AHC 2             ATA=34-21  ID=A012     2X 350  060 10  -  351  061 10 
+
+APU    APU ECU           ATA=49-00  ID=A039     XX 350  341 01  -  351  342 01 
+                                                   352  343 01  -  353  344 01 
+
+BCUIB  BRAKE CTRL UNIT   ATA=32-44  ID=A067     XX 350A 102 01  -  350B 102 10 
+                                                   351A 326 01  -  351B 326 10 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+BCUOB  BCU OB TEST CFG   ATA=32-44              XX 000  331 11                 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+CCP1   CCP 1             ATA=34-25  ID=PL25     1X 350  372 01                 
+
+CCP2   CCP 2             ATA=34-25  ID=PL60     2X 350  372 10                 
+
+CDU1   CDU 1             ATA=34-61  ID=A068     1X 350  140 01  -  351  141 01 
+
+CDU2   CDU 2             ATA=34-61  ID=A069     2X 350  140 10  -  351  141 10 
+
+CPE1   CPE 1 AUDIO       ATA=23-00              XX 057  057 01                 
+
+CPE2   CPE 2 AUDIO       ATA=23-00              XX 057  057 10                 
+
+CVR1   CKPIT VOICE REC   ATA=23-71  ID=A129     XX 350  115 00                 
+
+DBU1   DBU               ATA=34-61              2X 351  317 00                 
+
+DCP1   DCP 1             ATA=34-25  ID=PL07     1X 350  303 01                 
+
+DCP2   DCP 2             ATA=34-25  ID=PL08     2X 350  303 10                 
+
+DCU1   DCU A             ATA=31-41  ID=A014     1X 336  336 01  -  337  337 NA 
+                                                   340  013 01  -  345  345 01 
+                                                   355A 355 01  -  357  357 01 
+
+DCU2   DCU B             ATA=31-41  ID=A014     2X 336  336 10  -  337  337 NA 
+                                                   340  013 10  -  345  345 10 
+                                                   355B 355 10  -  357  357 10 
+
+DLNK   RIU 1 DATALINK    ATA=23-22  ID=A017     XX 350  216 01  -  351  217 01 
+
+DME1   DME 1             ATA=34-53  ID=A049     1X 057  067 01  -  060  113 01 
+
+DME2   DME 2             ATA=34-53  ID=A050     2X 057  067 10  -  060  113 10 
+
+DRDCA  RDC DISCR  PG3/3  ATA=31-41  ID=A013     XX 004A 117 01  -  005A 117 10 
+                                                   006A 117 11  -  007A 120 01 
+                                                   010A 120 10  -  011A 120 11 
+                                                   012A 121 01  -  013A 121 10 
+                                                   014A 121 11                 
+
+DWDC1  DCU A A/C DISCR   ATA=31-41  ID=A014     1X 105A 105 00  -  106A 106 00 
+                                                   107A 107 00  -  110A 110 00 
+                                                   111A 111 00  -  112A 112 00 
+                                                   253A 253 01  -  262A 262 01 
+                                                   263A 263 01  -  272A 261 01 
+
+DWDC2  DCU B A/C DISCR   ATA=31-41  ID=A014     2X 105B 105 00  -  106B 106 00 
+                                                   107B 107 00  -  110B 110 00 
+                                                   111B 111 00  -  112B 112 00 
+                                                   253B 253 10  -  262B 262 10 
+                                                   263B 263 10  -  272B 261 10 
+
+FCU    FLAP CTRL UNIT    ATA=27-52  ID=A124     XX 350C 200 10  -  351C 201 10 
+                                                   352C 202 10  -  353C 203 10 
+                                                   354C 206 10  -  355C 205 10 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+FGC1   FGC 1             ATA=22-11  ID=A004     1X 071  071 01  -  351  124 NA 
+
+FGC2   FGC 2             ATA=22-11  ID=A004     2X 071  071 10  -  351  124 NA 
+
+FIREX  FIREX CTRL UNIT   ATA=26-00  ID=A091     XX 350  033 00  -  351  033 01 
+                                                   352  033 10  -  353  034 00 
+                                                   354  034 01  -  355  034 10 
+                                                   357  033 11  -  370  034 11 
+
+FMC1   FMC 1             ATA=34-61  ID=A004     1X 350  065 01                 
+
+FMC2   FMC 2             ATA=34-61  ID=A004     2X 350  065 10                 
+
+FQGC   FQGC              ATA=28-00  ID=A057     XX 351A 037 01  -  351B 037 10 
+                                                   352A 040 01  -  352B 040 10 
+                                                   353A 041 01  -  353B 041 10 
+
+FSU1   FSU 1             ATA=46-20  ID=A221     1X 350  361 01  -  351  363 01 
+                                                   352  364 01  -  353  365 01 
+                                                   354  366 01                 
+
+FSU2   FSU 2             ATA=46-20  ID=A222     2X 350  361 10  -  351  363 10 
+                                                   352  364 10  -  353  365 10 
+                                                   354  366 10                 
+
+GPS1   GPS 1             ATA=34-58  ID=A025     1X 176  123 01  -  355  042 01 
+
+GPS2   GPS 2             ATA=34-58  ID=A024     2X 176  123 10  -  355  042 10 
+
+HF1    HF 1              ATA=23-12  ID=A061     1X 351  104 01                 
+
+HF2    HF 2              ATA=23-12  ID=A062     2X 351  104 10                 
+
+HSTEC  HORIZ TRIM ECU    ATA=27-40  ID=A130     XX 352A 230 01  -  352B 230 10 
+                                                   353A 231 01  -  353B 231 10 
+                                                   354A 232 01  -  354B 232 10 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+HZSTB  RUDDER TRVL TEST  ATA=27-40  ID=MPE80    XX 377  164 10                 
+
+IAS1A  IASC1      TST A  ATA=21-61  ID=A055     XX 350A 173 00  -  350B 173 01 
+                                                   351A 174 00  -  351B 174 01 
+                                                   352A 175 00  -  352B 175 01 
+                                                   353A 176 00  -  353B 176 01 
+                                                   354A 177 00  -  354B 177 01 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+IAS1B  IASC1      TST B  ATA=30-11              1B 000B 165 00                 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+IAS2A  IASC2      TST A  ATA=21-61  ID=A056     XX 350A 173 10  -  350B 173 11 
+                                                   351A 174 10  -  351B 174 11 
+                                                   352A 175 10  -  352B 175 11 
+                                                   353A 176 10  -  353B 176 11 
+                                                   354A 177 10  -  354B 177 11 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+IAS2B  IASC2      TST B  ATA=30-11              2B 000B 165 01                 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+IC1IN  IOC 1 INPORTS     ATA=22-12  ID=A004     1X 352  352 10  -  352  352 11 
+                                                   352  352 01  -  353  353 00 
+                                                   353  353 01  -  353  353 10 
+                                                   353  353 11                 
+
+IC2IN  IOC 2 INPORTS     ATA=22-12  ID=A004     2X 352  352 01  -  352  352 10 
+                                                   352  352 11  -  353  353 00 
+                                                   353  353 01  -  353  353 10 
+                                                   353  353 11                 
+
+IOC1   IOC 1             ATA=22-12  ID=A004     1X 350  350 01  -  351  351 01 
+                                                   352  352 00  -  354  354 00 
+                                                   354  354 01  -  354  354 10 
+                                                   354  354 11                 
+
+IOC2   IOC 2             ATA=22-12  ID=A004     2X 350  350 10  -  351  351 10 
+                                                   352  352 00  -  354  354 00 
+                                                   354  354 10  -  354  354 01 
+                                                   354  354 11                 
+
+IRS1   IRS 1             ATA=34-45  ID=A233     1X 270L 031 01  -  350L 227 01 
+                                                   355L 233 01                 
+
+IRS2   IRS 2             ATA=34-45  ID=A232     2X 270R 031 10  -  350R 227 10 
+                                                   355R 233 10                 
+
+IRS3   IRS 3             ATA=34-45              XX 270T 031 11  -  350T 227 11 
+                                                   355T 233 11                 
+
+ISI1   ISI               ATA=27-35  ID=A090     XX 350  320 01                 
+
+LDS1   LIGHTNG DET SYS   ATA=34-41  ID=A077     XX 001  164 00                 
+
+LDUA   LDU               ATA=31-41  ID=A052     XX 350A 147 01  -  350B 147 10 
+
+LECA   L ENG ECU A       ATA=71-00  ID=A041     XX 350A 255 10  -  351A 310 10 
+                                                   352A 311 10  -  353A 312 10 
+                                                   354A 313 10  -  355A 256 10 
+                                                   357A 315 10  -  360A 316 10 
+                                                   361A 257 10  -  362A 272 10 
+
+LECAX  L ENG ECU A EXT   ATA=71-00  ID=A111     XX 270A 300 10  -  271A 247 10 
+                                                   272A 302 10  -  273A 275 10 
+                                                   363A 244 10  -  364A 267 10 
+                                                   365A 252 10  -  366A 254 10 
+
+LECB   L ENG ECU B       ATA=71-00  ID=A043     XX 350B 255 00  -  351B 310 00 
+                                                   352B 311 00  -  353B 312 00 
+                                                   354B 313 00  -  355B 256 00 
+                                                   357B 315 00  -  360B 316 00 
+                                                   361B 257 00  -  362B 272 00 
+
+LECBX  L ENG ECU B EXT   ATA=71-00  ID=A113     XX 270B 300 00  -  271B 247 00 
+                                                   272B 302 00  -  273B 275 00 
+                                                   363B 244 00  -  364B 267 00 
+                                                   365B 252 00  -  366B 254 00 
+
+LPROT  L PROTECTION PCB  ATA=24-30  ID=PCB1     XX 350  240 01  -  351  241 01 
+                                                   352  242 01                 
+
+MDC1   MDC               ATA=45-45  ID=A004     2X 350  046 01  -  352  070 01 
+
+MFD1   MFD 1             ATA=34-25  ID=A029     1X 151  155 NA  -  156  376 01 
+                                                   277  277 01  -  350  073 NA 
+                                                   351  306 NA  -  356  323 01 
+                                                   357  347 01  -  367  370 01 
+
+MFD2   MFD 2             ATA=34-25  ID=A028     2X 151  155 NA  -  156  376 01 
+                                                   277  277 10  -  350  073 NA 
+                                                   351  306 NA  -  356  323 01 
+                                                   357  347 01  -  367  370 01 
+
+NAV1   NAV 1             ATA=34-51  ID=A047     1X 057A 063 01  -  057V 075 01 
+                                                   060A 116 01  -  060V 066 01 
+
+NAV2   NAV 2             ATA=34-51  ID=A048     2X 057A 063 10  -  057V 075 10 
+                                                   060A 116 10  -  060V 066 10 
+
+PFD1   PFD 1             ATA=34-25  ID=A027     1X 156  376 00  -  157  035 00 
+                                                   270  321 NA  -  277  277 00 
+                                                   350  072 NA  -  351  305 NA 
+                                                   356  323 00  -  357  347 00 
+                                                   367  370 00                 
+
+PFD2   PFD 2             ATA=34-25  ID=A026     2X 156  376 00  -  157  035 00 
+                                                   270  321 NA  -  277  277 11 
+                                                   350  072 NA  -  351  305 NA 
+                                                   356  323 00  -  357  347 00 
+                                                   367  370 00                 
+
+PSEU   PSEU LRU          ATA=32-61  ID=A009     XX 350  001 NA  -  351B 002 10 
+                                                   352B 003 10  -  353B 004 10 
+                                                   354B 005 10  -  355B 006 10 
+                                                   357B 007 10  -  364B 014 10 
+                                                   365B 015 10  -  366B 016 10 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+PSEUA  PSEU EXTA         ATA=32-61  ID=A009     XX 360B 010 10  -  361B 011 10 
+                                                   362B 012 10  -  363B 223 10 
+                                                   370B 017 10  -  371B 220 10 
+                                                   372B 221 10  -  373B 222 10 
+                                                   374B 023 10  -  375B 024 10 
+
+PSEUB  PSEU EXTB         ATA=32-61  ID=A009     XX 376B 025 10  -  377B 026 10 
+
+RALT1  RAD ALT 4000      ATA=34-44  ID=A032     XX 270  207 01  -  350  077 01 
+
+RDC    RDC A&B           ATA=31-41  ID=A013     XX 350A 330 00  -  350B 211 00 
+                                                   351A 330 01  -  351B 211 01 
+                                                   352A 330 10  -  352B 211 10 
+                                                   353A 330 11  -  353B 211 11 
+                                                   354A 332 00  -  354B 212 00 
+
+RDCX   RDC A&B    PG2/3  ATA=31-41  ID=A013     XX 365A 215 01  -  365B 215 10 
+
+RECA   R ENG ECU A       ATA=71-00  ID=A040     XX 350A 255 11  -  351A 310 11 
+                                                   352A 311 11  -  353A 312 11 
+                                                   354A 313 11  -  355A 256 11 
+                                                   357A 315 11  -  360A 316 11 
+                                                   361A 257 11  -  362A 272 11 
+
+RECAX  R ENG ECU A EXT   ATA=71-00  ID=A112     XX 270A 300 11  -  271A 247 11 
+                                                   272A 302 11  -  273A 275 11 
+                                                   363A 244 11  -  364A 267 11 
+                                                   365A 252 11  -  366A 254 11 
+
+RECB   R ENG ECU B       ATA=71-00  ID=A042     XX 350B 255 01  -  351B 310 01 
+                                                   352B 311 01  -  353B 312 01 
+                                                   354B 313 01  -  355B 256 01 
+                                                   357B 315 01  -  360B 316 01 
+                                                   361B 257 01  -  362B 272 01 
+
+RECBX  R ENG ECU B EXT   ATA=71-00  ID=A114     XX 270B 300 01  -  271B 247 01 
+                                                   272B 302 01  -  273B 275 01 
+                                                   363B 244 01  -  364B 267 01 
+                                                   365B 252 01  -  366B 254 01 
+
+RIU1   RIU 1             ATA=23-81  ID=A017     1X 350  234 01  -  351  235 01 
+                                                   352  236 01                 
+
+RIU2   RIU 2             ATA=23-81  ID=A018     2X 350  234 10  -  351  235 10 
+                                                   352  236 10                 
+
+RPROT  R PROTECTION PCB  ATA=24-30  ID=PCB2     XX 350  240 10  -  351  241 10 
+                                                   352  242 10                 
+
+SECU1  SPOILER ECU 1     ATA=27-60  ID=A118     XX 352  030 01  -  353  027 01 
+                                                   354  032 01                 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+SECU2  SPOILER ECU 2     ATA=27-60  ID=A119     XX 352  030 10  -  353  027 10 
+                                                   354  032 10                 
+ -- LRU NVM\CFG DOWNLOAD  OPTION=NVM  OPTION=CFG
+
+SPC    STALL COMPUTER    ATA=27-35  ID=A178     XX 271A 271 00  -  271B 271 01 
+                                                   353A 322 00  -  353B 322 01 
+                                                   354A 324 00  -  354B 324 01 
+                                                   355A 325 00  -  355B 325 01 
+
+SRT1   SAT 2X00          ATA=23-00  ID=A082     XX 350  050 NA  -  351  051 NA 
+                                                   353  052 NA  -  354  053 NA 
+                                                   357  036 NA                 
+
+SVC1   SVC               ATA=34-34  ID=A230     XX 350  153 00                 
+
+TAWMV  TAWS MARK V       ATA=34-42  ID=A034     XX 350  237 00  -  351  213 00 
+                                                   355  214 00                 
+
+TAWS1  TAWS MARK VIII    ATA=34-42  ID=A034     XX 350  144 00  -  351  145 00 
+                                                   355  146 00                 
+
+TDR1   TDR 1             ATA=34-54  ID=A031     1X 350  064 01  -  353  340 01 
+                                                   354  333 01  -  355  334 01 
+
+TDR2   TDR 2             ATA=34-54  ID=A030     2X 350  064 10  -  353  340 10 
+                                                   354  333 10  -  355  334 10 
+
+TSS    TSS-4100          ATA=34-43  ID=A238     XX 350  044 00  -  351  125 01 
+                                                   354  126 01                 
+
+TTRA   TCAS CH A         ATA=34-43  ID=A005     1X 350  054 00                 
+
+TTRB   TCAS CH B         ATA=34-43  ID=A005     2X 350  054 00                 
+
+VHF1   VHF 1             ATA=23-11  ID=A007     1X 057  074 01  -  060  131 01 
+
+VHF2   VHF 2             ATA=23-11  ID=A008     2X 057  074 10  -  060  131 10 
+
+VHF3   VHF 3             ATA=23-11  ID=A010     1X 057  074 11  -  060  131 11 
+
+WXR4X  WXR RTA           ATA=34-41  ID=A3       XX 350  245 00  -  351  273 00 
+
+WXRA   WX RADAR CH A/B   ATA=34-41  ID=A003     XX 354A 314 01  -  354B 314 10 
+
+------------Non-Reporting LRU's-------------------------
+ACARC  AC ARINC SYS      ATA=76-10               
+
+ACBLD  AC BLEED SYS      ATA=36-00               
+
+ACFLL  L ENG A/C FAULTS  ATA=71-00               
+
+ACFLR  R ENG A/C FAULTS  ATA=71-00               
+
+ACFUE  AC FUEL SYSTEM    ATA=28-00               
+
+ACPWL  L ENG AC POWER    ATA=24-30               
+
+ACPWR  R ENG AC POWER    ATA=24-30               
+
+ADHC1  L ADC HTR CTRL    ATA=34-13  ID=A063      
+
+ADHC2  R ADC HTR CTRL    ATA=34-13  ID=A064      
+
+AGCU   APU GEN GCU       ATA=24-30  ID=PCB9      
+
+AGPM   APU GEN PWR MDL   ATA=24-30  ID=PCB10     
+
+AIDPL  L ENG AI PRES     ATA=71-00  ID=MT023     
+
+AIDPR  R ENG AI PRES     ATA=71-00  ID=MT024     
+
+AIPNL  ANTI-ICE PANEL    ATA=30-00               
+
+AISL   L ENG AI VALVE    ATA=71-00  ID=V01       
+
+AISR   R ENG AI VALVE    ATA=71-00  ID=V02       
+
+AISYL  L ENG AI SYSTEM   ATA=71-00               
+
+AISYR  R ENG AI SYSTEM   ATA=71-00               
+
+ALOG   APU LOGIC PCB     ATA=24-30  ID=PCB11     
+
+APSTF  APU START FUSE    ATA=24-30  ID=F4        
+
+APUA0  APU IGNIT UNIT    ATA=49-00  ID=A173      
+
+APUA1  APU FUEL CTRL     ATA=49-00  ID=A175      
+
+APUA2  APU LO OIL PR SW  ATA=49-00  ID=S110      
+
+APUA3  APU FUEL SOV      ATA=49-00  ID=HP8       
+
+APUA7  APU LD CTRL VLV   ATA=49-00  ID=V08       
+
+APUA8  APU SURGE CV      ATA=49-00  ID=V10       
+
+APUA9  APU START MOTOR   ATA=49-00  ID=MPE67     
+
+APUB2  APU INLET T SNSR  ATA=49-00  ID=RT02      
+
+APUB3  APU SPEED SNSR    ATA=49-00  ID=MT116     
+
+APUB5  APU EGT SENSOR    ATA=49-00               
+
+APUB6  APU HOURMETER     ATA=49-00  ID=A174      
+
+APUB7  APU OIL T SNSR    ATA=49-00  ID=RT01      
+
+APUB8  START CONTACTOR   ATA=49-00  ID=K062      
+
+APUG   APU GENERATOR     ATA=24-30  ID=G3        
+
+APUNR  APU               ATA=49-00  ID=A039      
+
+ARCL   L ENG ARINC       ATA=76-10               
+
+ARCR   R ENG ARINC       ATA=76-10               
+
+ASOVH  AIR SUPPLY OVHT   ATA=21-61               
+
+ATSVL  L ENG STARTER     ATA=71-00               
+
+ATSVR  R ENG STARTER     ATA=71-00               
+
+AUXRV  AUX HYDRAULICS    ATA=29-00  ID=MT140     
+
+AVFAN  AVIONICS FAN      ATA=21-61  ID=B03       
+
+AVLV   AVIONICS VALVE    ATA=21-61  ID=MPE14     
+
+AVRLY  AVIONICS VLV RLY  ATA=21-61  ID=K97       
+
+AVTS1  AVIONICS T SNSR1  ATA=21-61  ID=MT039     
+
+AVTS2  AVIONICS T SNSR2  ATA=21-61  ID=MT030     
+
+BPS1   BLEED PRES SNSR1  ATA=21-61  ID=MT021     
+
+BPS2   BLEED PRES SNSR2  ATA=21-61  ID=MT022     
+
+BSDL   L ENG BSD         ATA=71-00               
+
+BSDR   R ENG BSD         ATA=71-00               
+
+BT     BUS TIE FEEDER    ATA=24-30  ID=WRGT7     
+
+BVLV1  BLEED VALVE 1     ATA=36-00  ID=V03       
+
+BVLV2  BLEED VALVE 2     ATA=36-00  ID=V04       
+
+CABVS  CAB VENT T SNSR   ATA=21-61  ID=MT028     
+
+CBATT  CAB T TRIM PNL    ATA=21-61  ID=A3002     
+
+CBSEL  CABIN T SEL PNL   ATA=21-61  ID=R03       
+
+CCWR3  COPILOT CW RES 3  ATA=27-60  ID=MT126     
+
+CCWR4  COPILOT CW RES 4  ATA=27-60  ID=MT126     
+
+CDTS   COMP TEMP SNSR    ATA=21-61  ID=MT029     
+
+CFGAL  L ENG CFG PIN A   ATA=71-00               
+
+CFGAR  R ENG CFG PIN A   ATA=71-00               
+
+CFGBL  L ENG CFG PIN B   ATA=71-00               
+
+CFGBR  R ENG CFG PIN B   ATA=71-00               
+
+CGVL   L ENG CGV ACT     ATA=71-00               
+
+CGVR   R ENG CGV ACT     ATA=71-00               
+
+CKSEL  CKPT T SEL PNL    ATA=21-61  ID=R02       
+
+CLKL   CLOCK             ATA=31-21  ID=A121      
+
+CPTVS  CKPT VENT T SNSR  ATA=21-61  ID=MT037     
+
+CSU1   CSU 1             ATA=22-12  ID=A004      
+
+CSU2   CSU 2             ATA=22-12  ID=A004      
+
+CSUAB  CSU 1/CSU 2       ATA=22-12  ID=A004      
+
+DO01A  L AHRC;MLGWOW     ATA=32-61  ID=A011      
+
+DO01B  R AHRC;MLGWOW     ATA=32-61  ID=A012      
+
+DO02A  BCU;LGWOFW1       ATA=32-61  ID=A067      
+
+DO02B  BCU;LGWOFW2       ATA=32-61  ID=A067      
+
+DO03A  SPC-A;MLGWOW      ATA=32-61  ID=A178      
+
+DO03B  SPC-A;MLGWOW      ATA=32-61  ID=A178      
+
+DO04A  BCU;RGWOFW1       ATA=32-61  ID=A067      
+
+DO04B  BCU;RGWOFW2       ATA=32-61  ID=A067      
+
+DO05A  CCR-K50;MLGWOW    ATA=32-61  ID=K050      
+
+DO06A  APU;MLGWOW        ATA=32-61  ID=A039      
+
+DO07A  LDCPC;MLGWOW      ATA=32-61  ID=A035      
+
+DO07B  RDCPC;MLGWOW      ATA=32-61  ID=A036      
+
+DO08A  CLOCK;MLGWOW      ATA=32-61  ID=A121      
+
+DO08B  CVR-K40;MLGWOW    ATA=32-61  ID=K040      
+
+DO09A  TR-K19;MLGWOW     ATA=32-61  ID=K019      
+
+DO09B  TR-K18;MLGWOW     ATA=32-61  ID=K018      
+
+DO10A  LEFT TDR;MLGWOW   ATA=32-61  ID=A031      
+
+DO10B  RIGHT TDR;MLGWOW  ATA=32-61  ID=A030      
+
+DO10C  LEFT TSS;MLGWOW   ATA=32-61  ID=A238      
+
+DO11A  FCU;MLGWOW        ATA=32-61  ID=A124      
+
+DO11B  FCU;MLGWOW        ATA=32-61  ID=A124      
+
+DO12A  SCU;NGWOW         ATA=32-61  ID=A073      
+
+DO12B  SCU;NGWOW         ATA=32-61  ID=A073      
+
+DO13A  DL-K159;MLGWOW    ATA=32-61  ID=K-159     
+
+DO13B  DL-K158;MLGWOW    ATA=32-61  ID=K-158     
+
+DO14A  K59;LFWSOV        ATA=32-61  ID=K059      
+
+DO14B  FSCU;MLGWOFW      ATA=32-61  ID=A057      
+
+DO15A  TCAS;MLGWOW       ATA=32-61  ID=A005      
+
+DO15B  PL13;NGDNLK       ATA=32-61  ID=PL13      
+
+DO15C  TSS;MLGWOW        ATA=32-61  ID=A238      
+
+DO16A  FIREX;MLGWOW      ATA=32-61  ID=A091      
+
+DO16B  TAT PROBE;MLGWOW  ATA=32-61  ID=K098      
+
+DO17A  BCU;RETRACT       ATA=32-61  ID=A067      
+
+DO17B  BCU;RETRACT CMD   ATA=32-61  ID=A067      
+
+DO18A  SPC-B;MLGWOW      ATA=32-61  ID=A178      
+
+DO18B  SPC-B;MLGWOW      ATA=32-61  ID=A178      
+
+DO19A  SCU;NGDNLK        ATA=32-61  ID=A073      
+
+DO20A  BCU;NOT MGDNLK    ATA=32-61  ID=A067      
+
+DO20B  BCU;NOT MGDNLK    ATA=32-61  ID=A067      
+
+DO21A  LDCMP;LDCMP ENA   ATA=32-61  ID=PL11      
+
+DO21B  RDCMP;RDCMP ENA   ATA=32-61  ID=PL11      
+
+DO23A  RET VALVE;RET CM  ATA=32-61  ID=V09       
+
+DO24A  TCAS;MLGDNLK      ATA=32-61  ID=A005      
+
+DO24B  CCR-K51;MLGDNLK   ATA=32-61  ID=K051      
+
+DO25A  RET VALVE;RET CM  ATA=32-61  ID=V09       
+
+DO25B  PTU;PTU ENABLE    ATA=32-61  ID=PL11      
+
+DO5B   HMDG;MLGWOW       ATA=32-61  ID=K170      
+
+DO6B   K60;RFWSOV        ATA=32-61  ID=K060      
+
+DPMS1  DIFF PROT SNSR 1  ATA=24-30  ID=MPE071    
+
+DPMS2  DIFF PROT SNSR 2  ATA=24-30  ID=MPE072    
+
+DPMS5  DIFF PROT SNSR 5  ATA=24-30  ID=DPMS5     
+
+DPMS7  DIFF PROT SNSR 7  ATA=24-30  ID=DPMS7     
+
+DPMS8  DIFF PROT SNSR 8  ATA=24-30  ID=DPMS8     
+
+DPS1   DIFF PRESS SNSR1  ATA=21-61  ID=MT023     
+
+DPS2   DIFF PRESS SNSR2  ATA=21-61  ID=MT024     
+
+DTS1   CKPT DUCT T SNSR  ATA=21-61  ID=MT035     
+
+DTS2   CAB DUCT T SNSR   ATA=21-61  ID=MT026     
+
+EDCC   EXT DC CNTOR      ATA=24-30  ID=K81       
+
+EECBL  L ENG BOTH ECU    ATA=71-00               
+
+EECBR  R ENG BOTH ECU    ATA=71-00               
+
+EGTAL  L ENG EGT SNSR A  ATA=71-00               
+
+EGTAR  R ENG EGT SNSR A  ATA=71-00               
+
+EGTBL  L ENG EGT SNSR B  ATA=71-00               
+
+EGTBR  R ENG EGT SNSR B  ATA=71-00               
+
+ENGPL  ENG CNTL PNL      ATA=71-00               
+
+EOILL  L ENG OIL SYS     ATA=71-00               
+
+EOILR  R ENG OIL SYS     ATA=71-00               
+
+FCV1   FLOW CTRL VLV1    ATA=21-61  ID=MPE03     
+
+FCV2   FLOW CTRL VLV2    ATA=21-61  ID=MPE04     
+
+FDPSW  FIREX PIT SW      ATA=26-00               
+
+FDR    FLIGHT DATA REC   ATA=31-31  ID=A145      
+
+FFML   L ENG FFM         ATA=71-00               
+
+FFMR   R ENG FFM         ATA=71-00               
+
+FGP1   FLT GUIDANCE PNL  ATA=22-11  ID=PL09      
+
+FLLEV  FLAP LEVER        ATA=27-52  ID=A120      
+
+FLX1   FLUX DETECTOR 1   ATA=34-21  ID=A021      
+
+FLX2   FLUX DETECTOR 2   ATA=34-21  ID=A020      
+
+FPRSL  L ENG FUEL IPS    ATA=71-00               
+
+FPRSR  R ENG FUEL IPS    ATA=71-00               
+
+FPU    FLAP POWER UNIT   ATA=27-52  ID=A123      
+
+FR/DP  FUS R/D PANEL     ATA=28-00  ID=PL41      
+
+FSRV1  FSCL RVDT 1       ATA=27-60  ID=A006      
+
+FSRV2  FSCL RVDT 2       ATA=27-60  ID=A006      
+
+FSRV3  FSCL RVDT 3       ATA=27-60  ID=A006      
+
+FSRV4  FSCL RVDT 4       ATA=27-60  ID=A006      
+
+FSU1C  FSU 1 CHARTS      ATA=46-20               
+
+FSU1M  FSU 1 MAPS        ATA=46-20               
+
+FSU1W  FSU 1 DL GWX      ATA=46-20               
+
+FSU1X  FSU 1 XM GWX      ATA=46-20               
+
+FSU1Y  XM RECEIVER       ATA=46-20               
+
+FSU2C  FSU 2 CHARTS      ATA=46-20               
+
+FSU2M  FSU 2 MAPS        ATA=46-20               
+
+FSU2W  FSU 2 DL GWX      ATA=46-20               
+
+FSU2X  FSU 2 XM GWX      ATA=46-20               
+
+FTBL   L ENG FUEL T/B    ATA=71-00               
+
+FTBR   R ENG FUEL T/B    ATA=71-00               
+
+GSSV1  GSSV 1            ATA=27-60  ID=MPE34     
+
+GSSV2  GSSV 2            ATA=27-60  ID=MPE35     
+
+HATS   HOT AIR T SNSR    ATA=21-61  ID=MT027     
+
+HMDG   HYD GEN TEST      ATA=24-30  ID=A205      
+
+HMDGC  HYD GEN CNTOR     ATA=24-30  ID=K171      
+
+HMDGF  HYD GEN FEEDER    ATA=24-30  ID=A205      
+
+HMDGG  HYD GEN GCU       ATA=24-30  ID=A205      
+
+HMUL   L ENG HMU         ATA=71-00               
+
+HMUR   R ENG HMU         ATA=71-00               
+
+HPS1   HI PRESS SNSR1    ATA=36-00  ID=MT019     
+
+HPS2   HI PRESS SNSR2    ATA=36-00  ID=MT020     
+
+HPV1   HI PRESS VALVE 1  ATA=36-00  ID=V05       
+
+HPV2   HI PRESS VALVE 2  ATA=36-00  ID=V06       
+
+HSOV1  HOT AIR REG SOV1  ATA=21-61  ID=MPE05     
+
+HSOV2  HOT AIR REG SOV2  ATA=21-61  ID=MPE06     
+
+HTBK1  HORIZ TRIM BRAK1  ATA=27-40  ID=MPE44     
+
+HTBK3  HORIZ TRIM BRAK3  ATA=27-40  ID=MPE44     
+
+HTER1  HST ENGAGE RELY1  ATA=27-40  ID=MPE44     
+
+HTER2  HST ENGAGE RELY2  ATA=27-40  ID=MPE44     
+
+HTLV1  HORIZ TRIM LVDT1  ATA=27-40  ID=MPE44     
+
+HTLV2  HORIZ TRIM LVDT2  ATA=27-40  ID=MPE44     
+
+HTPMT  H-TRIM PRIM MOTR  ATA=27-40  ID=A131      
+
+HTRL   L ENG T2 HT MON   ATA=71-00               
+
+HTRR   R ENG T2 HT MON   ATA=71-00               
+
+HYDGN  HYD GEN           ATA=24-30  ID=A205      
+
+HYPBL  L ENG HYD BYP     ATA=29-00  ID=V11       
+
+HYPBR  R ENG HYD BYP     ATA=29-00  ID=V11       
+
+IASC1  IASC1             ATA=30-11  ID=A055      
+
+IASC2  IASC2             ATA=30-11  ID=A056      
+
+IBPSW  IB PRESS SWITCH   ATA=32-44  ID=S99       
+
+IBSOV  IB BRAKE SOV      ATA=32-44  ID=MPE27     
+
+ICD1   ICE DETECTOR 1    ATA=30-00  ID=A065      
+
+ICD2   ICE DETECTOR 2    ATA=30-00  ID=A066      
+
+IEC1   IAPS IEC 1        ATA=22-12  ID=A004      
+
+IGNL   L ENG IGN UNIT    ATA=71-00  ID=S111      
+
+IGNPL  L ENG IGN PLUG    ATA=71-00               
+
+IGNPR  R ENG IGN PLUG    ATA=71-00               
+
+IGNR   R ENG IGN UNIT    ATA=71-00  ID=S112      
+
+ISBAT  STBY INST BATT    ATA=24-30  ID=BT3       
+
+L-BLD  L BLEED LOOP      ATA=36-00               
+
+LABTN  L ALT BARO BTN    ATA=34-13               
+
+LAOA   L AOA SENSOR      ATA=27-35  ID=A141      
+
+LAPC1  L APU GEN CNTOR1  ATA=24-30  ID=K71       
+
+LAPC2  L APU GEN CNTOR2  ATA=24-30  ID=K149      
+
+LAUXC  L AUX BUS CNTOR   ATA=24-30  ID=K75       
+
+LAXF1  L AUX/MN BUS FUS  ATA=24-30  ID=F5        
+
+LAXF2  L AUX BUS FUSE    ATA=24-30  ID=F13       
+
+LB-LK  L BLEED AIR LEAK  ATA=36-00               
+
+LBAT   LEFT BATTERY      ATA=24-30  ID=BT1       
+
+LBATC  L BAT CNTOR       ATA=24-30  ID=K73       
+
+LBTC   L BUS TIE CNTOR   ATA=24-30  ID=K79       
+
+LCBPX  L CPLT BK PEDL X  ATA=32-44  ID=MT094     
+
+LCOLP  L COLLECT PROBE   ATA=28-00  ID=MT107     
+
+LDCMP  L DC MOTOR PUMP   ATA=29-00  ID=A071      
+
+LECFR  L ENG ECFR        ATA=71-00               
+
+LESSC  L ESS CNTOR       ATA=24-30  ID=K77       
+
+LESSF  L ESS FUSE        ATA=24-30  ID=F3        
+
+LEXCE  L ENG EXCEEDANCE  ATA=71-00               
+
+LFTB   L TRANSM BRAKE    ATA=27-52  ID=A203      
+
+LGCU   L GEN GCU         ATA=24-30  ID=PCB5      
+
+LGEN   LEFT GENERATOR    ATA=24-30  ID=G1        
+
+LGLC   L GEN LINE CNTOR  ATA=24-30  ID=K69       
+
+LGPM   L GEN PWR MODULE  ATA=24-30  ID=PCB7      
+
+LGPR1  L GEN PMG RLY1    ATA=24-30  ID=K161      
+
+LGPR2  L GEN PMG RLY2    ATA=24-30  ID=K163      
+
+LHOVH  L RACK OVERHEAT   ATA=21-61               
+
+LHPYL  L PYLON LOOP      ATA=36-00               
+
+LHYDR  L HYDR RESERVOIR  ATA=29-00  ID=MT081     
+
+LIBBV  L IB BK CTRL VLV  ATA=32-44  ID=MPE25     
+
+LIBTS  L I/B TEMP SNSR   ATA=30-00  ID=MT041     
+
+LIBWS  LIB WHL SPD XDCR  ATA=32-44  ID=MT091     
+
+LIBWZ  L IB WHEEL SP     ATA=27-60               
+
+LIHYD  L IB BRAKE HYDR   ATA=32-44               
+
+LIPP   L IB BK PR PULSE  ATA=32-44               
+
+LIPRX  L IB BK PR XDCR2  ATA=32-44  ID=MT099     
+
+LLOG   L LOGIC PCB       ATA=24-30  ID=PCB3      
+
+LMNF   L MAIN FUSE       ATA=24-30  ID=F1        
+
+LNOT   L ENG NOTICE      ATA=71-00               
+
+LOBBV  L OB BK CTRL VLV  ATA=32-44  ID=MPE23     
+
+LOBTS  L O/B TEMP SNSR   ATA=30-00  ID=MT043     
+
+LOBWS  LOB WHL SPD XDCR  ATA=32-44  ID=MT089     
+
+LOBWZ  L OB WHEEL SP     ATA=27-60               
+
+LOHYD  L OB BRAKE HYDR   ATA=32-44               
+
+LOILP  L ENG OIL PROBE   ATA=28-00  ID=MT123     
+
+LOPP   L OB BK PR PULSE  ATA=32-44               
+
+LOPRX  L OB BK PR XDCR1  ATA=32-44  ID=MT097     
+
+LP-LK  L PYLON AIR LEAK  ATA=36-00               
+
+LPBPX  L PLT BK PEDAL X  ATA=32-44  ID=MT093     
+
+LPOSS  L POSITION SNSR   ATA=27-52  ID=MPE77     
+
+LRVDT  RTL RVDT          ATA=27-25  ID=A133      
+
+LSHKR  L STICK SHAKER    ATA=27-35  ID=A179      
+
+LSPCC  L WSLD HEAT SPCC  ATA=30-41  ID=K063      
+
+LSPCR  L WNDW SPC RELAY  ATA=30-41  ID=K065      
+
+LTK8C  L TNK PR 8/COMP   ATA=28-00  ID=MT013     
+
+LTLD   L ENG TLD         ATA=71-00               
+
+LTNK1  L TNK PROBE 1     ATA=28-00  ID=MT001     
+
+LTNK2  L TNK PROBE 2     ATA=28-00  ID=MT003     
+
+LTNK3  L TNK PROBE 3     ATA=28-00  ID=MT005     
+
+LTNK4  L TNK PROBE 4     ATA=28-00  ID=MT007     
+
+LTNK5  L TNK PROBE 5     ATA=28-00  ID=MT009     
+
+LTNK6  L TNK PROBE 6     ATA=28-00  ID=MT011     
+
+LTNK7  L TNK PROBE 7     ATA=28-00  ID=MT017     
+
+LTNKL  L TNK HI LVL      ATA=28-00  ID=MT015     
+
+LWDTC  L WNDW TEMP CTRL  ATA=30-41  ID=A159      
+
+LWGLK  L WING AIR LEAK   ATA=36-00               
+
+LWNDW  L SIDE WINDOW     ATA=30-41  ID=MPE59     
+
+LWSHD  LEFT WINDSHIELD   ATA=30-41  ID=MPE57     
+
+LWSTC  L WSLD TEMP CTRL  ATA=30-41  ID=A157      
+
+MCS3   LBAT CUR SNSR3    ATA=24-30  ID=MPE073    
+
+MCS4   RBAT CUR SNSR4    ATA=24-30  ID=MPE074    
+
+MPNLF  FWD MAINT PNL     ATA=45-45               
+
+MSLV1  MF SPOILER LVDT1  ATA=27-60  ID=MPE39     
+
+MSLV2  MF SPOILER LVDT2  ATA=27-60  ID=MPE37     
+
+MSLV7  MF SPOILER LVDT7  ATA=27-60  ID=MPE36     
+
+MSLV8  MF SPOILER LVDT8  ATA=27-60  ID=MPE38     
+
+MSRV1  MF SPOILER RVDT1  ATA=27-60  ID=MT147     
+
+MSRV2  MF SPOILER RVDT2  ATA=27-60  ID=MT145     
+
+MSRV7  MF SPOILER RVDT7  ATA=27-60  ID=MT144     
+
+MSRV8  MF SPOILER RVDT8  ATA=27-60  ID=MT146     
+
+N1CPL  L ENG N1 COMP     ATA=71-00               
+
+N1CPR  R ENG N1 COMP     ATA=71-00               
+
+N1L    L ENG N1 MONO     ATA=71-00               
+
+N1R    R ENG N1 MONO     ATA=71-00               
+
+N2L    L ENG N2 MONO     ATA=71-00               
+
+N2R    R ENG N2 MONO     ATA=71-00               
+
+NWS    NOSEWHEEL STEER   ATA=32-51  ID=A073      
+
+NWSSV  NWS SELECT VALVE  ATA=32-51  ID=V07       
+
+OBPSW  OB PRESS SWITCH   ATA=32-44  ID=S98       
+
+OBSOV  OB BRAKE SOV      ATA=32-44  ID=MPE28     
+
+OCHPL  L ENG CHIP D/Z    ATA=71-00               
+
+OCHPR  R ENG CHIP D/Z    ATA=71-00               
+
+OFVLV  OUTFLOW VALVE     ATA=21-31  ID=MPE01     
+
+OIBSL  L ENG OIL FILTER  ATA=71-00               
+
+OIBSR  R ENG OIL FILTER  ATA=71-00               
+
+OILTL  L ENG OIL TEMP    ATA=71-00               
+
+OILTR  R ENG OIL TEMP    ATA=71-00               
+
+OPRSL  L ENG OIL PRES    ATA=71-00               
+
+OPRSR  R ENG OIL PRES    ATA=71-00               
+
+OSIDL  L ENG OS ID       ATA=71-00               
+
+OSIDR  R ENG OS ID       ATA=71-00               
+
+P3L    L ENG P3 TUBING   ATA=71-00               
+
+P3R    R ENG P3 TUBING   ATA=71-00               
+
+PBHDL  PB HANDLE         ATA=32-44  ID=A089      
+
+PBPRX  PB PRESS XDCR     ATA=32-44  ID=MT102     
+
+PBPSW  PB PRESS SWITCH   ATA=32-44  ID=S031      
+
+PCWR1  PILOT CW RES 1    ATA=27-60  ID=MT125     
+
+PCWR2  PILOT CW RES 2    ATA=27-60  ID=MT125     
+
+PDTS   PK DISCH T SNSR   ATA=21-61  ID=MT033     
+
+PITS   PK INLET T SNSR   ATA=21-61  ID=MT025     
+
+PK-LK  PACK AIR LEAK     ATA=36-00               
+
+PKBLD  PACK LOOP A       ATA=36-00               
+
+PKOVH  PACK OVERHEAT     ATA=21-61               
+
+PMAL   L ENG PMA         ATA=71-00               
+
+PMAR   R ENG PMA         ATA=71-00               
+
+PSA1   IAPS PWR 1        ATA=22-12  ID=A004      
+
+PSA2   IAPS PWR 2        ATA=22-12  ID=A004      
+
+PTSNS  PACK TEMP SNSR    ATA=21-61  ID=MT031     
+
+PX01   RGWOW1 SNSR       ATA=32-60  ID=PX01      
+
+PX02   LGWOW1 SNSR       ATA=32-60  ID=PX02      
+
+PX03   NGWOFW1 SNSR      ATA=32-60  ID=PX03      
+
+PX04   RGUPLK SNSR       ATA=32-60  ID=PX04      
+
+PX05   LGUPLK SNSR       ATA=32-60  ID=PX05      
+
+PX06   NGUPLK SNSR       ATA=32-60  ID=PX06      
+
+PX08   RGDLK1 SNSR       ATA=32-60  ID=PX08      
+
+PX09   LGDLK1 SNSR       ATA=32-60  ID=PX09      
+
+PX10   NGDLK1 SNSR       ATA=32-60  ID=PX10      
+
+PX13   LOTGSST SNSR      ATA=27-60  ID=PX13      
+
+PX14   ROTGSST SNSR      ATA=27-60  ID=PX14      
+
+PX15   PDRCL SNSR        ATA=52-70  ID=PX15      
+
+PX16   PDRLK1 SNSR       ATA=52-70  ID=PX16      
+
+PX18   PDRHLK SNSR       ATA=52-70  ID=PX18      
+
+PX31   RGWOW2 SNSR       ATA=32-60  ID=PX31      
+
+PX32   LGWOW2 SNSR       ATA=32-60  ID=PX32      
+
+PX33   NGWOFW2 SNSR      ATA=32-60  ID=PX33      
+
+PX34   LNGDRCL SNSR      ATA=32-60  ID=PX34      
+
+PX35   RNGDRCL SNSR      ATA=32-60  ID=PX35      
+
+PX38   RGDLK2 SNSR       ATA=32-60  ID=PX38      
+
+PX39   LGDLK2 SNSR       ATA=32-60  ID=PX39      
+
+PX40   NGDLK2 SNSR       ATA=32-60  ID=PX40      
+
+PX43   LINGSST SNSR      ATA=27-60  ID=PX43      
+
+PX44   RINGSST SNSR      ATA=27-60  ID=PX44      
+
+PX45   BGDRCL SNSR       ATA=52-70  ID=PX45      
+
+PX46   BGDRHLK SNSR      ATA=52-70  ID=PX46      
+
+PX47   AEBDRCL SNSR      ATA=52-70  ID=PX47      
+
+PX48   BABDRCL SNSR      ATA=52-70  ID=PX48      
+
+PX49   ROEDRLK SNSR      ATA=52-70  ID=PX49      
+
+PXVLV  PRECOOLER XVALVE  ATA=21-61  ID=MPE11     
+
+R-BLD  R BLEED LOOP      ATA=36-00               
+
+RABTN  R ALT BARO BTN    ATA=34-13               
+
+RAOA   R AOA SENSOR      ATA=27-35  ID=A142      
+
+RAPC1  R APU GEN CNTOR1  ATA=24-30  ID=K72       
+
+RAPC2  R APU GEN CNTOR2  ATA=24-30  ID=K148      
+
+RARV   RAM AIR REG VLV   ATA=21-61  ID=MPE09     
+
+RAUXC  R AUX BUS CNTOR   ATA=24-30  ID=K76       
+
+RAVLV  RAM AIR VALVE     ATA=21-61  ID=MPE40     
+
+RAXF1  R AUX/MN BUS FUS  ATA=24-30  ID=F6        
+
+RAXF2  R AUX BUS FUSE    ATA=24-30  ID=F12       
+
+RB-LK  R BLEED AIR LEAK  ATA=36-00               
+
+RBAT   RIGHT BATTERY     ATA=24-30  ID=BT2       
+
+RBATC  R BAT CNTOR       ATA=24-30  ID=K74       
+
+RBTC   R BUS TIE CNTOR   ATA=24-30  ID=K80       
+
+RCBPX  R CPLT PEDL X     ATA=32-44  ID=MT096     
+
+RCOLP  R COLLECT PROBE   ATA=28-00  ID=MT108     
+
+RDCMP  R DC MOTOR PUMP   ATA=29-00  ID=A070      
+
+RECFR  R ENG ECFR        ATA=71-00               
+
+RESSC  R ESS CNTOR       ATA=24-30  ID=K78       
+
+RESSF  R ESS FUSE        ATA=24-30  ID=F7        
+
+REXCE  R ENG EXCEEDANCE  ATA=71-00               
+
+RFTB   R TRANSM BRAKE    ATA=27-52  ID=A204      
+
+RGCU   R GEN GCU         ATA=24-30  ID=PCB6      
+
+RGEN   RIGHT GENERATOR   ATA=24-30  ID=G2        
+
+RGLC   R GEN LINE CNTOR  ATA=24-30  ID=K70       
+
+RGPM   R GEN PWR MODULE  ATA=24-30  ID=PCB8      
+
+RGPR1  R GEN PMG RLY1    ATA=24-30  ID=K162      
+
+RGPR2  R GEN PMG RLY2    ATA=24-30  ID=K164      
+
+RHOVH  R RACK OVERHEAT   ATA=21-61               
+
+RHPYL  R PYLON LOOP      ATA=36-00               
+
+RHYDR  R HYDR RESERVOIR  ATA=29-00  ID=MT082     
+
+RIBBV  R IB BK CTRL VLV  ATA=32-44  ID=MPE26     
+
+RIBTS  R I/B TEMP SNSR   ATA=30-00  ID=MT032     
+
+RIBWS  RIB WHL SPD XDCR  ATA=32-44  ID=MT090     
+
+RIBWZ  R IB WHEEL SP     ATA=27-60               
+
+RIHYD  R IB BRAKE HYDR   ATA=32-44               
+
+RIPP   R IB BK PR PULSE  ATA=32-44               
+
+RIPRX  R IB BK PR XDCR3  ATA=32-44  ID=MT100     
+
+RLOG   R LOGIC PCB       ATA=24-30  ID=PCB4      
+
+RMNF   R MAIN FUSE       ATA=24-30  ID=F2        
+
+RNOT   R ENG NOTICE      ATA=71-00               
+
+ROBBV  R OB BK CTRL VLV  ATA=32-44  ID=MPE24     
+
+ROBTS  R O/B TEMP SNSR   ATA=30-00  ID=MT034     
+
+ROBWS  ROB WHL SPD XDCR  ATA=32-44  ID=MT092     
+
+ROBWZ  R OB WHEEL SP     ATA=27-60               
+
+ROHYD  R OB BRAKE HYDR   ATA=32-44               
+
+ROILP  R ENG OIL PROBE   ATA=28-00  ID=MT122     
+
+ROPP   R OB BK PR PULSE  ATA=32-44               
+
+ROPRX  R OB BK PR XDCR4  ATA=32-44  ID=MT098     
+
+RP-LK  R PYLON AIR LEAK  ATA=36-00               
+
+RPBPX  R PLT BK PEDAL X  ATA=32-44  ID=MT095     
+
+RPOSS  R POSITION SNSR   ATA=27-52  ID=MPE78     
+
+RSHKR  R STICK SHAKER    ATA=27-35  ID=A180      
+
+RSPCC  R WSLD HEAT SPCC  ATA=30-41  ID=K064      
+
+RSPCR  R WNDW SPC RELAY  ATA=30-41  ID=K066      
+
+RTK8C  R TNK PR 8/COMP   ATA=28-00  ID=MT014     
+
+RTLD   R ENG TLD         ATA=71-00               
+
+RTNK1  R TNK PROBE 1     ATA=28-00  ID=MT002     
+
+RTNK2  R TNK PROBE 2     ATA=28-00  ID=MT004     
+
+RTNK3  R TNK PROBE 3     ATA=28-00  ID=MT006     
+
+RTNK4  R TNK PROBE 4     ATA=28-00  ID=MT008     
+
+RTNK5  R TNK PROBE 5     ATA=28-00  ID=MT010     
+
+RTNK6  R TNK PROBE 6     ATA=28-00  ID=MT012     
+
+RTNK7  R TNK PROBE 7     ATA=28-00  ID=MT018     
+
+RTNKL  R TNK HI LVL      ATA=28-00  ID=MT016     
+
+RWDTC  R WNDW TEMP CTRL  ATA=30-41  ID=A160      
+
+RWGLK  R WING AIR LEAK   ATA=36-00               
+
+RWNDW  R SIDE WINDOW     ATA=30-41  ID=MPE58     
+
+RWSLD  RIGHT WINDSHIELD  ATA=30-41  ID=MPE56     
+
+RWSTC  R WSLD TEMP CTRL  ATA=30-41  ID=A158      
+
+SBVAL  L ENG SBV A       ATA=71-00               
+
+SBVAR  R ENG SBV A       ATA=71-00               
+
+SBVBL  L ENG SBV B       ATA=71-00               
+
+SBVBR  R ENG SBV B       ATA=71-00               
+
+SBVCL  L ENG SBV C       ATA=71-00               
+
+SBVCR  R ENG SBV C       ATA=71-00               
+
+STPU   STICK PUSHER      ATA=27-35  ID=A181      
+
+SVCM   SYN VISION CFG    ATA=34-34  ID=A234      
+
+TA-LK  TRIM AIR LEAK     ATA=36-00               
+
+TCVLV  TEMP CTRL VLV     ATA=21-61  ID=MPE07     
+
+TDCUL  L ENG TR DCU      ATA=78-00  ID=A081      
+
+TDCUR  R ENG TR DCU      ATA=78-00  ID=A080      
+
+TEHPL  L ENG TR EHPL     ATA=78-00  ID=A081      
+
+TEHPR  R ENG TR EHPL     ATA=78-00  ID=A080      
+
+THYDL  L ENG TR HYDRAUL  ATA=29-00               
+
+THYDR  R ENG TR HYDRAUL  ATA=29-00               
+
+TLDL   L TR L DEPLOY SW  ATA=78-00  ID=A081      
+
+TLDR   R TR L DEPLOY SW  ATA=78-00  ID=A080      
+
+TLDRL  L TR L DOOR       ATA=78-00  ID=A081      
+
+TLDRR  R TR L DOOR       ATA=78-00  ID=A080      
+
+TLLSL  L TR LL STOW SW   ATA=78-00  ID=A081      
+
+TLLSR  R TR LL STOW SW   ATA=78-00  ID=A080      
+
+TLRSL  L TR LR STOW SW   ATA=78-00  ID=A081      
+
+TLRSR  R TR LR STOW SW   ATA=78-00  ID=A080      
+
+TMUXL  L ENG TR MUX      ATA=78-00  ID=A081      
+
+TMUXR  R ENG TR MUX      ATA=78-00  ID=A080      
+
+TPBLD  PACK LOOP B       ATA=36-00               
+
+TPRO   TAT PROBE         ATA=34-13  ID=A016      
+
+TQAL   L ENG THROTTLE    ATA=71-00  ID=A051      
+
+TQAR   R ENG THROTTLE    ATA=71-00  ID=A051      
+
+TRALP  TRIM AIR LOOP     ATA=36-00               
+
+TRICL  L ENG TR ICU      ATA=78-00  ID=A117      
+
+TRICR  R ENG TR ICU      ATA=78-00  ID=A116      
+
+TRTSL  L ENG TR TEST SW  ATA=78-00               
+
+TRTSR  R ENG TR TEST SW  ATA=78-00               
+
+TSSL   TSS LOWER ANT     ATA=34-43  ID=E11       
+
+TSSU   TSS UPPER ANT     ATA=34-43  ID=E10       
+
+TSYSL  L ENG TR SYS      ATA=78-00  ID=A081      
+
+TSYSR  R ENG TR SYS      ATA=78-00  ID=A080      
+
+TT2L   L ENG TT2 SNSR    ATA=71-00               
+
+TT2R   R ENG TT2 SNSR    ATA=71-00               
+
+TTQAL  L ENG TR TQA      ATA=78-00  ID=A051      
+
+TTQAR  R ENG TR TQA      ATA=78-00  ID=A051      
+
+TTRL   TCAS LOWER ANT    ATA=34-43  ID=E011      
+
+TTRU   TCAS UPPER ANT    ATA=34-43  ID=E010      
+
+TUDL   L TR U DEPLOY SW  ATA=78-00  ID=A081      
+
+TUDR   R TR U DEPLOY SW  ATA=78-00  ID=A080      
+
+TUDRL  L TR U DOOR       ATA=78-00  ID=A081      
+
+TUDRR  R TR U DOOR       ATA=78-00  ID=A080      
+
+TULSL  L TR UL STOW SW   ATA=78-00  ID=A081      
+
+TULSR  R TR UL STOW SW   ATA=78-00  ID=A080      
+
+TURSL  L TR UR STOW SW   ATA=78-00  ID=A081      
+
+TURSR  R TR UR STOW SW   ATA=78-00  ID=A080      
+
+VIBL   L ENG VIB SNSR    ATA=71-00               
+
+VIBR   R ENG VIB SNSR    ATA=71-00               
+
+WAILA  L PYLN/WING LOOP  ATA=36-00               
+
+WAILB  L FUSE/WING LOOP  ATA=36-00               
+
+WAIRA  R FUSE/WING LOOP  ATA=36-00               
+
+WAIRB  R PYLN/WING LOOP  ATA=36-00               
+
+WAIV1  WING A/ICE VLV 1  ATA=30-00  ID=MPE13     
+
+WAIV2  WING A/ICE VLV 2  ATA=30-00  ID=MPE12     
+
+WFFL   L ENG FUEL FILT   ATA=71-00               
+
+WFFR   R ENG FUEL FILT   ATA=71-00               
+
+XAPSQ  APU SQUIB         ATA=26-00  ID=A115      
+
+XAPUA  APU FIRE LOOP A   ATA=26-00               
+
+XAPUB  APU FIRE LOOP B   ATA=26-00               
+
+XAPUX  APU FIRE LOOPS    ATA=26-00               
+
+XBTL1  FIREX BOTTLE 1    ATA=26-00  ID=A109      
+
+XBTL2  FIREX BOTTLE 2    ATA=26-00  ID=A110      
+
+XBVLV  XBLEED VALVE      ATA=21-61  ID=MPE02     
+
+XCGO   CARGO SMOKE DET   ATA=26-00  ID=A092      
+
+XEFAL  L ENG FIRE LOOPA  ATA=26-00               
+
+XEFAR  R ENG FIRE LOOPA  ATA=26-00               
+
+XEFBL  L ENG FIRE LOOPB  ATA=26-00               
+
+XEFBR  R ENG FIRE LOOPB  ATA=26-00               
+
+XEFXL  L ENG FIRE LOOPS  ATA=26-00               
+
+XEFXR  R ENG FIRE LOOPS  ATA=26-00               
+
+XLEG1  L ENG BTL1 SQUIB  ATA=26-00  ID=A111      
+
+XLEG2  L ENG BTL2 SQUIB  ATA=26-00  ID=A113      
+
+XMWW   MWW OVHT LOOP     ATA=26-00  ID=A108      
+
+XREG1  R ENG BTL1 SQUIB  ATA=26-00  ID=A112      
+
+XREG2  R ENG BTL2 SQUIB  ATA=26-00  ID=A114      
+
+XWING  WING XVALVE       ATA=30-00  ID=MPE10     
+

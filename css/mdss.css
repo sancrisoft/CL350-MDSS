@@ -1,0 +1,103 @@
+.mdss{
+    padding : 0;
+    margin : 0;
+    border : 0;
+      font-family: "Arial", Arial, sans-serif; 
+    font-size: 16px;
+}
+
+.mdc{
+	width:100%; 
+	background-color:black;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 14.4px;
+}
+
+#joy {
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+	border-style: dotted;
+}
+
+#joy:hover {
+	background-color: yellow;
+	border-style: solid;
+}
+
+.pba-hold {
+	color:red;
+	background-color:black;
+}
+
+th, td {
+    vertical-align: top;
+    background-color:black;
+}
+body{
+    background-image : url('../graphics/splash.png ');
+    background-attachment : fixed;
+    background-size : 100% auto;
+}
+.grid{
+    display : block;
+    width : 1024px;
+    overflow : auto;
+    margin : 3px auto 0 auto;
+}
+.pageHeader{
+background-color : rgba(255, 255, 255, 1);
+    float : left;
+    clear : none;
+    height : 50px;
+    width : 1024px;
+}
+.pageLeft{
+    background-color : rgba(0, 255, 0, 0.5);
+    float : left;
+    clear : none;
+    height : 700px;
+    width : 500px;
+    margin: auto;
+}
+.pageRight{
+    background-color : rgba(0, 0, 255, 0.5);
+    float : right;
+    clear : none;
+    height : 700px;
+    width : 500px;
+}
+.pageFooter{
+    background-color : rgba(255, 255, 255, 1);
+    float : left;
+    clear : none;
+    height : 50px;
+    width : 1024px;
+}
+
+p {  margin-top: 0.1em; margin-bottom: 0em; }
+.panel {
+    background-color: green;
+    float: left;
+    height: 250px;
+    width: 400px;
+}
+.mfdfkey {
+    background-color:black;
+    float: left;
+    font-family: "Arial", Arial, sans-serif; 
+    font-size: 16px;
+   
+}
+.display {
+    
+    background-color: black;
+    color: white;
+    font-family: "Arial", Arial, sans-serif; 
+    font-size: 16px;
+    width: 400px;
+}

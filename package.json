@@ -1,0 +1,35 @@
+{
+  "name": "cl350mdss",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BATraining/CL350-MDSS.git"
+  },
+  "author": "Robert McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BATraining/CL350-MDSS/issues"
+  },
+  "homepage": "https://github.com/BATraining/CL350-MDSS#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "fs-path": "0.0.23",
+    "grunt": "^1.0.1",
+    "grunt-concat": "^0.1.6",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "mocha": "^3.4.1"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "async": "^2.4.0",
+    "fs": "0.0.1-security",
+    "sqlite3": "^3.1.8"
+  }
+}
